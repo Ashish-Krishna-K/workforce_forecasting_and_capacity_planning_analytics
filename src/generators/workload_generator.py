@@ -1,4 +1,7 @@
+import numpy as np
 import pandas as pd
+
+np.random.seed(42)
 
 QUEUE_CONFIG = {
     "Claims": {"base_volume": 850, "base_aht": 450},
@@ -30,10 +33,14 @@ def create_calendar(start_date: str, end_date: str) -> pd.DataFrame:
     start_dt = pd.to_datetime(start_date)
     end_dt = pd.to_datetime(end_date)
     df = pd.date_range(start=start_dt, end=end_dt).to_frame(index=False, name="date")
-    df["dow"] = df["date"].dt.day_name()
-    df["month"] = df["date"].dt.month
+    df["day_index"] = range(len(df))
+    df["dow_num"] = df["date"].dt.dayofweek
+    df["dow_name"] = df["date"].dt.day_name()
+    df["month_num"] = df["date"].dt.month
+    df["month_name"] = df["date"].dt.month_name()
     df["year"] = df["date"].dt.year
     return df
 
 
 calendar_df = create_calendar(start_date="2024-01-01", end_date="2025-12-31")
+print(calendar_df.head(10))
