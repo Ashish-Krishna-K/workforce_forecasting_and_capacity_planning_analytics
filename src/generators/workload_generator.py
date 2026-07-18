@@ -90,9 +90,35 @@ def generate_shrinkage(calendar: pd.DataFrame) -> pd.DataFrame:
     )[["date", "shrinkage_pct"]]
 
 
+def generate_staffing(workload: pd.DataFrame, shrinkage: pd.DataFrame) -> pd.DataFrame:
+    variance_list = [0.85, 0.95, 1.00, 1.05, 1.15]
+    daily_workload = (
+        workload.groupby("date", as_index=False)["workload_seconds"]
+        .sum()
+        .assign(
+            workload_hours=lambda df: df["workload_seconds"] / 3600,
+        )
+    )
+    return pd.merge(daily_workload, shrinkage, on="date").assign(
+        required_fte=lambda df: (df["workload_hours"] / 8).round(1),
+        shrinkage_adjusted_fte=lambda df: (
+            df["required_fte"] / (1 - df["shrinkage_pct"])
+        ).round(1),
+        scheduled_fte=lambda df: (
+            (
+                df["shrinkage_adjusted_fte"]
+                * (np.random.choice(variance_list, size=len(df)))
+            )
+            .round()
+            .astype(int)
+        ),
+    )[["date", "required_fte", "shrinkage_adjusted_fte", "scheduled_fte"]]
+
+
 calendar_df = create_calendar(start_date="2024-01-01", end_date="2025-12-31")
+print(calendar_df.head(10))
 workload_df = generate_workload(calendar_df)
-# print(workload_df.head(10))
+print(workload_df.head(10))
 # print(len(workload_df))
 # print(workload_df["date"].min(), workload_df["date"].max())
 # print(workload_df["queue"].value_counts())
@@ -101,5 +127,7 @@ workload_df = generate_workload(calendar_df)
 # print(workload_df.groupby(pd.Grouper(key="date", freq="ME"))["volume"].sum())
 shrinkage_df = generate_shrinkage(calendar_df)
 print(shrinkage_df.head(10))
-print(shrinkage_df["shrinkage_pct"].describe())
-print(shrinkage_df.groupby(shrinkage_df["date"].dt.month)["shrinkage_pct"].mean())
+# print(shrinkage_df["shrinkage_pct"].describe())
+# print(shrinkage_df.groupby(shrinkage_df["date"].dt.month)["shrinkage_pct"].mean())
+staffing_df = generate_staffing(workload_df, shrinkage_df)
+print(staffing_df.head(10))
