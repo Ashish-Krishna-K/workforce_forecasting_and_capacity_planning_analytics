@@ -257,6 +257,8 @@ def export_to_csv(
     output_path: Path,
 ) -> None:
 
+    output_dir.mkdir(parents=True, exist_ok=True)
+
     workload_file_path = output_path / "fact_workload.csv"
     workload[["date", "queue", "volume", "aht_seconds"]].to_csv(
         workload_file_path, index=False
