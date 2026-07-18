@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 
@@ -115,19 +117,55 @@ def generate_staffing(workload: pd.DataFrame, shrinkage: pd.DataFrame) -> pd.Dat
     )[["date", "required_fte", "shrinkage_adjusted_fte", "scheduled_fte"]]
 
 
+def export_to_csv(
+    workload: pd.DataFrame,
+    shrinkage: pd.DataFrame,
+    staffing: pd.DataFrame,
+    output_path: Path,
+) -> None:
+
+    workload_file_path = output_path / "fact_workload.csv"
+    workload[["date", "queue", "volume", "aht_seconds"]].to_csv(
+        workload_file_path, index=False
+    )
+    print(f"Created {workload_file_path}")
+
+    shrinkage_file_path = output_path / "shrinkage.csv"
+    shrinkage[["date", "shrinkage_pct"]].to_csv(shrinkage_file_path, index=False)
+    print(f"Created {shrinkage_file_path}")
+
+    staffing_file_path = output_path / "staffing_plan.csv"
+    staffing[["date", "scheduled_fte"]].to_csv(staffing_file_path, index=False)
+    print(f"Created {staffing_file_path}")
+
+
 calendar_df = create_calendar(start_date="2024-01-01", end_date="2025-12-31")
 print(calendar_df.head(10))
+
 workload_df = generate_workload(calendar_df)
 print(workload_df.head(10))
-# print(len(workload_df))
-# print(workload_df["date"].min(), workload_df["date"].max())
-# print(workload_df["queue"].value_counts())
-# print(workload_df.groupby("queue")["volume"].describe())
-# print(workload_df.groupby("date")["volume"].sum())
-# print(workload_df.groupby(pd.Grouper(key="date", freq="ME"))["volume"].sum())
+print(len(workload_df))
+print(workload_df["date"].min(), workload_df["date"].max())
+print(workload_df["queue"].value_counts())
+print(workload_df.groupby("queue")["volume"].describe())
+print(workload_df.groupby("date")["volume"].sum())
+print(workload_df.groupby(pd.Grouper(key="date", freq="ME"))["volume"].sum())
+
 shrinkage_df = generate_shrinkage(calendar_df)
 print(shrinkage_df.head(10))
-# print(shrinkage_df["shrinkage_pct"].describe())
-# print(shrinkage_df.groupby(shrinkage_df["date"].dt.month)["shrinkage_pct"].mean())
+print(shrinkage_df["shrinkage_pct"].describe())
+print(shrinkage_df.groupby(shrinkage_df["date"].dt.month)["shrinkage_pct"].mean())
+
 staffing_df = generate_staffing(workload_df, shrinkage_df)
 print(staffing_df.head(10))
+
+output_dir = (
+    Path.home()
+    / "da_projects/workforce_forecasting_and_capacity_planning_analytics/data/raw"
+)
+export_to_csv(
+    workload=workload_df,
+    shrinkage=shrinkage_df,
+    staffing=staffing_df,
+    output_path=output_dir,
+)
