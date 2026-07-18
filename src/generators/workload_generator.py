@@ -74,12 +74,32 @@ def generate_workload(calendar: pd.DataFrame) -> pd.DataFrame:
     )[["date", "queue", "volume", "aht_seconds", "workload_seconds"]]
 
 
+def generate_shrinkage(calendar: pd.DataFrame) -> pd.DataFrame:
+    base_shrinkage_map = {
+        i: 0.33 if i == 12 else 0.31 if i in (6, 7, 8) else 0.3 for i in range(1, 13)
+    }
+    return calendar.assign(
+        shrinkage_pct=lambda df: (
+            (
+                df["month_num"].map(base_shrinkage_map)
+                + (np.random.normal(loc=0, scale=0.015, size=len(df)))
+            )
+            .clip(lower=0.25, upper=0.4)
+            .round(4)
+        )
+    )[["date", "shrinkage_pct"]]
+
+
 calendar_df = create_calendar(start_date="2024-01-01", end_date="2025-12-31")
 workload_df = generate_workload(calendar_df)
-print(workload_df.head(10))
-print(len(workload_df))
-print(workload_df["date"].min(), workload_df["date"].max())
-print(workload_df["queue"].value_counts())
-print(workload_df.groupby("queue")["volume"].describe())
-print(workload_df.groupby("date")["volume"].sum())
-print(workload_df.groupby(pd.Grouper(key="date", freq="ME"))["volume"].sum())
+# print(workload_df.head(10))
+# print(len(workload_df))
+# print(workload_df["date"].min(), workload_df["date"].max())
+# print(workload_df["queue"].value_counts())
+# print(workload_df.groupby("queue")["volume"].describe())
+# print(workload_df.groupby("date")["volume"].sum())
+# print(workload_df.groupby(pd.Grouper(key="date", freq="ME"))["volume"].sum())
+shrinkage_df = generate_shrinkage(calendar_df)
+print(shrinkage_df.head(10))
+print(shrinkage_df["shrinkage_pct"].describe())
+print(shrinkage_df.groupby(shrinkage_df["date"].dt.month)["shrinkage_pct"].mean())
