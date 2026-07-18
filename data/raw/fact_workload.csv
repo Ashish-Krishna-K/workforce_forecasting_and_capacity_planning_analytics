@@ -1,0 +1,3656 @@
+date,queue,volume,aht_seconds
+2024-01-01,Claims,1061,458
+2024-01-01,Billing,771,300
+2024-01-01,Customer Service,1515,313
+2024-01-01,Escalations,202,706
+2024-01-01,Technical Support,530,666
+2024-01-02,Claims,959,442
+2024-01-02,Billing,842,289
+2024-01-02,Customer Service,1465,357
+2024-01-02,Escalations,166,711
+2024-01-02,Technical Support,540,636
+2024-01-03,Claims,860,422
+2024-01-03,Billing,657,311
+2024-01-03,Customer Service,1285,360
+2024-01-03,Escalations,133,695
+2024-01-03,Technical Support,407,610
+2024-01-04,Claims,812,473
+2024-01-04,Billing,598,313
+2024-01-04,Customer Service,1231,330
+2024-01-04,Escalations,139,729
+2024-01-04,Technical Support,399,598
+2024-01-05,Claims,855,452
+2024-01-05,Billing,575,301
+2024-01-05,Customer Service,1086,347
+2024-01-05,Escalations,120,742
+2024-01-05,Technical Support,388,597
+2024-01-06,Claims,601,425
+2024-01-06,Billing,413,294
+2024-01-06,Customer Service,866,353
+2024-01-06,Escalations,100,743
+2024-01-06,Technical Support,308,618
+2024-01-07,Claims,405,431
+2024-01-07,Billing,373,337
+2024-01-07,Customer Service,600,355
+2024-01-07,Escalations,69,745
+2024-01-07,Technical Support,240,595
+2024-01-08,Claims,921,462
+2024-01-08,Billing,794,313
+2024-01-08,Customer Service,1215,371
+2024-01-08,Escalations,161,737
+2024-01-08,Technical Support,549,626
+2024-01-09,Claims,1036,443
+2024-01-09,Billing,758,291
+2024-01-09,Customer Service,1368,356
+2024-01-09,Escalations,168,733
+2024-01-09,Technical Support,457,593
+2024-01-10,Claims,842,474
+2024-01-10,Billing,658,322
+2024-01-10,Customer Service,1368,334
+2024-01-10,Escalations,162,671
+2024-01-10,Technical Support,406,596
+2024-01-11,Claims,873,457
+2024-01-11,Billing,631,292
+2024-01-11,Customer Service,1136,374
+2024-01-11,Escalations,158,715
+2024-01-11,Technical Support,488,601
+2024-01-12,Claims,823,418
+2024-01-12,Billing,546,280
+2024-01-12,Customer Service,1055,355
+2024-01-12,Escalations,139,625
+2024-01-12,Technical Support,437,630
+2024-01-13,Claims,573,446
+2024-01-13,Billing,449,349
+2024-01-13,Customer Service,767,390
+2024-01-13,Escalations,95,694
+2024-01-13,Technical Support,336,597
+2024-01-14,Claims,472,472
+2024-01-14,Billing,324,326
+2024-01-14,Customer Service,649,321
+2024-01-14,Escalations,77,637
+2024-01-14,Technical Support,214,581
+2024-01-15,Claims,1051,463
+2024-01-15,Billing,877,307
+2024-01-15,Customer Service,1438,369
+2024-01-15,Escalations,203,658
+2024-01-15,Technical Support,427,531
+2024-01-16,Claims,1043,469
+2024-01-16,Billing,754,288
+2024-01-16,Customer Service,1349,315
+2024-01-16,Escalations,174,705
+2024-01-16,Technical Support,436,624
+2024-01-17,Claims,878,447
+2024-01-17,Billing,703,293
+2024-01-17,Customer Service,1411,347
+2024-01-17,Escalations,151,687
+2024-01-17,Technical Support,443,560
+2024-01-18,Claims,817,434
+2024-01-18,Billing,699,308
+2024-01-18,Customer Service,1234,356
+2024-01-18,Escalations,144,706
+2024-01-18,Technical Support,469,570
+2024-01-19,Claims,772,446
+2024-01-19,Billing,632,267
+2024-01-19,Customer Service,1021,353
+2024-01-19,Escalations,132,750
+2024-01-19,Technical Support,393,556
+2024-01-20,Claims,526,437
+2024-01-20,Billing,467,305
+2024-01-20,Customer Service,859,372
+2024-01-20,Escalations,105,684
+2024-01-20,Technical Support,310,579
+2024-01-21,Claims,378,406
+2024-01-21,Billing,315,302
+2024-01-21,Customer Service,585,386
+2024-01-21,Escalations,70,710
+2024-01-21,Technical Support,223,599
+2024-01-22,Claims,1055,457
+2024-01-22,Billing,900,300
+2024-01-22,Customer Service,1463,336
+2024-01-22,Escalations,184,729
+2024-01-22,Technical Support,538,607
+2024-01-23,Claims,829,450
+2024-01-23,Billing,748,285
+2024-01-23,Customer Service,1390,373
+2024-01-23,Escalations,207,723
+2024-01-23,Technical Support,511,583
+2024-01-24,Claims,916,473
+2024-01-24,Billing,682,293
+2024-01-24,Customer Service,1145,336
+2024-01-24,Escalations,172,673
+2024-01-24,Technical Support,502,547
+2024-01-25,Claims,906,461
+2024-01-25,Billing,604,273
+2024-01-25,Customer Service,1338,329
+2024-01-25,Escalations,134,627
+2024-01-25,Technical Support,472,597
+2024-01-26,Claims,902,447
+2024-01-26,Billing,540,295
+2024-01-26,Customer Service,1034,332
+2024-01-26,Escalations,136,659
+2024-01-26,Technical Support,390,614
+2024-01-27,Claims,523,438
+2024-01-27,Billing,459,305
+2024-01-27,Customer Service,771,335
+2024-01-27,Escalations,109,706
+2024-01-27,Technical Support,293,639
+2024-01-28,Claims,479,463
+2024-01-28,Billing,306,294
+2024-01-28,Customer Service,586,355
+2024-01-28,Escalations,80,692
+2024-01-28,Technical Support,203,600
+2024-01-29,Claims,1042,443
+2024-01-29,Billing,864,298
+2024-01-29,Customer Service,1259,354
+2024-01-29,Escalations,183,665
+2024-01-29,Technical Support,553,570
+2024-01-30,Claims,1042,419
+2024-01-30,Billing,676,276
+2024-01-30,Customer Service,1238,329
+2024-01-30,Escalations,180,706
+2024-01-30,Technical Support,531,573
+2024-01-31,Claims,913,462
+2024-01-31,Billing,704,301
+2024-01-31,Customer Service,1195,316
+2024-01-31,Escalations,161,723
+2024-01-31,Technical Support,485,624
+2024-02-01,Claims,788,428
+2024-02-01,Billing,735,306
+2024-02-01,Customer Service,1225,335
+2024-02-01,Escalations,133,703
+2024-02-01,Technical Support,466,562
+2024-02-02,Claims,694,410
+2024-02-02,Billing,612,294
+2024-02-02,Customer Service,1161,348
+2024-02-02,Escalations,124,686
+2024-02-02,Technical Support,429,564
+2024-02-03,Claims,605,441
+2024-02-03,Billing,477,304
+2024-02-03,Customer Service,952,349
+2024-02-03,Escalations,101,706
+2024-02-03,Technical Support,291,580
+2024-02-04,Claims,388,476
+2024-02-04,Billing,299,282
+2024-02-04,Customer Service,587,359
+2024-02-04,Escalations,76,741
+2024-02-04,Technical Support,226,614
+2024-02-05,Claims,1070,445
+2024-02-05,Billing,768,292
+2024-02-05,Customer Service,1581,368
+2024-02-05,Escalations,173,650
+2024-02-05,Technical Support,647,571
+2024-02-06,Claims,1010,441
+2024-02-06,Billing,685,319
+2024-02-06,Customer Service,1241,357
+2024-02-06,Escalations,176,666
+2024-02-06,Technical Support,500,591
+2024-02-07,Claims,928,436
+2024-02-07,Billing,697,289
+2024-02-07,Customer Service,1233,367
+2024-02-07,Escalations,144,652
+2024-02-07,Technical Support,409,648
+2024-02-08,Claims,807,469
+2024-02-08,Billing,683,316
+2024-02-08,Customer Service,1201,342
+2024-02-08,Escalations,133,695
+2024-02-08,Technical Support,449,557
+2024-02-09,Claims,776,438
+2024-02-09,Billing,535,307
+2024-02-09,Customer Service,1076,373
+2024-02-09,Escalations,133,661
+2024-02-09,Technical Support,362,589
+2024-02-10,Claims,602,447
+2024-02-10,Billing,468,279
+2024-02-10,Customer Service,898,360
+2024-02-10,Escalations,112,675
+2024-02-10,Technical Support,276,594
+2024-02-11,Claims,387,440
+2024-02-11,Billing,333,288
+2024-02-11,Customer Service,615,350
+2024-02-11,Escalations,77,692
+2024-02-11,Technical Support,290,589
+2024-02-12,Claims,1050,434
+2024-02-12,Billing,838,305
+2024-02-12,Customer Service,1526,379
+2024-02-12,Escalations,186,705
+2024-02-12,Technical Support,518,630
+2024-02-13,Claims,1021,419
+2024-02-13,Billing,690,302
+2024-02-13,Customer Service,1333,331
+2024-02-13,Escalations,163,648
+2024-02-13,Technical Support,513,578
+2024-02-14,Claims,1042,477
+2024-02-14,Billing,572,314
+2024-02-14,Customer Service,1309,354
+2024-02-14,Escalations,135,646
+2024-02-14,Technical Support,448,594
+2024-02-15,Claims,910,457
+2024-02-15,Billing,643,303
+2024-02-15,Customer Service,1080,318
+2024-02-15,Escalations,139,669
+2024-02-15,Technical Support,467,598
+2024-02-16,Claims,709,462
+2024-02-16,Billing,586,267
+2024-02-16,Customer Service,1068,347
+2024-02-16,Escalations,126,705
+2024-02-16,Technical Support,467,625
+2024-02-17,Claims,616,466
+2024-02-17,Billing,376,309
+2024-02-17,Customer Service,840,336
+2024-02-17,Escalations,98,633
+2024-02-17,Technical Support,331,588
+2024-02-18,Claims,392,473
+2024-02-18,Billing,317,321
+2024-02-18,Customer Service,615,362
+2024-02-18,Escalations,79,715
+2024-02-18,Technical Support,200,611
+2024-02-19,Claims,978,437
+2024-02-19,Billing,739,298
+2024-02-19,Customer Service,1345,379
+2024-02-19,Escalations,202,667
+2024-02-19,Technical Support,549,648
+2024-02-20,Claims,866,443
+2024-02-20,Billing,791,320
+2024-02-20,Customer Service,1591,325
+2024-02-20,Escalations,184,721
+2024-02-20,Technical Support,448,578
+2024-02-21,Claims,845,418
+2024-02-21,Billing,741,303
+2024-02-21,Customer Service,1171,368
+2024-02-21,Escalations,161,670
+2024-02-21,Technical Support,494,555
+2024-02-22,Claims,776,448
+2024-02-22,Billing,638,299
+2024-02-22,Customer Service,876,360
+2024-02-22,Escalations,136,733
+2024-02-22,Technical Support,435,598
+2024-02-23,Claims,679,492
+2024-02-23,Billing,652,303
+2024-02-23,Customer Service,943,344
+2024-02-23,Escalations,128,644
+2024-02-23,Technical Support,403,592
+2024-02-24,Claims,654,442
+2024-02-24,Billing,397,314
+2024-02-24,Customer Service,905,358
+2024-02-24,Escalations,104,659
+2024-02-24,Technical Support,286,605
+2024-02-25,Claims,434,465
+2024-02-25,Billing,326,323
+2024-02-25,Customer Service,563,366
+2024-02-25,Escalations,74,727
+2024-02-25,Technical Support,215,602
+2024-02-26,Claims,1015,459
+2024-02-26,Billing,810,319
+2024-02-26,Customer Service,1600,327
+2024-02-26,Escalations,160,688
+2024-02-26,Technical Support,623,577
+2024-02-27,Claims,813,459
+2024-02-27,Billing,728,318
+2024-02-27,Customer Service,1425,340
+2024-02-27,Escalations,174,616
+2024-02-27,Technical Support,485,588
+2024-02-28,Claims,866,471
+2024-02-28,Billing,647,308
+2024-02-28,Customer Service,1184,357
+2024-02-28,Escalations,166,690
+2024-02-28,Technical Support,479,562
+2024-02-29,Claims,792,462
+2024-02-29,Billing,687,287
+2024-02-29,Customer Service,1213,388
+2024-02-29,Escalations,158,720
+2024-02-29,Technical Support,466,583
+2024-03-01,Claims,719,436
+2024-03-01,Billing,562,299
+2024-03-01,Customer Service,1152,346
+2024-03-01,Escalations,143,739
+2024-03-01,Technical Support,407,606
+2024-03-02,Claims,605,434
+2024-03-02,Billing,505,328
+2024-03-02,Customer Service,806,351
+2024-03-02,Escalations,110,727
+2024-03-02,Technical Support,312,582
+2024-03-03,Claims,420,458
+2024-03-03,Billing,356,305
+2024-03-03,Customer Service,644,317
+2024-03-03,Escalations,80,771
+2024-03-03,Technical Support,250,639
+2024-03-04,Claims,1029,441
+2024-03-04,Billing,828,283
+2024-03-04,Customer Service,1414,356
+2024-03-04,Escalations,186,703
+2024-03-04,Technical Support,538,611
+2024-03-05,Claims,992,454
+2024-03-05,Billing,789,308
+2024-03-05,Customer Service,1299,375
+2024-03-05,Escalations,203,720
+2024-03-05,Technical Support,479,569
+2024-03-06,Claims,812,481
+2024-03-06,Billing,751,325
+2024-03-06,Customer Service,1349,405
+2024-03-06,Escalations,167,661
+2024-03-06,Technical Support,500,607
+2024-03-07,Claims,855,403
+2024-03-07,Billing,608,308
+2024-03-07,Customer Service,1216,340
+2024-03-07,Escalations,143,767
+2024-03-07,Technical Support,489,577
+2024-03-08,Claims,762,412
+2024-03-08,Billing,550,293
+2024-03-08,Customer Service,1060,315
+2024-03-08,Escalations,140,726
+2024-03-08,Technical Support,390,538
+2024-03-09,Claims,560,451
+2024-03-09,Billing,467,269
+2024-03-09,Customer Service,863,344
+2024-03-09,Escalations,101,758
+2024-03-09,Technical Support,305,611
+2024-03-10,Claims,436,431
+2024-03-10,Billing,290,300
+2024-03-10,Customer Service,536,350
+2024-03-10,Escalations,71,717
+2024-03-10,Technical Support,223,559
+2024-03-11,Claims,1053,463
+2024-03-11,Billing,879,259
+2024-03-11,Customer Service,1551,339
+2024-03-11,Escalations,179,683
+2024-03-11,Technical Support,543,619
+2024-03-12,Claims,906,451
+2024-03-12,Billing,752,279
+2024-03-12,Customer Service,1359,333
+2024-03-12,Escalations,178,707
+2024-03-12,Technical Support,487,598
+2024-03-13,Claims,937,437
+2024-03-13,Billing,772,293
+2024-03-13,Customer Service,1259,362
+2024-03-13,Escalations,164,682
+2024-03-13,Technical Support,503,597
+2024-03-14,Claims,829,499
+2024-03-14,Billing,667,279
+2024-03-14,Customer Service,1211,318
+2024-03-14,Escalations,152,727
+2024-03-14,Technical Support,426,580
+2024-03-15,Claims,773,443
+2024-03-15,Billing,613,288
+2024-03-15,Customer Service,1215,345
+2024-03-15,Escalations,147,756
+2024-03-15,Technical Support,479,624
+2024-03-16,Claims,563,469
+2024-03-16,Billing,491,279
+2024-03-16,Customer Service,859,330
+2024-03-16,Escalations,124,601
+2024-03-16,Technical Support,297,576
+2024-03-17,Claims,400,472
+2024-03-17,Billing,312,308
+2024-03-17,Customer Service,502,346
+2024-03-17,Escalations,72,699
+2024-03-17,Technical Support,213,579
+2024-03-18,Claims,1041,455
+2024-03-18,Billing,808,311
+2024-03-18,Customer Service,1670,322
+2024-03-18,Escalations,195,710
+2024-03-18,Technical Support,519,628
+2024-03-19,Claims,915,441
+2024-03-19,Billing,784,311
+2024-03-19,Customer Service,1245,399
+2024-03-19,Escalations,199,696
+2024-03-19,Technical Support,571,612
+2024-03-20,Claims,866,433
+2024-03-20,Billing,594,303
+2024-03-20,Customer Service,1409,358
+2024-03-20,Escalations,157,707
+2024-03-20,Technical Support,524,569
+2024-03-21,Claims,748,455
+2024-03-21,Billing,624,322
+2024-03-21,Customer Service,1211,358
+2024-03-21,Escalations,152,734
+2024-03-21,Technical Support,438,593
+2024-03-22,Claims,810,467
+2024-03-22,Billing,540,304
+2024-03-22,Customer Service,1077,333
+2024-03-22,Escalations,138,711
+2024-03-22,Technical Support,425,570
+2024-03-23,Claims,635,436
+2024-03-23,Billing,418,303
+2024-03-23,Customer Service,744,355
+2024-03-23,Escalations,117,658
+2024-03-23,Technical Support,326,632
+2024-03-24,Claims,403,463
+2024-03-24,Billing,369,289
+2024-03-24,Customer Service,611,323
+2024-03-24,Escalations,83,695
+2024-03-24,Technical Support,228,587
+2024-03-25,Claims,1199,453
+2024-03-25,Billing,898,295
+2024-03-25,Customer Service,1424,315
+2024-03-25,Escalations,196,686
+2024-03-25,Technical Support,573,591
+2024-03-26,Claims,1095,464
+2024-03-26,Billing,696,290
+2024-03-26,Customer Service,1469,379
+2024-03-26,Escalations,189,633
+2024-03-26,Technical Support,449,639
+2024-03-27,Claims,816,445
+2024-03-27,Billing,577,313
+2024-03-27,Customer Service,1244,351
+2024-03-27,Escalations,168,740
+2024-03-27,Technical Support,534,588
+2024-03-28,Claims,863,425
+2024-03-28,Billing,742,321
+2024-03-28,Customer Service,1078,348
+2024-03-28,Escalations,131,708
+2024-03-28,Technical Support,452,637
+2024-03-29,Claims,796,427
+2024-03-29,Billing,589,309
+2024-03-29,Customer Service,910,340
+2024-03-29,Escalations,135,695
+2024-03-29,Technical Support,366,602
+2024-03-30,Claims,633,416
+2024-03-30,Billing,473,288
+2024-03-30,Customer Service,784,374
+2024-03-30,Escalations,102,731
+2024-03-30,Technical Support,291,598
+2024-03-31,Claims,427,455
+2024-03-31,Billing,353,296
+2024-03-31,Customer Service,558,374
+2024-03-31,Escalations,79,693
+2024-03-31,Technical Support,218,607
+2024-04-01,Claims,1042,476
+2024-04-01,Billing,844,288
+2024-04-01,Customer Service,1441,377
+2024-04-01,Escalations,188,646
+2024-04-01,Technical Support,533,649
+2024-04-02,Claims,1234,442
+2024-04-02,Billing,818,296
+2024-04-02,Customer Service,1421,317
+2024-04-02,Escalations,191,684
+2024-04-02,Technical Support,559,569
+2024-04-03,Claims,956,436
+2024-04-03,Billing,781,298
+2024-04-03,Customer Service,1458,367
+2024-04-03,Escalations,165,707
+2024-04-03,Technical Support,492,609
+2024-04-04,Claims,907,425
+2024-04-04,Billing,579,287
+2024-04-04,Customer Service,1151,381
+2024-04-04,Escalations,182,674
+2024-04-04,Technical Support,556,650
+2024-04-05,Claims,818,445
+2024-04-05,Billing,668,300
+2024-04-05,Customer Service,1208,369
+2024-04-05,Escalations,184,745
+2024-04-05,Technical Support,482,597
+2024-04-06,Claims,643,441
+2024-04-06,Billing,459,299
+2024-04-06,Customer Service,799,356
+2024-04-06,Escalations,116,731
+2024-04-06,Technical Support,323,600
+2024-04-07,Claims,411,464
+2024-04-07,Billing,336,325
+2024-04-07,Customer Service,598,357
+2024-04-07,Escalations,93,711
+2024-04-07,Technical Support,263,554
+2024-04-08,Claims,1113,391
+2024-04-08,Billing,952,306
+2024-04-08,Customer Service,1582,348
+2024-04-08,Escalations,183,682
+2024-04-08,Technical Support,661,607
+2024-04-09,Claims,1113,449
+2024-04-09,Billing,748,317
+2024-04-09,Customer Service,1484,352
+2024-04-09,Escalations,175,674
+2024-04-09,Technical Support,502,630
+2024-04-10,Claims,1047,445
+2024-04-10,Billing,859,308
+2024-04-10,Customer Service,1222,342
+2024-04-10,Escalations,180,677
+2024-04-10,Technical Support,489,603
+2024-04-11,Claims,892,450
+2024-04-11,Billing,676,307
+2024-04-11,Customer Service,1220,345
+2024-04-11,Escalations,164,636
+2024-04-11,Technical Support,459,587
+2024-04-12,Claims,853,468
+2024-04-12,Billing,636,296
+2024-04-12,Customer Service,1157,346
+2024-04-12,Escalations,137,735
+2024-04-12,Technical Support,422,579
+2024-04-13,Claims,689,415
+2024-04-13,Billing,517,298
+2024-04-13,Customer Service,846,342
+2024-04-13,Escalations,116,666
+2024-04-13,Technical Support,365,595
+2024-04-14,Claims,402,461
+2024-04-14,Billing,370,300
+2024-04-14,Customer Service,621,355
+2024-04-14,Escalations,86,763
+2024-04-14,Technical Support,231,590
+2024-04-15,Claims,953,456
+2024-04-15,Billing,741,292
+2024-04-15,Customer Service,1579,335
+2024-04-15,Escalations,201,680
+2024-04-15,Technical Support,547,586
+2024-04-16,Claims,1123,458
+2024-04-16,Billing,708,335
+2024-04-16,Customer Service,1500,337
+2024-04-16,Escalations,170,685
+2024-04-16,Technical Support,536,598
+2024-04-17,Claims,979,459
+2024-04-17,Billing,694,304
+2024-04-17,Customer Service,1334,372
+2024-04-17,Escalations,186,615
+2024-04-17,Technical Support,492,528
+2024-04-18,Claims,991,439
+2024-04-18,Billing,646,316
+2024-04-18,Customer Service,1367,323
+2024-04-18,Escalations,183,595
+2024-04-18,Technical Support,395,617
+2024-04-19,Claims,783,455
+2024-04-19,Billing,669,284
+2024-04-19,Customer Service,1161,333
+2024-04-19,Escalations,152,666
+2024-04-19,Technical Support,421,603
+2024-04-20,Claims,655,436
+2024-04-20,Billing,491,307
+2024-04-20,Customer Service,1004,300
+2024-04-20,Escalations,117,670
+2024-04-20,Technical Support,354,566
+2024-04-21,Claims,449,444
+2024-04-21,Billing,341,292
+2024-04-21,Customer Service,633,364
+2024-04-21,Escalations,85,635
+2024-04-21,Technical Support,238,601
+2024-04-22,Claims,1141,463
+2024-04-22,Billing,994,328
+2024-04-22,Customer Service,1684,342
+2024-04-22,Escalations,192,711
+2024-04-22,Technical Support,647,546
+2024-04-23,Claims,1034,396
+2024-04-23,Billing,684,313
+2024-04-23,Customer Service,1387,350
+2024-04-23,Escalations,160,741
+2024-04-23,Technical Support,550,559
+2024-04-24,Claims,977,462
+2024-04-24,Billing,846,328
+2024-04-24,Customer Service,1414,357
+2024-04-24,Escalations,169,710
+2024-04-24,Technical Support,551,600
+2024-04-25,Claims,765,415
+2024-04-25,Billing,724,320
+2024-04-25,Customer Service,1393,339
+2024-04-25,Escalations,145,718
+2024-04-25,Technical Support,537,553
+2024-04-26,Claims,859,423
+2024-04-26,Billing,619,322
+2024-04-26,Customer Service,1241,344
+2024-04-26,Escalations,174,751
+2024-04-26,Technical Support,449,598
+2024-04-27,Claims,664,409
+2024-04-27,Billing,479,313
+2024-04-27,Customer Service,856,340
+2024-04-27,Escalations,122,724
+2024-04-27,Technical Support,321,601
+2024-04-28,Claims,468,415
+2024-04-28,Billing,342,302
+2024-04-28,Customer Service,682,388
+2024-04-28,Escalations,84,717
+2024-04-28,Technical Support,267,598
+2024-04-29,Claims,1070,474
+2024-04-29,Billing,835,303
+2024-04-29,Customer Service,1452,354
+2024-04-29,Escalations,190,662
+2024-04-29,Technical Support,609,607
+2024-04-30,Claims,1134,473
+2024-04-30,Billing,758,287
+2024-04-30,Customer Service,1615,375
+2024-04-30,Escalations,209,697
+2024-04-30,Technical Support,585,573
+2024-05-01,Claims,1165,472
+2024-05-01,Billing,727,296
+2024-05-01,Customer Service,1288,363
+2024-05-01,Escalations,153,690
+2024-05-01,Technical Support,600,598
+2024-05-02,Claims,1015,461
+2024-05-02,Billing,734,304
+2024-05-02,Customer Service,1392,315
+2024-05-02,Escalations,155,661
+2024-05-02,Technical Support,611,628
+2024-05-03,Claims,877,447
+2024-05-03,Billing,670,292
+2024-05-03,Customer Service,1297,326
+2024-05-03,Escalations,159,662
+2024-05-03,Technical Support,468,539
+2024-05-04,Claims,633,448
+2024-05-04,Billing,536,291
+2024-05-04,Customer Service,1097,333
+2024-05-04,Escalations,132,698
+2024-05-04,Technical Support,403,611
+2024-05-05,Claims,463,497
+2024-05-05,Billing,340,277
+2024-05-05,Customer Service,674,370
+2024-05-05,Escalations,86,734
+2024-05-05,Technical Support,278,577
+2024-05-06,Claims,1001,455
+2024-05-06,Billing,994,293
+2024-05-06,Customer Service,1614,353
+2024-05-06,Escalations,197,753
+2024-05-06,Technical Support,563,618
+2024-05-07,Claims,963,461
+2024-05-07,Billing,905,294
+2024-05-07,Customer Service,1576,324
+2024-05-07,Escalations,176,693
+2024-05-07,Technical Support,527,636
+2024-05-08,Claims,986,416
+2024-05-08,Billing,879,284
+2024-05-08,Customer Service,1401,352
+2024-05-08,Escalations,157,666
+2024-05-08,Technical Support,526,576
+2024-05-09,Claims,944,440
+2024-05-09,Billing,579,280
+2024-05-09,Customer Service,1357,333
+2024-05-09,Escalations,167,725
+2024-05-09,Technical Support,540,561
+2024-05-10,Claims,998,414
+2024-05-10,Billing,724,291
+2024-05-10,Customer Service,1200,363
+2024-05-10,Escalations,140,693
+2024-05-10,Technical Support,555,586
+2024-05-11,Claims,679,451
+2024-05-11,Billing,517,274
+2024-05-11,Customer Service,952,359
+2024-05-11,Escalations,121,713
+2024-05-11,Technical Support,354,588
+2024-05-12,Claims,461,473
+2024-05-12,Billing,353,283
+2024-05-12,Customer Service,680,370
+2024-05-12,Escalations,82,705
+2024-05-12,Technical Support,241,590
+2024-05-13,Claims,1169,450
+2024-05-13,Billing,868,298
+2024-05-13,Customer Service,1833,371
+2024-05-13,Escalations,161,662
+2024-05-13,Technical Support,667,577
+2024-05-14,Claims,1222,473
+2024-05-14,Billing,709,291
+2024-05-14,Customer Service,1525,366
+2024-05-14,Escalations,190,759
+2024-05-14,Technical Support,522,588
+2024-05-15,Claims,951,465
+2024-05-15,Billing,707,283
+2024-05-15,Customer Service,1633,363
+2024-05-15,Escalations,192,707
+2024-05-15,Technical Support,592,614
+2024-05-16,Claims,1022,435
+2024-05-16,Billing,672,275
+2024-05-16,Customer Service,1307,359
+2024-05-16,Escalations,177,628
+2024-05-16,Technical Support,461,590
+2024-05-17,Claims,919,471
+2024-05-17,Billing,652,303
+2024-05-17,Customer Service,1191,384
+2024-05-17,Escalations,162,736
+2024-05-17,Technical Support,477,580
+2024-05-18,Claims,657,451
+2024-05-18,Billing,565,299
+2024-05-18,Customer Service,872,322
+2024-05-18,Escalations,125,667
+2024-05-18,Technical Support,375,583
+2024-05-19,Claims,471,404
+2024-05-19,Billing,379,301
+2024-05-19,Customer Service,614,346
+2024-05-19,Escalations,92,641
+2024-05-19,Technical Support,252,612
+2024-05-20,Claims,1111,466
+2024-05-20,Billing,961,303
+2024-05-20,Customer Service,1545,344
+2024-05-20,Escalations,182,721
+2024-05-20,Technical Support,538,620
+2024-05-21,Claims,1166,457
+2024-05-21,Billing,763,288
+2024-05-21,Customer Service,1790,355
+2024-05-21,Escalations,164,742
+2024-05-21,Technical Support,668,582
+2024-05-22,Claims,1032,497
+2024-05-22,Billing,770,292
+2024-05-22,Customer Service,1371,351
+2024-05-22,Escalations,185,676
+2024-05-22,Technical Support,536,607
+2024-05-23,Claims,1052,411
+2024-05-23,Billing,746,292
+2024-05-23,Customer Service,1381,331
+2024-05-23,Escalations,166,705
+2024-05-23,Technical Support,510,630
+2024-05-24,Claims,892,465
+2024-05-24,Billing,574,264
+2024-05-24,Customer Service,1096,386
+2024-05-24,Escalations,163,710
+2024-05-24,Technical Support,467,577
+2024-05-25,Claims,667,454
+2024-05-25,Billing,518,303
+2024-05-25,Customer Service,982,338
+2024-05-25,Escalations,114,707
+2024-05-25,Technical Support,336,582
+2024-05-26,Claims,491,441
+2024-05-26,Billing,341,290
+2024-05-26,Customer Service,705,325
+2024-05-26,Escalations,74,705
+2024-05-26,Technical Support,277,618
+2024-05-27,Claims,1205,462
+2024-05-27,Billing,906,312
+2024-05-27,Customer Service,1768,356
+2024-05-27,Escalations,232,681
+2024-05-27,Technical Support,664,625
+2024-05-28,Claims,949,419
+2024-05-28,Billing,764,286
+2024-05-28,Customer Service,1492,333
+2024-05-28,Escalations,197,738
+2024-05-28,Technical Support,613,628
+2024-05-29,Claims,957,461
+2024-05-29,Billing,788,316
+2024-05-29,Customer Service,1348,335
+2024-05-29,Escalations,171,712
+2024-05-29,Technical Support,477,596
+2024-05-30,Claims,896,469
+2024-05-30,Billing,660,298
+2024-05-30,Customer Service,1259,343
+2024-05-30,Escalations,185,719
+2024-05-30,Technical Support,473,626
+2024-05-31,Claims,1054,435
+2024-05-31,Billing,692,299
+2024-05-31,Customer Service,1248,331
+2024-05-31,Escalations,143,613
+2024-05-31,Technical Support,487,606
+2024-06-01,Claims,635,464
+2024-06-01,Billing,514,304
+2024-06-01,Customer Service,1132,316
+2024-06-01,Escalations,117,688
+2024-06-01,Technical Support,385,533
+2024-06-02,Claims,449,481
+2024-06-02,Billing,362,284
+2024-06-02,Customer Service,766,372
+2024-06-02,Escalations,80,733
+2024-06-02,Technical Support,288,573
+2024-06-03,Claims,1206,425
+2024-06-03,Billing,833,305
+2024-06-03,Customer Service,1692,335
+2024-06-03,Escalations,217,704
+2024-06-03,Technical Support,634,586
+2024-06-04,Claims,956,410
+2024-06-04,Billing,788,267
+2024-06-04,Customer Service,1513,354
+2024-06-04,Escalations,192,680
+2024-06-04,Technical Support,608,583
+2024-06-05,Claims,1013,466
+2024-06-05,Billing,682,318
+2024-06-05,Customer Service,1453,345
+2024-06-05,Escalations,185,688
+2024-06-05,Technical Support,552,615
+2024-06-06,Claims,1033,419
+2024-06-06,Billing,776,303
+2024-06-06,Customer Service,1392,360
+2024-06-06,Escalations,167,724
+2024-06-06,Technical Support,437,542
+2024-06-07,Claims,885,433
+2024-06-07,Billing,666,287
+2024-06-07,Customer Service,1235,352
+2024-06-07,Escalations,136,717
+2024-06-07,Technical Support,414,645
+2024-06-08,Claims,722,439
+2024-06-08,Billing,508,293
+2024-06-08,Customer Service,991,370
+2024-06-08,Escalations,118,710
+2024-06-08,Technical Support,353,638
+2024-06-09,Claims,511,456
+2024-06-09,Billing,349,283
+2024-06-09,Customer Service,677,327
+2024-06-09,Escalations,81,646
+2024-06-09,Technical Support,243,620
+2024-06-10,Claims,1114,477
+2024-06-10,Billing,889,328
+2024-06-10,Customer Service,1550,365
+2024-06-10,Escalations,222,741
+2024-06-10,Technical Support,561,583
+2024-06-11,Claims,1078,424
+2024-06-11,Billing,807,313
+2024-06-11,Customer Service,1724,357
+2024-06-11,Escalations,196,704
+2024-06-11,Technical Support,627,612
+2024-06-12,Claims,881,457
+2024-06-12,Billing,780,319
+2024-06-12,Customer Service,1511,373
+2024-06-12,Escalations,178,719
+2024-06-12,Technical Support,574,625
+2024-06-13,Claims,912,462
+2024-06-13,Billing,810,293
+2024-06-13,Customer Service,1591,363
+2024-06-13,Escalations,163,651
+2024-06-13,Technical Support,486,632
+2024-06-14,Claims,956,423
+2024-06-14,Billing,738,304
+2024-06-14,Customer Service,1159,335
+2024-06-14,Escalations,146,719
+2024-06-14,Technical Support,443,599
+2024-06-15,Claims,595,414
+2024-06-15,Billing,472,306
+2024-06-15,Customer Service,865,340
+2024-06-15,Escalations,110,731
+2024-06-15,Technical Support,352,600
+2024-06-16,Claims,485,459
+2024-06-16,Billing,409,286
+2024-06-16,Customer Service,618,340
+2024-06-16,Escalations,91,684
+2024-06-16,Technical Support,248,626
+2024-06-17,Claims,1138,488
+2024-06-17,Billing,921,288
+2024-06-17,Customer Service,1468,369
+2024-06-17,Escalations,208,624
+2024-06-17,Technical Support,613,564
+2024-06-18,Claims,1138,428
+2024-06-18,Billing,857,280
+2024-06-18,Customer Service,1850,322
+2024-06-18,Escalations,183,714
+2024-06-18,Technical Support,555,594
+2024-06-19,Claims,950,459
+2024-06-19,Billing,731,310
+2024-06-19,Customer Service,1340,355
+2024-06-19,Escalations,193,723
+2024-06-19,Technical Support,590,598
+2024-06-20,Claims,909,423
+2024-06-20,Billing,680,316
+2024-06-20,Customer Service,1395,340
+2024-06-20,Escalations,161,667
+2024-06-20,Technical Support,530,595
+2024-06-21,Claims,871,429
+2024-06-21,Billing,576,294
+2024-06-21,Customer Service,1360,356
+2024-06-21,Escalations,173,712
+2024-06-21,Technical Support,432,573
+2024-06-22,Claims,646,439
+2024-06-22,Billing,522,316
+2024-06-22,Customer Service,967,359
+2024-06-22,Escalations,124,773
+2024-06-22,Technical Support,410,635
+2024-06-23,Claims,470,476
+2024-06-23,Billing,341,279
+2024-06-23,Customer Service,598,363
+2024-06-23,Escalations,79,698
+2024-06-23,Technical Support,252,583
+2024-06-24,Claims,1308,454
+2024-06-24,Billing,838,314
+2024-06-24,Customer Service,1643,359
+2024-06-24,Escalations,202,669
+2024-06-24,Technical Support,663,622
+2024-06-25,Claims,1318,436
+2024-06-25,Billing,802,303
+2024-06-25,Customer Service,1487,345
+2024-06-25,Escalations,210,692
+2024-06-25,Technical Support,612,623
+2024-06-26,Claims,1149,427
+2024-06-26,Billing,801,329
+2024-06-26,Customer Service,1372,318
+2024-06-26,Escalations,185,679
+2024-06-26,Technical Support,577,611
+2024-06-27,Claims,1016,463
+2024-06-27,Billing,759,298
+2024-06-27,Customer Service,1461,349
+2024-06-27,Escalations,184,714
+2024-06-27,Technical Support,560,593
+2024-06-28,Claims,903,481
+2024-06-28,Billing,647,313
+2024-06-28,Customer Service,1225,365
+2024-06-28,Escalations,166,666
+2024-06-28,Technical Support,425,598
+2024-06-29,Claims,687,443
+2024-06-29,Billing,494,285
+2024-06-29,Customer Service,944,356
+2024-06-29,Escalations,130,681
+2024-06-29,Technical Support,359,620
+2024-06-30,Claims,479,426
+2024-06-30,Billing,325,326
+2024-06-30,Customer Service,713,334
+2024-06-30,Escalations,88,708
+2024-06-30,Technical Support,296,624
+2024-07-01,Claims,934,437
+2024-07-01,Billing,745,313
+2024-07-01,Customer Service,1378,328
+2024-07-01,Escalations,190,751
+2024-07-01,Technical Support,503,600
+2024-07-02,Claims,938,437
+2024-07-02,Billing,736,296
+2024-07-02,Customer Service,1314,364
+2024-07-02,Escalations,156,680
+2024-07-02,Technical Support,493,578
+2024-07-03,Claims,910,445
+2024-07-03,Billing,588,282
+2024-07-03,Customer Service,1195,382
+2024-07-03,Escalations,140,680
+2024-07-03,Technical Support,486,625
+2024-07-04,Claims,701,455
+2024-07-04,Billing,583,285
+2024-07-04,Customer Service,1160,350
+2024-07-04,Escalations,158,727
+2024-07-04,Technical Support,420,594
+2024-07-05,Claims,686,477
+2024-07-05,Billing,632,315
+2024-07-05,Customer Service,896,366
+2024-07-05,Escalations,104,684
+2024-07-05,Technical Support,394,568
+2024-07-06,Claims,536,436
+2024-07-06,Billing,392,303
+2024-07-06,Customer Service,833,360
+2024-07-06,Escalations,100,624
+2024-07-06,Technical Support,282,600
+2024-07-07,Claims,358,454
+2024-07-07,Billing,326,296
+2024-07-07,Customer Service,593,373
+2024-07-07,Escalations,70,715
+2024-07-07,Technical Support,242,639
+2024-07-08,Claims,876,445
+2024-07-08,Billing,643,314
+2024-07-08,Customer Service,1277,379
+2024-07-08,Escalations,168,746
+2024-07-08,Technical Support,517,567
+2024-07-09,Claims,900,444
+2024-07-09,Billing,722,295
+2024-07-09,Customer Service,1166,359
+2024-07-09,Escalations,181,724
+2024-07-09,Technical Support,483,575
+2024-07-10,Claims,913,452
+2024-07-10,Billing,659,270
+2024-07-10,Customer Service,1227,375
+2024-07-10,Escalations,155,682
+2024-07-10,Technical Support,460,602
+2024-07-11,Claims,839,443
+2024-07-11,Billing,675,317
+2024-07-11,Customer Service,1145,300
+2024-07-11,Escalations,149,699
+2024-07-11,Technical Support,420,597
+2024-07-12,Claims,801,440
+2024-07-12,Billing,520,326
+2024-07-12,Customer Service,1161,334
+2024-07-12,Escalations,126,727
+2024-07-12,Technical Support,337,611
+2024-07-13,Claims,565,478
+2024-07-13,Billing,404,290
+2024-07-13,Customer Service,842,337
+2024-07-13,Escalations,94,738
+2024-07-13,Technical Support,285,613
+2024-07-14,Claims,339,415
+2024-07-14,Billing,294,292
+2024-07-14,Customer Service,454,357
+2024-07-14,Escalations,62,729
+2024-07-14,Technical Support,224,580
+2024-07-15,Claims,1019,384
+2024-07-15,Billing,758,308
+2024-07-15,Customer Service,1249,329
+2024-07-15,Escalations,169,629
+2024-07-15,Technical Support,507,515
+2024-07-16,Claims,834,468
+2024-07-16,Billing,787,302
+2024-07-16,Customer Service,1388,346
+2024-07-16,Escalations,159,749
+2024-07-16,Technical Support,487,619
+2024-07-17,Claims,853,486
+2024-07-17,Billing,537,279
+2024-07-17,Customer Service,1161,349
+2024-07-17,Escalations,140,643
+2024-07-17,Technical Support,409,593
+2024-07-18,Claims,781,444
+2024-07-18,Billing,699,309
+2024-07-18,Customer Service,1186,351
+2024-07-18,Escalations,135,722
+2024-07-18,Technical Support,442,621
+2024-07-19,Claims,800,498
+2024-07-19,Billing,591,295
+2024-07-19,Customer Service,1020,334
+2024-07-19,Escalations,120,709
+2024-07-19,Technical Support,402,576
+2024-07-20,Claims,577,483
+2024-07-20,Billing,458,296
+2024-07-20,Customer Service,830,340
+2024-07-20,Escalations,107,684
+2024-07-20,Technical Support,283,622
+2024-07-21,Claims,442,446
+2024-07-21,Billing,310,290
+2024-07-21,Customer Service,658,379
+2024-07-21,Escalations,67,670
+2024-07-21,Technical Support,241,601
+2024-07-22,Claims,974,465
+2024-07-22,Billing,695,276
+2024-07-22,Customer Service,1302,358
+2024-07-22,Escalations,165,663
+2024-07-22,Technical Support,525,625
+2024-07-23,Claims,958,428
+2024-07-23,Billing,671,310
+2024-07-23,Customer Service,1295,369
+2024-07-23,Escalations,190,730
+2024-07-23,Technical Support,554,608
+2024-07-24,Claims,869,445
+2024-07-24,Billing,644,291
+2024-07-24,Customer Service,1197,376
+2024-07-24,Escalations,155,676
+2024-07-24,Technical Support,408,569
+2024-07-25,Claims,783,465
+2024-07-25,Billing,530,288
+2024-07-25,Customer Service,1165,333
+2024-07-25,Escalations,148,649
+2024-07-25,Technical Support,407,586
+2024-07-26,Claims,810,448
+2024-07-26,Billing,496,304
+2024-07-26,Customer Service,897,367
+2024-07-26,Escalations,129,718
+2024-07-26,Technical Support,413,594
+2024-07-27,Claims,635,446
+2024-07-27,Billing,412,308
+2024-07-27,Customer Service,859,372
+2024-07-27,Escalations,98,704
+2024-07-27,Technical Support,292,586
+2024-07-28,Claims,428,428
+2024-07-28,Billing,322,278
+2024-07-28,Customer Service,493,362
+2024-07-28,Escalations,79,720
+2024-07-28,Technical Support,235,617
+2024-07-29,Claims,912,447
+2024-07-29,Billing,757,321
+2024-07-29,Customer Service,1409,342
+2024-07-29,Escalations,173,733
+2024-07-29,Technical Support,486,599
+2024-07-30,Claims,871,436
+2024-07-30,Billing,702,309
+2024-07-30,Customer Service,1421,357
+2024-07-30,Escalations,169,712
+2024-07-30,Technical Support,473,602
+2024-07-31,Claims,892,449
+2024-07-31,Billing,496,336
+2024-07-31,Customer Service,1295,371
+2024-07-31,Escalations,128,725
+2024-07-31,Technical Support,432,603
+2024-08-01,Claims,713,473
+2024-08-01,Billing,537,308
+2024-08-01,Customer Service,1208,350
+2024-08-01,Escalations,133,689
+2024-08-01,Technical Support,426,598
+2024-08-02,Claims,702,379
+2024-08-02,Billing,559,303
+2024-08-02,Customer Service,1001,341
+2024-08-02,Escalations,112,756
+2024-08-02,Technical Support,403,601
+2024-08-03,Claims,526,423
+2024-08-03,Billing,367,299
+2024-08-03,Customer Service,747,332
+2024-08-03,Escalations,108,717
+2024-08-03,Technical Support,310,609
+2024-08-04,Claims,381,472
+2024-08-04,Billing,291,288
+2024-08-04,Customer Service,539,351
+2024-08-04,Escalations,81,652
+2024-08-04,Technical Support,214,621
+2024-08-05,Claims,972,462
+2024-08-05,Billing,778,307
+2024-08-05,Customer Service,1352,350
+2024-08-05,Escalations,162,715
+2024-08-05,Technical Support,490,648
+2024-08-06,Claims,896,444
+2024-08-06,Billing,687,302
+2024-08-06,Customer Service,1346,331
+2024-08-06,Escalations,160,670
+2024-08-06,Technical Support,505,603
+2024-08-07,Claims,817,475
+2024-08-07,Billing,633,296
+2024-08-07,Customer Service,976,346
+2024-08-07,Escalations,156,686
+2024-08-07,Technical Support,448,584
+2024-08-08,Claims,846,457
+2024-08-08,Billing,460,278
+2024-08-08,Customer Service,1291,372
+2024-08-08,Escalations,137,677
+2024-08-08,Technical Support,452,622
+2024-08-09,Claims,646,421
+2024-08-09,Billing,566,310
+2024-08-09,Customer Service,912,362
+2024-08-09,Escalations,118,713
+2024-08-09,Technical Support,430,570
+2024-08-10,Claims,540,456
+2024-08-10,Billing,427,282
+2024-08-10,Customer Service,828,346
+2024-08-10,Escalations,101,736
+2024-08-10,Technical Support,294,624
+2024-08-11,Claims,403,450
+2024-08-11,Billing,357,285
+2024-08-11,Customer Service,551,361
+2024-08-11,Escalations,70,701
+2024-08-11,Technical Support,225,530
+2024-08-12,Claims,1024,468
+2024-08-12,Billing,788,300
+2024-08-12,Customer Service,1396,371
+2024-08-12,Escalations,151,662
+2024-08-12,Technical Support,563,505
+2024-08-13,Claims,819,456
+2024-08-13,Billing,706,304
+2024-08-13,Customer Service,1196,320
+2024-08-13,Escalations,158,666
+2024-08-13,Technical Support,490,683
+2024-08-14,Claims,844,443
+2024-08-14,Billing,651,311
+2024-08-14,Customer Service,1312,339
+2024-08-14,Escalations,151,627
+2024-08-14,Technical Support,427,595
+2024-08-15,Claims,844,444
+2024-08-15,Billing,657,294
+2024-08-15,Customer Service,998,348
+2024-08-15,Escalations,145,709
+2024-08-15,Technical Support,438,595
+2024-08-16,Claims,689,422
+2024-08-16,Billing,599,307
+2024-08-16,Customer Service,984,316
+2024-08-16,Escalations,126,628
+2024-08-16,Technical Support,368,622
+2024-08-17,Claims,550,461
+2024-08-17,Billing,383,299
+2024-08-17,Customer Service,686,326
+2024-08-17,Escalations,109,675
+2024-08-17,Technical Support,271,592
+2024-08-18,Claims,361,414
+2024-08-18,Billing,248,289
+2024-08-18,Customer Service,525,361
+2024-08-18,Escalations,62,750
+2024-08-18,Technical Support,235,587
+2024-08-19,Claims,1017,467
+2024-08-19,Billing,680,271
+2024-08-19,Customer Service,1568,362
+2024-08-19,Escalations,179,672
+2024-08-19,Technical Support,485,609
+2024-08-20,Claims,722,444
+2024-08-20,Billing,816,320
+2024-08-20,Customer Service,1132,335
+2024-08-20,Escalations,138,722
+2024-08-20,Technical Support,517,592
+2024-08-21,Claims,985,446
+2024-08-21,Billing,700,297
+2024-08-21,Customer Service,1215,335
+2024-08-21,Escalations,152,700
+2024-08-21,Technical Support,466,598
+2024-08-22,Claims,832,455
+2024-08-22,Billing,613,301
+2024-08-22,Customer Service,1117,364
+2024-08-22,Escalations,138,732
+2024-08-22,Technical Support,390,568
+2024-08-23,Claims,690,470
+2024-08-23,Billing,467,282
+2024-08-23,Customer Service,989,360
+2024-08-23,Escalations,115,722
+2024-08-23,Technical Support,341,543
+2024-08-24,Claims,557,452
+2024-08-24,Billing,467,293
+2024-08-24,Customer Service,832,337
+2024-08-24,Escalations,85,747
+2024-08-24,Technical Support,268,580
+2024-08-25,Claims,422,432
+2024-08-25,Billing,277,301
+2024-08-25,Customer Service,544,362
+2024-08-25,Escalations,72,695
+2024-08-25,Technical Support,192,635
+2024-08-26,Claims,950,462
+2024-08-26,Billing,643,267
+2024-08-26,Customer Service,1266,341
+2024-08-26,Escalations,170,680
+2024-08-26,Technical Support,435,614
+2024-08-27,Claims,935,391
+2024-08-27,Billing,689,338
+2024-08-27,Customer Service,1331,359
+2024-08-27,Escalations,162,705
+2024-08-27,Technical Support,530,635
+2024-08-28,Claims,833,503
+2024-08-28,Billing,609,313
+2024-08-28,Customer Service,1175,367
+2024-08-28,Escalations,152,705
+2024-08-28,Technical Support,438,596
+2024-08-29,Claims,788,439
+2024-08-29,Billing,567,288
+2024-08-29,Customer Service,1050,338
+2024-08-29,Escalations,123,653
+2024-08-29,Technical Support,474,598
+2024-08-30,Claims,636,412
+2024-08-30,Billing,510,303
+2024-08-30,Customer Service,940,349
+2024-08-30,Escalations,134,705
+2024-08-30,Technical Support,365,584
+2024-08-31,Claims,605,519
+2024-08-31,Billing,398,320
+2024-08-31,Customer Service,793,328
+2024-08-31,Escalations,91,708
+2024-08-31,Technical Support,341,582
+2024-09-01,Claims,426,427
+2024-09-01,Billing,369,280
+2024-09-01,Customer Service,699,358
+2024-09-01,Escalations,86,676
+2024-09-01,Technical Support,246,629
+2024-09-02,Claims,1119,472
+2024-09-02,Billing,868,321
+2024-09-02,Customer Service,1578,335
+2024-09-02,Escalations,215,717
+2024-09-02,Technical Support,705,619
+2024-09-03,Claims,1036,439
+2024-09-03,Billing,738,288
+2024-09-03,Customer Service,1520,378
+2024-09-03,Escalations,231,708
+2024-09-03,Technical Support,537,619
+2024-09-04,Claims,1120,432
+2024-09-04,Billing,859,282
+2024-09-04,Customer Service,1336,340
+2024-09-04,Escalations,183,696
+2024-09-04,Technical Support,592,568
+2024-09-05,Claims,914,450
+2024-09-05,Billing,709,275
+2024-09-05,Customer Service,1269,330
+2024-09-05,Escalations,153,723
+2024-09-05,Technical Support,473,618
+2024-09-06,Claims,766,441
+2024-09-06,Billing,651,285
+2024-09-06,Customer Service,1124,332
+2024-09-06,Escalations,153,687
+2024-09-06,Technical Support,393,619
+2024-09-07,Claims,678,471
+2024-09-07,Billing,539,293
+2024-09-07,Customer Service,783,330
+2024-09-07,Escalations,120,709
+2024-09-07,Technical Support,384,575
+2024-09-08,Claims,426,438
+2024-09-08,Billing,409,320
+2024-09-08,Customer Service,688,364
+2024-09-08,Escalations,79,706
+2024-09-08,Technical Support,249,562
+2024-09-09,Claims,1183,455
+2024-09-09,Billing,871,316
+2024-09-09,Customer Service,1667,343
+2024-09-09,Escalations,185,747
+2024-09-09,Technical Support,607,639
+2024-09-10,Claims,962,487
+2024-09-10,Billing,822,305
+2024-09-10,Customer Service,1421,360
+2024-09-10,Escalations,180,749
+2024-09-10,Technical Support,631,613
+2024-09-11,Claims,1077,439
+2024-09-11,Billing,795,293
+2024-09-11,Customer Service,1276,354
+2024-09-11,Escalations,170,655
+2024-09-11,Technical Support,575,596
+2024-09-12,Claims,954,475
+2024-09-12,Billing,855,267
+2024-09-12,Customer Service,1374,377
+2024-09-12,Escalations,169,739
+2024-09-12,Technical Support,487,586
+2024-09-13,Claims,858,462
+2024-09-13,Billing,642,300
+2024-09-13,Customer Service,1267,372
+2024-09-13,Escalations,161,734
+2024-09-13,Technical Support,421,558
+2024-09-14,Claims,590,463
+2024-09-14,Billing,431,297
+2024-09-14,Customer Service,971,351
+2024-09-14,Escalations,106,675
+2024-09-14,Technical Support,290,652
+2024-09-15,Claims,487,473
+2024-09-15,Billing,433,289
+2024-09-15,Customer Service,666,327
+2024-09-15,Escalations,89,687
+2024-09-15,Technical Support,251,613
+2024-09-16,Claims,1124,455
+2024-09-16,Billing,930,319
+2024-09-16,Customer Service,1562,364
+2024-09-16,Escalations,204,734
+2024-09-16,Technical Support,615,610
+2024-09-17,Claims,1028,419
+2024-09-17,Billing,896,297
+2024-09-17,Customer Service,1511,369
+2024-09-17,Escalations,180,698
+2024-09-17,Technical Support,599,615
+2024-09-18,Claims,920,443
+2024-09-18,Billing,760,285
+2024-09-18,Customer Service,1399,348
+2024-09-18,Escalations,190,711
+2024-09-18,Technical Support,545,580
+2024-09-19,Claims,942,445
+2024-09-19,Billing,769,286
+2024-09-19,Customer Service,1481,370
+2024-09-19,Escalations,174,690
+2024-09-19,Technical Support,500,644
+2024-09-20,Claims,761,484
+2024-09-20,Billing,595,299
+2024-09-20,Customer Service,1171,332
+2024-09-20,Escalations,143,627
+2024-09-20,Technical Support,443,556
+2024-09-21,Claims,664,419
+2024-09-21,Billing,527,321
+2024-09-21,Customer Service,928,352
+2024-09-21,Escalations,121,714
+2024-09-21,Technical Support,352,533
+2024-09-22,Claims,398,423
+2024-09-22,Billing,334,313
+2024-09-22,Customer Service,659,355
+2024-09-22,Escalations,75,695
+2024-09-22,Technical Support,262,617
+2024-09-23,Claims,1272,487
+2024-09-23,Billing,951,297
+2024-09-23,Customer Service,1573,351
+2024-09-23,Escalations,224,707
+2024-09-23,Technical Support,607,672
+2024-09-24,Claims,1057,403
+2024-09-24,Billing,790,310
+2024-09-24,Customer Service,1497,348
+2024-09-24,Escalations,186,720
+2024-09-24,Technical Support,583,580
+2024-09-25,Claims,1005,449
+2024-09-25,Billing,759,311
+2024-09-25,Customer Service,1450,404
+2024-09-25,Escalations,192,728
+2024-09-25,Technical Support,565,575
+2024-09-26,Claims,833,440
+2024-09-26,Billing,575,293
+2024-09-26,Customer Service,1434,319
+2024-09-26,Escalations,149,688
+2024-09-26,Technical Support,491,622
+2024-09-27,Claims,771,421
+2024-09-27,Billing,557,316
+2024-09-27,Customer Service,1253,359
+2024-09-27,Escalations,159,674
+2024-09-27,Technical Support,430,596
+2024-09-28,Claims,525,486
+2024-09-28,Billing,484,311
+2024-09-28,Customer Service,963,350
+2024-09-28,Escalations,103,692
+2024-09-28,Technical Support,355,602
+2024-09-29,Claims,472,438
+2024-09-29,Billing,378,268
+2024-09-29,Customer Service,674,386
+2024-09-29,Escalations,77,705
+2024-09-29,Technical Support,274,612
+2024-09-30,Claims,1120,449
+2024-09-30,Billing,866,289
+2024-09-30,Customer Service,1482,347
+2024-09-30,Escalations,193,644
+2024-09-30,Technical Support,558,668
+2024-10-01,Claims,1112,422
+2024-10-01,Billing,980,285
+2024-10-01,Customer Service,1417,342
+2024-10-01,Escalations,173,745
+2024-10-01,Technical Support,667,600
+2024-10-02,Claims,1012,422
+2024-10-02,Billing,745,319
+2024-10-02,Customer Service,1575,363
+2024-10-02,Escalations,173,719
+2024-10-02,Technical Support,625,621
+2024-10-03,Claims,1034,504
+2024-10-03,Billing,721,333
+2024-10-03,Customer Service,1624,338
+2024-10-03,Escalations,165,757
+2024-10-03,Technical Support,550,611
+2024-10-04,Claims,904,461
+2024-10-04,Billing,745,275
+2024-10-04,Customer Service,1402,347
+2024-10-04,Escalations,156,672
+2024-10-04,Technical Support,439,625
+2024-10-05,Claims,712,474
+2024-10-05,Billing,497,269
+2024-10-05,Customer Service,1126,350
+2024-10-05,Escalations,123,739
+2024-10-05,Technical Support,353,594
+2024-10-06,Claims,498,466
+2024-10-06,Billing,335,305
+2024-10-06,Customer Service,639,356
+2024-10-06,Escalations,95,691
+2024-10-06,Technical Support,246,564
+2024-10-07,Claims,1079,425
+2024-10-07,Billing,939,311
+2024-10-07,Customer Service,1820,350
+2024-10-07,Escalations,220,695
+2024-10-07,Technical Support,673,587
+2024-10-08,Claims,1060,443
+2024-10-08,Billing,765,316
+2024-10-08,Customer Service,1784,344
+2024-10-08,Escalations,194,653
+2024-10-08,Technical Support,585,622
+2024-10-09,Claims,1140,445
+2024-10-09,Billing,823,300
+2024-10-09,Customer Service,1508,378
+2024-10-09,Escalations,213,699
+2024-10-09,Technical Support,517,609
+2024-10-10,Claims,1054,423
+2024-10-10,Billing,754,297
+2024-10-10,Customer Service,1415,361
+2024-10-10,Escalations,194,646
+2024-10-10,Technical Support,541,606
+2024-10-11,Claims,921,452
+2024-10-11,Billing,734,301
+2024-10-11,Customer Service,1211,368
+2024-10-11,Escalations,145,712
+2024-10-11,Technical Support,429,644
+2024-10-12,Claims,579,428
+2024-10-12,Billing,612,302
+2024-10-12,Customer Service,885,351
+2024-10-12,Escalations,119,663
+2024-10-12,Technical Support,356,629
+2024-10-13,Claims,503,502
+2024-10-13,Billing,400,300
+2024-10-13,Customer Service,741,359
+2024-10-13,Escalations,83,703
+2024-10-13,Technical Support,256,579
+2024-10-14,Claims,1205,409
+2024-10-14,Billing,883,289
+2024-10-14,Customer Service,1877,326
+2024-10-14,Escalations,216,760
+2024-10-14,Technical Support,660,597
+2024-10-15,Claims,1189,442
+2024-10-15,Billing,945,313
+2024-10-15,Customer Service,1617,330
+2024-10-15,Escalations,179,673
+2024-10-15,Technical Support,617,602
+2024-10-16,Claims,977,473
+2024-10-16,Billing,755,308
+2024-10-16,Customer Service,1524,354
+2024-10-16,Escalations,200,703
+2024-10-16,Technical Support,547,612
+2024-10-17,Claims,1006,455
+2024-10-17,Billing,853,285
+2024-10-17,Customer Service,1413,351
+2024-10-17,Escalations,209,662
+2024-10-17,Technical Support,544,602
+2024-10-18,Claims,760,439
+2024-10-18,Billing,717,338
+2024-10-18,Customer Service,1286,349
+2024-10-18,Escalations,172,651
+2024-10-18,Technical Support,493,596
+2024-10-19,Claims,680,462
+2024-10-19,Billing,474,325
+2024-10-19,Customer Service,955,340
+2024-10-19,Escalations,113,645
+2024-10-19,Technical Support,347,625
+2024-10-20,Claims,514,419
+2024-10-20,Billing,426,293
+2024-10-20,Customer Service,715,345
+2024-10-20,Escalations,78,698
+2024-10-20,Technical Support,269,621
+2024-10-21,Claims,1292,435
+2024-10-21,Billing,858,296
+2024-10-21,Customer Service,1647,350
+2024-10-21,Escalations,208,705
+2024-10-21,Technical Support,585,603
+2024-10-22,Claims,1189,460
+2024-10-22,Billing,856,313
+2024-10-22,Customer Service,1649,357
+2024-10-22,Escalations,185,716
+2024-10-22,Technical Support,577,553
+2024-10-23,Claims,1092,451
+2024-10-23,Billing,766,307
+2024-10-23,Customer Service,1658,363
+2024-10-23,Escalations,176,676
+2024-10-23,Technical Support,556,580
+2024-10-24,Claims,1056,437
+2024-10-24,Billing,666,308
+2024-10-24,Customer Service,1192,368
+2024-10-24,Escalations,152,686
+2024-10-24,Technical Support,573,627
+2024-10-25,Claims,846,453
+2024-10-25,Billing,815,298
+2024-10-25,Customer Service,1193,346
+2024-10-25,Escalations,158,726
+2024-10-25,Technical Support,526,610
+2024-10-26,Claims,799,501
+2024-10-26,Billing,613,287
+2024-10-26,Customer Service,1066,359
+2024-10-26,Escalations,131,681
+2024-10-26,Technical Support,382,574
+2024-10-27,Claims,522,450
+2024-10-27,Billing,359,302
+2024-10-27,Customer Service,649,401
+2024-10-27,Escalations,87,694
+2024-10-27,Technical Support,257,566
+2024-10-28,Claims,1137,456
+2024-10-28,Billing,953,269
+2024-10-28,Customer Service,1793,348
+2024-10-28,Escalations,210,701
+2024-10-28,Technical Support,699,624
+2024-10-29,Claims,1028,472
+2024-10-29,Billing,851,292
+2024-10-29,Customer Service,1505,347
+2024-10-29,Escalations,170,673
+2024-10-29,Technical Support,595,566
+2024-10-30,Claims,1023,457
+2024-10-30,Billing,885,281
+2024-10-30,Customer Service,1532,343
+2024-10-30,Escalations,167,665
+2024-10-30,Technical Support,628,616
+2024-10-31,Claims,1080,491
+2024-10-31,Billing,787,280
+2024-10-31,Customer Service,1364,318
+2024-10-31,Escalations,160,696
+2024-10-31,Technical Support,505,600
+2024-11-01,Claims,988,455
+2024-11-01,Billing,800,293
+2024-11-01,Customer Service,1442,346
+2024-11-01,Escalations,154,713
+2024-11-01,Technical Support,438,631
+2024-11-02,Claims,715,406
+2024-11-02,Billing,464,294
+2024-11-02,Customer Service,1024,354
+2024-11-02,Escalations,123,668
+2024-11-02,Technical Support,360,652
+2024-11-03,Claims,441,436
+2024-11-03,Billing,402,299
+2024-11-03,Customer Service,683,360
+2024-11-03,Escalations,81,679
+2024-11-03,Technical Support,206,545
+2024-11-04,Claims,1210,440
+2024-11-04,Billing,1059,315
+2024-11-04,Customer Service,1939,344
+2024-11-04,Escalations,206,670
+2024-11-04,Technical Support,611,628
+2024-11-05,Claims,1206,443
+2024-11-05,Billing,818,292
+2024-11-05,Customer Service,1680,353
+2024-11-05,Escalations,218,727
+2024-11-05,Technical Support,676,671
+2024-11-06,Claims,1053,469
+2024-11-06,Billing,798,317
+2024-11-06,Customer Service,1393,341
+2024-11-06,Escalations,175,664
+2024-11-06,Technical Support,552,602
+2024-11-07,Claims,1040,452
+2024-11-07,Billing,829,284
+2024-11-07,Customer Service,1335,347
+2024-11-07,Escalations,200,714
+2024-11-07,Technical Support,524,611
+2024-11-08,Claims,908,461
+2024-11-08,Billing,654,304
+2024-11-08,Customer Service,1035,341
+2024-11-08,Escalations,172,682
+2024-11-08,Technical Support,510,564
+2024-11-09,Claims,692,490
+2024-11-09,Billing,544,300
+2024-11-09,Customer Service,1040,346
+2024-11-09,Escalations,109,667
+2024-11-09,Technical Support,359,688
+2024-11-10,Claims,538,426
+2024-11-10,Billing,348,294
+2024-11-10,Customer Service,730,357
+2024-11-10,Escalations,80,721
+2024-11-10,Technical Support,278,629
+2024-11-11,Claims,1210,491
+2024-11-11,Billing,808,308
+2024-11-11,Customer Service,1873,332
+2024-11-11,Escalations,202,691
+2024-11-11,Technical Support,601,609
+2024-11-12,Claims,1182,497
+2024-11-12,Billing,971,279
+2024-11-12,Customer Service,1508,371
+2024-11-12,Escalations,206,706
+2024-11-12,Technical Support,637,625
+2024-11-13,Claims,1121,448
+2024-11-13,Billing,824,287
+2024-11-13,Customer Service,1455,363
+2024-11-13,Escalations,175,723
+2024-11-13,Technical Support,566,629
+2024-11-14,Claims,925,450
+2024-11-14,Billing,593,291
+2024-11-14,Customer Service,1478,323
+2024-11-14,Escalations,191,729
+2024-11-14,Technical Support,434,613
+2024-11-15,Claims,837,428
+2024-11-15,Billing,731,292
+2024-11-15,Customer Service,1497,342
+2024-11-15,Escalations,161,648
+2024-11-15,Technical Support,454,575
+2024-11-16,Claims,698,424
+2024-11-16,Billing,601,294
+2024-11-16,Customer Service,948,337
+2024-11-16,Escalations,117,643
+2024-11-16,Technical Support,360,661
+2024-11-17,Claims,467,478
+2024-11-17,Billing,391,288
+2024-11-17,Customer Service,807,355
+2024-11-17,Escalations,92,715
+2024-11-17,Technical Support,262,636
+2024-11-18,Claims,1186,432
+2024-11-18,Billing,812,316
+2024-11-18,Customer Service,1835,340
+2024-11-18,Escalations,213,653
+2024-11-18,Technical Support,634,622
+2024-11-19,Claims,1461,479
+2024-11-19,Billing,911,339
+2024-11-19,Customer Service,1544,329
+2024-11-19,Escalations,198,724
+2024-11-19,Technical Support,673,588
+2024-11-20,Claims,1072,468
+2024-11-20,Billing,719,278
+2024-11-20,Customer Service,1611,328
+2024-11-20,Escalations,178,673
+2024-11-20,Technical Support,647,602
+2024-11-21,Claims,1100,436
+2024-11-21,Billing,746,310
+2024-11-21,Customer Service,1576,368
+2024-11-21,Escalations,180,721
+2024-11-21,Technical Support,572,649
+2024-11-22,Claims,946,459
+2024-11-22,Billing,650,282
+2024-11-22,Customer Service,1220,374
+2024-11-22,Escalations,174,679
+2024-11-22,Technical Support,469,627
+2024-11-23,Claims,686,485
+2024-11-23,Billing,501,307
+2024-11-23,Customer Service,1034,324
+2024-11-23,Escalations,146,668
+2024-11-23,Technical Support,343,640
+2024-11-24,Claims,507,446
+2024-11-24,Billing,431,301
+2024-11-24,Customer Service,710,363
+2024-11-24,Escalations,93,724
+2024-11-24,Technical Support,245,608
+2024-11-25,Claims,1257,445
+2024-11-25,Billing,915,295
+2024-11-25,Customer Service,1851,365
+2024-11-25,Escalations,235,719
+2024-11-25,Technical Support,777,592
+2024-11-26,Claims,1219,474
+2024-11-26,Billing,914,298
+2024-11-26,Customer Service,1670,335
+2024-11-26,Escalations,200,673
+2024-11-26,Technical Support,633,571
+2024-11-27,Claims,1038,444
+2024-11-27,Billing,824,319
+2024-11-27,Customer Service,1660,336
+2024-11-27,Escalations,173,707
+2024-11-27,Technical Support,614,580
+2024-11-28,Claims,1120,444
+2024-11-28,Billing,767,277
+2024-11-28,Customer Service,1187,346
+2024-11-28,Escalations,170,693
+2024-11-28,Technical Support,592,616
+2024-11-29,Claims,910,455
+2024-11-29,Billing,642,282
+2024-11-29,Customer Service,1235,369
+2024-11-29,Escalations,172,707
+2024-11-29,Technical Support,504,606
+2024-11-30,Claims,696,450
+2024-11-30,Billing,526,292
+2024-11-30,Customer Service,970,354
+2024-11-30,Escalations,116,717
+2024-11-30,Technical Support,424,548
+2024-12-01,Claims,537,438
+2024-12-01,Billing,462,296
+2024-12-01,Customer Service,872,354
+2024-12-01,Escalations,105,742
+2024-12-01,Technical Support,281,577
+2024-12-02,Claims,1365,439
+2024-12-02,Billing,1009,292
+2024-12-02,Customer Service,1731,336
+2024-12-02,Escalations,239,688
+2024-12-02,Technical Support,634,623
+2024-12-03,Claims,1387,426
+2024-12-03,Billing,933,306
+2024-12-03,Customer Service,1817,320
+2024-12-03,Escalations,229,680
+2024-12-03,Technical Support,657,590
+2024-12-04,Claims,1211,488
+2024-12-04,Billing,851,296
+2024-12-04,Customer Service,1747,311
+2024-12-04,Escalations,182,630
+2024-12-04,Technical Support,619,601
+2024-12-05,Claims,1273,464
+2024-12-05,Billing,775,306
+2024-12-05,Customer Service,1471,353
+2024-12-05,Escalations,202,741
+2024-12-05,Technical Support,592,584
+2024-12-06,Claims,1020,470
+2024-12-06,Billing,788,276
+2024-12-06,Customer Service,1471,334
+2024-12-06,Escalations,191,637
+2024-12-06,Technical Support,542,592
+2024-12-07,Claims,757,449
+2024-12-07,Billing,622,302
+2024-12-07,Customer Service,1255,351
+2024-12-07,Escalations,135,668
+2024-12-07,Technical Support,377,594
+2024-12-08,Claims,600,416
+2024-12-08,Billing,417,320
+2024-12-08,Customer Service,643,345
+2024-12-08,Escalations,104,683
+2024-12-08,Technical Support,279,648
+2024-12-09,Claims,1313,422
+2024-12-09,Billing,1038,283
+2024-12-09,Customer Service,1896,331
+2024-12-09,Escalations,247,698
+2024-12-09,Technical Support,676,613
+2024-12-10,Claims,1320,467
+2024-12-10,Billing,949,339
+2024-12-10,Customer Service,1896,311
+2024-12-10,Escalations,235,721
+2024-12-10,Technical Support,621,583
+2024-12-11,Claims,1258,437
+2024-12-11,Billing,847,291
+2024-12-11,Customer Service,1740,334
+2024-12-11,Escalations,210,759
+2024-12-11,Technical Support,703,625
+2024-12-12,Claims,1083,451
+2024-12-12,Billing,820,320
+2024-12-12,Customer Service,1554,324
+2024-12-12,Escalations,190,653
+2024-12-12,Technical Support,621,535
+2024-12-13,Claims,864,434
+2024-12-13,Billing,695,302
+2024-12-13,Customer Service,1282,352
+2024-12-13,Escalations,188,705
+2024-12-13,Technical Support,597,558
+2024-12-14,Claims,766,468
+2024-12-14,Billing,582,304
+2024-12-14,Customer Service,1096,363
+2024-12-14,Escalations,149,634
+2024-12-14,Technical Support,378,609
+2024-12-15,Claims,562,423
+2024-12-15,Billing,455,294
+2024-12-15,Customer Service,810,359
+2024-12-15,Escalations,99,703
+2024-12-15,Technical Support,315,574
+2024-12-16,Claims,1038,450
+2024-12-16,Billing,1067,277
+2024-12-16,Customer Service,1771,370
+2024-12-16,Escalations,199,693
+2024-12-16,Technical Support,730,634
+2024-12-17,Claims,1408,438
+2024-12-17,Billing,960,292
+2024-12-17,Customer Service,1928,337
+2024-12-17,Escalations,253,731
+2024-12-17,Technical Support,742,579
+2024-12-18,Claims,1311,465
+2024-12-18,Billing,939,294
+2024-12-18,Customer Service,1646,315
+2024-12-18,Escalations,178,680
+2024-12-18,Technical Support,601,565
+2024-12-19,Claims,1029,451
+2024-12-19,Billing,990,282
+2024-12-19,Customer Service,1536,366
+2024-12-19,Escalations,197,697
+2024-12-19,Technical Support,610,595
+2024-12-20,Claims,997,465
+2024-12-20,Billing,863,314
+2024-12-20,Customer Service,1332,350
+2024-12-20,Escalations,178,673
+2024-12-20,Technical Support,495,547
+2024-12-21,Claims,691,435
+2024-12-21,Billing,562,291
+2024-12-21,Customer Service,1088,352
+2024-12-21,Escalations,132,688
+2024-12-21,Technical Support,386,621
+2024-12-22,Claims,490,436
+2024-12-22,Billing,419,299
+2024-12-22,Customer Service,685,371
+2024-12-22,Escalations,103,712
+2024-12-22,Technical Support,294,598
+2024-12-23,Claims,1170,436
+2024-12-23,Billing,988,291
+2024-12-23,Customer Service,1758,335
+2024-12-23,Escalations,240,681
+2024-12-23,Technical Support,777,623
+2024-12-24,Claims,1079,445
+2024-12-24,Billing,980,280
+2024-12-24,Customer Service,1770,381
+2024-12-24,Escalations,236,711
+2024-12-24,Technical Support,684,558
+2024-12-25,Claims,1090,440
+2024-12-25,Billing,864,302
+2024-12-25,Customer Service,1533,380
+2024-12-25,Escalations,222,661
+2024-12-25,Technical Support,615,629
+2024-12-26,Claims,1272,481
+2024-12-26,Billing,840,291
+2024-12-26,Customer Service,1471,345
+2024-12-26,Escalations,171,664
+2024-12-26,Technical Support,500,594
+2024-12-27,Claims,868,449
+2024-12-27,Billing,776,310
+2024-12-27,Customer Service,1460,369
+2024-12-27,Escalations,153,674
+2024-12-27,Technical Support,564,541
+2024-12-28,Claims,743,450
+2024-12-28,Billing,598,304
+2024-12-28,Customer Service,1232,354
+2024-12-28,Escalations,146,689
+2024-12-28,Technical Support,401,604
+2024-12-29,Claims,513,484
+2024-12-29,Billing,350,306
+2024-12-29,Customer Service,735,343
+2024-12-29,Escalations,96,682
+2024-12-29,Technical Support,269,595
+2024-12-30,Claims,1312,487
+2024-12-30,Billing,1020,297
+2024-12-30,Customer Service,1838,350
+2024-12-30,Escalations,222,683
+2024-12-30,Technical Support,711,633
+2024-12-31,Claims,1316,494
+2024-12-31,Billing,887,307
+2024-12-31,Customer Service,1996,351
+2024-12-31,Escalations,222,701
+2024-12-31,Technical Support,674,528
+2025-01-01,Claims,981,467
+2025-01-01,Billing,723,302
+2025-01-01,Customer Service,1410,357
+2025-01-01,Escalations,168,675
+2025-01-01,Technical Support,467,588
+2025-01-02,Claims,910,441
+2025-01-02,Billing,614,315
+2025-01-02,Customer Service,1259,343
+2025-01-02,Escalations,156,773
+2025-01-02,Technical Support,460,613
+2025-01-03,Claims,788,421
+2025-01-03,Billing,517,298
+2025-01-03,Customer Service,1074,339
+2025-01-03,Escalations,141,623
+2025-01-03,Technical Support,427,648
+2025-01-04,Claims,568,466
+2025-01-04,Billing,521,308
+2025-01-04,Customer Service,813,353
+2025-01-04,Escalations,118,652
+2025-01-04,Technical Support,339,585
+2025-01-05,Claims,419,469
+2025-01-05,Billing,386,284
+2025-01-05,Customer Service,565,306
+2025-01-05,Escalations,84,692
+2025-01-05,Technical Support,253,596
+2025-01-06,Claims,1004,453
+2025-01-06,Billing,902,311
+2025-01-06,Customer Service,1468,361
+2025-01-06,Escalations,192,709
+2025-01-06,Technical Support,574,636
+2025-01-07,Claims,1006,416
+2025-01-07,Billing,828,308
+2025-01-07,Customer Service,1527,361
+2025-01-07,Escalations,154,657
+2025-01-07,Technical Support,595,555
+2025-01-08,Claims,805,433
+2025-01-08,Billing,769,290
+2025-01-08,Customer Service,1430,363
+2025-01-08,Escalations,150,678
+2025-01-08,Technical Support,476,574
+2025-01-09,Claims,807,436
+2025-01-09,Billing,665,317
+2025-01-09,Customer Service,1218,350
+2025-01-09,Escalations,166,694
+2025-01-09,Technical Support,518,597
+2025-01-10,Claims,885,479
+2025-01-10,Billing,582,289
+2025-01-10,Customer Service,1106,373
+2025-01-10,Escalations,122,707
+2025-01-10,Technical Support,394,595
+2025-01-11,Claims,667,506
+2025-01-11,Billing,535,284
+2025-01-11,Customer Service,788,344
+2025-01-11,Escalations,104,657
+2025-01-11,Technical Support,327,629
+2025-01-12,Claims,452,488
+2025-01-12,Billing,316,325
+2025-01-12,Customer Service,646,371
+2025-01-12,Escalations,75,693
+2025-01-12,Technical Support,234,589
+2025-01-13,Claims,1109,412
+2025-01-13,Billing,813,331
+2025-01-13,Customer Service,1447,358
+2025-01-13,Escalations,186,683
+2025-01-13,Technical Support,558,640
+2025-01-14,Claims,988,428
+2025-01-14,Billing,762,306
+2025-01-14,Customer Service,1621,347
+2025-01-14,Escalations,188,722
+2025-01-14,Technical Support,526,598
+2025-01-15,Claims,981,417
+2025-01-15,Billing,692,301
+2025-01-15,Customer Service,1436,368
+2025-01-15,Escalations,169,699
+2025-01-15,Technical Support,488,623
+2025-01-16,Claims,917,426
+2025-01-16,Billing,592,300
+2025-01-16,Customer Service,1137,339
+2025-01-16,Escalations,141,726
+2025-01-16,Technical Support,474,601
+2025-01-17,Claims,907,466
+2025-01-17,Billing,718,316
+2025-01-17,Customer Service,1183,362
+2025-01-17,Escalations,146,710
+2025-01-17,Technical Support,361,570
+2025-01-18,Claims,593,450
+2025-01-18,Billing,444,292
+2025-01-18,Customer Service,832,344
+2025-01-18,Escalations,108,687
+2025-01-18,Technical Support,316,571
+2025-01-19,Claims,373,406
+2025-01-19,Billing,359,290
+2025-01-19,Customer Service,572,353
+2025-01-19,Escalations,80,653
+2025-01-19,Technical Support,273,600
+2025-01-20,Claims,985,493
+2025-01-20,Billing,648,315
+2025-01-20,Customer Service,1466,379
+2025-01-20,Escalations,204,714
+2025-01-20,Technical Support,651,635
+2025-01-21,Claims,919,434
+2025-01-21,Billing,810,290
+2025-01-21,Customer Service,1385,302
+2025-01-21,Escalations,178,742
+2025-01-21,Technical Support,653,646
+2025-01-22,Claims,818,438
+2025-01-22,Billing,726,296
+2025-01-22,Customer Service,1363,337
+2025-01-22,Escalations,178,713
+2025-01-22,Technical Support,496,634
+2025-01-23,Claims,908,411
+2025-01-23,Billing,656,306
+2025-01-23,Customer Service,1278,345
+2025-01-23,Escalations,152,704
+2025-01-23,Technical Support,492,614
+2025-01-24,Claims,774,446
+2025-01-24,Billing,628,298
+2025-01-24,Customer Service,1123,346
+2025-01-24,Escalations,153,734
+2025-01-24,Technical Support,421,613
+2025-01-25,Claims,532,455
+2025-01-25,Billing,522,281
+2025-01-25,Customer Service,812,343
+2025-01-25,Escalations,104,731
+2025-01-25,Technical Support,313,601
+2025-01-26,Claims,492,465
+2025-01-26,Billing,281,326
+2025-01-26,Customer Service,783,368
+2025-01-26,Escalations,85,703
+2025-01-26,Technical Support,239,585
+2025-01-27,Claims,1059,393
+2025-01-27,Billing,832,297
+2025-01-27,Customer Service,1564,344
+2025-01-27,Escalations,197,714
+2025-01-27,Technical Support,588,595
+2025-01-28,Claims,1027,443
+2025-01-28,Billing,767,273
+2025-01-28,Customer Service,1422,334
+2025-01-28,Escalations,177,717
+2025-01-28,Technical Support,589,651
+2025-01-29,Claims,975,448
+2025-01-29,Billing,544,305
+2025-01-29,Customer Service,1383,367
+2025-01-29,Escalations,167,672
+2025-01-29,Technical Support,492,611
+2025-01-30,Claims,859,433
+2025-01-30,Billing,739,313
+2025-01-30,Customer Service,1347,353
+2025-01-30,Escalations,147,710
+2025-01-30,Technical Support,485,577
+2025-01-31,Claims,736,466
+2025-01-31,Billing,543,331
+2025-01-31,Customer Service,1070,332
+2025-01-31,Escalations,151,688
+2025-01-31,Technical Support,455,607
+2025-02-01,Claims,633,468
+2025-02-01,Billing,492,292
+2025-02-01,Customer Service,894,300
+2025-02-01,Escalations,102,748
+2025-02-01,Technical Support,333,623
+2025-02-02,Claims,462,411
+2025-02-02,Billing,352,291
+2025-02-02,Customer Service,672,377
+2025-02-02,Escalations,81,751
+2025-02-02,Technical Support,237,628
+2025-02-03,Claims,1133,446
+2025-02-03,Billing,796,301
+2025-02-03,Customer Service,1369,348
+2025-02-03,Escalations,182,739
+2025-02-03,Technical Support,519,574
+2025-02-04,Claims,946,432
+2025-02-04,Billing,756,315
+2025-02-04,Customer Service,1322,349
+2025-02-04,Escalations,172,748
+2025-02-04,Technical Support,449,580
+2025-02-05,Claims,929,449
+2025-02-05,Billing,698,286
+2025-02-05,Customer Service,1205,350
+2025-02-05,Escalations,170,648
+2025-02-05,Technical Support,520,585
+2025-02-06,Claims,758,418
+2025-02-06,Billing,624,310
+2025-02-06,Customer Service,1152,363
+2025-02-06,Escalations,142,639
+2025-02-06,Technical Support,491,640
+2025-02-07,Claims,771,506
+2025-02-07,Billing,586,301
+2025-02-07,Customer Service,928,339
+2025-02-07,Escalations,145,799
+2025-02-07,Technical Support,373,560
+2025-02-08,Claims,612,450
+2025-02-08,Billing,476,303
+2025-02-08,Customer Service,953,374
+2025-02-08,Escalations,96,713
+2025-02-08,Technical Support,244,585
+2025-02-09,Claims,441,429
+2025-02-09,Billing,381,295
+2025-02-09,Customer Service,675,332
+2025-02-09,Escalations,78,702
+2025-02-09,Technical Support,221,583
+2025-02-10,Claims,1111,416
+2025-02-10,Billing,736,319
+2025-02-10,Customer Service,1530,341
+2025-02-10,Escalations,192,656
+2025-02-10,Technical Support,600,595
+2025-02-11,Claims,1222,452
+2025-02-11,Billing,789,274
+2025-02-11,Customer Service,1355,356
+2025-02-11,Escalations,176,663
+2025-02-11,Technical Support,455,651
+2025-02-12,Claims,863,462
+2025-02-12,Billing,676,294
+2025-02-12,Customer Service,1236,337
+2025-02-12,Escalations,163,696
+2025-02-12,Technical Support,452,618
+2025-02-13,Claims,948,449
+2025-02-13,Billing,666,297
+2025-02-13,Customer Service,1228,351
+2025-02-13,Escalations,150,679
+2025-02-13,Technical Support,466,590
+2025-02-14,Claims,835,403
+2025-02-14,Billing,557,315
+2025-02-14,Customer Service,1048,355
+2025-02-14,Escalations,135,673
+2025-02-14,Technical Support,370,657
+2025-02-15,Claims,569,452
+2025-02-15,Billing,448,284
+2025-02-15,Customer Service,920,365
+2025-02-15,Escalations,110,714
+2025-02-15,Technical Support,328,612
+2025-02-16,Claims,465,440
+2025-02-16,Billing,329,307
+2025-02-16,Customer Service,634,345
+2025-02-16,Escalations,76,719
+2025-02-16,Technical Support,235,543
+2025-02-17,Claims,996,440
+2025-02-17,Billing,643,326
+2025-02-17,Customer Service,1459,337
+2025-02-17,Escalations,205,679
+2025-02-17,Technical Support,594,587
+2025-02-18,Claims,1079,423
+2025-02-18,Billing,841,267
+2025-02-18,Customer Service,1424,346
+2025-02-18,Escalations,179,705
+2025-02-18,Technical Support,504,598
+2025-02-19,Claims,891,447
+2025-02-19,Billing,734,301
+2025-02-19,Customer Service,1415,368
+2025-02-19,Escalations,160,693
+2025-02-19,Technical Support,467,583
+2025-02-20,Claims,871,444
+2025-02-20,Billing,698,309
+2025-02-20,Customer Service,1088,375
+2025-02-20,Escalations,125,678
+2025-02-20,Technical Support,441,603
+2025-02-21,Claims,707,458
+2025-02-21,Billing,575,285
+2025-02-21,Customer Service,1094,350
+2025-02-21,Escalations,133,649
+2025-02-21,Technical Support,463,547
+2025-02-22,Claims,626,458
+2025-02-22,Billing,478,294
+2025-02-22,Customer Service,904,354
+2025-02-22,Escalations,98,699
+2025-02-22,Technical Support,350,571
+2025-02-23,Claims,433,449
+2025-02-23,Billing,351,282
+2025-02-23,Customer Service,562,374
+2025-02-23,Escalations,67,653
+2025-02-23,Technical Support,246,594
+2025-02-24,Claims,1077,427
+2025-02-24,Billing,742,309
+2025-02-24,Customer Service,1373,344
+2025-02-24,Escalations,201,682
+2025-02-24,Technical Support,501,626
+2025-02-25,Claims,1134,451
+2025-02-25,Billing,711,308
+2025-02-25,Customer Service,1487,333
+2025-02-25,Escalations,172,651
+2025-02-25,Technical Support,556,603
+2025-02-26,Claims,875,443
+2025-02-26,Billing,691,309
+2025-02-26,Customer Service,1296,349
+2025-02-26,Escalations,149,707
+2025-02-26,Technical Support,513,551
+2025-02-27,Claims,836,492
+2025-02-27,Billing,654,298
+2025-02-27,Customer Service,1133,362
+2025-02-27,Escalations,122,671
+2025-02-27,Technical Support,454,609
+2025-02-28,Claims,936,421
+2025-02-28,Billing,638,307
+2025-02-28,Customer Service,1106,344
+2025-02-28,Escalations,136,701
+2025-02-28,Technical Support,416,621
+2025-03-01,Claims,650,422
+2025-03-01,Billing,431,290
+2025-03-01,Customer Service,957,358
+2025-03-01,Escalations,116,773
+2025-03-01,Technical Support,349,596
+2025-03-02,Claims,460,463
+2025-03-02,Billing,341,298
+2025-03-02,Customer Service,662,384
+2025-03-02,Escalations,82,639
+2025-03-02,Technical Support,229,603
+2025-03-03,Claims,1019,413
+2025-03-03,Billing,823,262
+2025-03-03,Customer Service,1694,355
+2025-03-03,Escalations,170,705
+2025-03-03,Technical Support,499,591
+2025-03-04,Claims,1037,448
+2025-03-04,Billing,786,346
+2025-03-04,Customer Service,1465,345
+2025-03-04,Escalations,184,718
+2025-03-04,Technical Support,532,581
+2025-03-05,Claims,1046,457
+2025-03-05,Billing,623,296
+2025-03-05,Customer Service,1232,343
+2025-03-05,Escalations,164,764
+2025-03-05,Technical Support,430,635
+2025-03-06,Claims,877,453
+2025-03-06,Billing,771,265
+2025-03-06,Customer Service,1259,344
+2025-03-06,Escalations,160,795
+2025-03-06,Technical Support,424,593
+2025-03-07,Claims,762,475
+2025-03-07,Billing,594,322
+2025-03-07,Customer Service,1102,354
+2025-03-07,Escalations,156,671
+2025-03-07,Technical Support,443,527
+2025-03-08,Claims,568,465
+2025-03-08,Billing,486,288
+2025-03-08,Customer Service,915,353
+2025-03-08,Escalations,120,656
+2025-03-08,Technical Support,372,592
+2025-03-09,Claims,409,451
+2025-03-09,Billing,318,304
+2025-03-09,Customer Service,565,330
+2025-03-09,Escalations,77,742
+2025-03-09,Technical Support,244,582
+2025-03-10,Claims,1153,412
+2025-03-10,Billing,812,298
+2025-03-10,Customer Service,1470,351
+2025-03-10,Escalations,191,706
+2025-03-10,Technical Support,528,641
+2025-03-11,Claims,1195,445
+2025-03-11,Billing,682,298
+2025-03-11,Customer Service,1467,331
+2025-03-11,Escalations,210,729
+2025-03-11,Technical Support,542,606
+2025-03-12,Claims,921,441
+2025-03-12,Billing,695,271
+2025-03-12,Customer Service,1301,375
+2025-03-12,Escalations,183,657
+2025-03-12,Technical Support,407,582
+2025-03-13,Claims,1000,458
+2025-03-13,Billing,603,282
+2025-03-13,Customer Service,1231,324
+2025-03-13,Escalations,152,626
+2025-03-13,Technical Support,494,622
+2025-03-14,Claims,699,438
+2025-03-14,Billing,636,344
+2025-03-14,Customer Service,1315,333
+2025-03-14,Escalations,126,668
+2025-03-14,Technical Support,431,583
+2025-03-15,Claims,591,455
+2025-03-15,Billing,493,293
+2025-03-15,Customer Service,882,361
+2025-03-15,Escalations,104,666
+2025-03-15,Technical Support,343,559
+2025-03-16,Claims,510,410
+2025-03-16,Billing,335,267
+2025-03-16,Customer Service,665,341
+2025-03-16,Escalations,70,689
+2025-03-16,Technical Support,218,581
+2025-03-17,Claims,1110,478
+2025-03-17,Billing,915,318
+2025-03-17,Customer Service,1552,344
+2025-03-17,Escalations,184,637
+2025-03-17,Technical Support,566,583
+2025-03-18,Claims,922,437
+2025-03-18,Billing,822,290
+2025-03-18,Customer Service,1549,338
+2025-03-18,Escalations,174,677
+2025-03-18,Technical Support,522,588
+2025-03-19,Claims,956,436
+2025-03-19,Billing,691,303
+2025-03-19,Customer Service,1314,356
+2025-03-19,Escalations,193,668
+2025-03-19,Technical Support,486,638
+2025-03-20,Claims,866,428
+2025-03-20,Billing,646,276
+2025-03-20,Customer Service,1333,357
+2025-03-20,Escalations,155,671
+2025-03-20,Technical Support,447,610
+2025-03-21,Claims,887,396
+2025-03-21,Billing,683,321
+2025-03-21,Customer Service,1078,362
+2025-03-21,Escalations,120,647
+2025-03-21,Technical Support,459,556
+2025-03-22,Claims,590,488
+2025-03-22,Billing,507,289
+2025-03-22,Customer Service,742,335
+2025-03-22,Escalations,118,621
+2025-03-22,Technical Support,298,589
+2025-03-23,Claims,472,445
+2025-03-23,Billing,341,311
+2025-03-23,Customer Service,581,326
+2025-03-23,Escalations,76,647
+2025-03-23,Technical Support,249,614
+2025-03-24,Claims,1079,473
+2025-03-24,Billing,856,276
+2025-03-24,Customer Service,1749,369
+2025-03-24,Escalations,165,701
+2025-03-24,Technical Support,640,633
+2025-03-25,Claims,1034,448
+2025-03-25,Billing,728,262
+2025-03-25,Customer Service,1294,347
+2025-03-25,Escalations,178,737
+2025-03-25,Technical Support,583,573
+2025-03-26,Claims,927,441
+2025-03-26,Billing,803,297
+2025-03-26,Customer Service,1169,299
+2025-03-26,Escalations,165,758
+2025-03-26,Technical Support,446,573
+2025-03-27,Claims,918,461
+2025-03-27,Billing,730,299
+2025-03-27,Customer Service,1217,372
+2025-03-27,Escalations,125,714
+2025-03-27,Technical Support,480,593
+2025-03-28,Claims,831,430
+2025-03-28,Billing,634,312
+2025-03-28,Customer Service,1245,317
+2025-03-28,Escalations,130,723
+2025-03-28,Technical Support,448,567
+2025-03-29,Claims,684,478
+2025-03-29,Billing,410,302
+2025-03-29,Customer Service,904,361
+2025-03-29,Escalations,106,703
+2025-03-29,Technical Support,328,547
+2025-03-30,Claims,459,431
+2025-03-30,Billing,328,310
+2025-03-30,Customer Service,596,353
+2025-03-30,Escalations,79,741
+2025-03-30,Technical Support,216,612
+2025-03-31,Claims,978,428
+2025-03-31,Billing,863,288
+2025-03-31,Customer Service,1373,352
+2025-03-31,Escalations,199,619
+2025-03-31,Technical Support,588,650
+2025-04-01,Claims,955,460
+2025-04-01,Billing,802,318
+2025-04-01,Customer Service,1714,322
+2025-04-01,Escalations,180,744
+2025-04-01,Technical Support,565,667
+2025-04-02,Claims,1050,420
+2025-04-02,Billing,822,312
+2025-04-02,Customer Service,1400,350
+2025-04-02,Escalations,170,646
+2025-04-02,Technical Support,597,615
+2025-04-03,Claims,1098,469
+2025-04-03,Billing,795,291
+2025-04-03,Customer Service,1370,370
+2025-04-03,Escalations,159,642
+2025-04-03,Technical Support,476,555
+2025-04-04,Claims,904,453
+2025-04-04,Billing,686,300
+2025-04-04,Customer Service,1362,337
+2025-04-04,Escalations,161,728
+2025-04-04,Technical Support,404,616
+2025-04-05,Claims,732,469
+2025-04-05,Billing,475,298
+2025-04-05,Customer Service,924,361
+2025-04-05,Escalations,121,684
+2025-04-05,Technical Support,414,662
+2025-04-06,Claims,602,432
+2025-04-06,Billing,387,332
+2025-04-06,Customer Service,671,351
+2025-04-06,Escalations,89,652
+2025-04-06,Technical Support,273,641
+2025-04-07,Claims,1128,453
+2025-04-07,Billing,1012,313
+2025-04-07,Customer Service,1664,371
+2025-04-07,Escalations,212,712
+2025-04-07,Technical Support,645,582
+2025-04-08,Claims,1147,472
+2025-04-08,Billing,905,300
+2025-04-08,Customer Service,1489,362
+2025-04-08,Escalations,187,625
+2025-04-08,Technical Support,536,613
+2025-04-09,Claims,1048,436
+2025-04-09,Billing,823,325
+2025-04-09,Customer Service,1482,361
+2025-04-09,Escalations,203,708
+2025-04-09,Technical Support,536,615
+2025-04-10,Claims,1016,428
+2025-04-10,Billing,673,324
+2025-04-10,Customer Service,1320,385
+2025-04-10,Escalations,180,714
+2025-04-10,Technical Support,545,648
+2025-04-11,Claims,848,437
+2025-04-11,Billing,660,288
+2025-04-11,Customer Service,1077,351
+2025-04-11,Escalations,149,715
+2025-04-11,Technical Support,492,588
+2025-04-12,Claims,707,462
+2025-04-12,Billing,537,305
+2025-04-12,Customer Service,957,333
+2025-04-12,Escalations,119,718
+2025-04-12,Technical Support,339,626
+2025-04-13,Claims,509,454
+2025-04-13,Billing,381,317
+2025-04-13,Customer Service,708,329
+2025-04-13,Escalations,82,716
+2025-04-13,Technical Support,211,565
+2025-04-14,Claims,1260,425
+2025-04-14,Billing,852,291
+2025-04-14,Customer Service,1522,334
+2025-04-14,Escalations,216,681
+2025-04-14,Technical Support,594,594
+2025-04-15,Claims,1204,469
+2025-04-15,Billing,891,295
+2025-04-15,Customer Service,1653,322
+2025-04-15,Escalations,174,740
+2025-04-15,Technical Support,645,575
+2025-04-16,Claims,1035,449
+2025-04-16,Billing,752,307
+2025-04-16,Customer Service,1447,353
+2025-04-16,Escalations,153,738
+2025-04-16,Technical Support,554,614
+2025-04-17,Claims,886,431
+2025-04-17,Billing,658,333
+2025-04-17,Customer Service,1197,353
+2025-04-17,Escalations,186,695
+2025-04-17,Technical Support,485,629
+2025-04-18,Claims,976,456
+2025-04-18,Billing,636,306
+2025-04-18,Customer Service,1059,394
+2025-04-18,Escalations,140,690
+2025-04-18,Technical Support,506,590
+2025-04-19,Claims,668,453
+2025-04-19,Billing,494,316
+2025-04-19,Customer Service,966,324
+2025-04-19,Escalations,124,631
+2025-04-19,Technical Support,390,582
+2025-04-20,Claims,539,413
+2025-04-20,Billing,359,294
+2025-04-20,Customer Service,609,359
+2025-04-20,Escalations,82,669
+2025-04-20,Technical Support,261,557
+2025-04-21,Claims,1070,452
+2025-04-21,Billing,818,313
+2025-04-21,Customer Service,1681,320
+2025-04-21,Escalations,204,729
+2025-04-21,Technical Support,615,625
+2025-04-22,Claims,1043,471
+2025-04-22,Billing,834,318
+2025-04-22,Customer Service,1452,389
+2025-04-22,Escalations,210,688
+2025-04-22,Technical Support,637,603
+2025-04-23,Claims,865,441
+2025-04-23,Billing,718,300
+2025-04-23,Customer Service,1261,377
+2025-04-23,Escalations,170,653
+2025-04-23,Technical Support,533,574
+2025-04-24,Claims,854,481
+2025-04-24,Billing,684,315
+2025-04-24,Customer Service,1254,344
+2025-04-24,Escalations,173,730
+2025-04-24,Technical Support,514,610
+2025-04-25,Claims,819,484
+2025-04-25,Billing,674,301
+2025-04-25,Customer Service,1174,368
+2025-04-25,Escalations,150,792
+2025-04-25,Technical Support,522,618
+2025-04-26,Claims,749,451
+2025-04-26,Billing,463,311
+2025-04-26,Customer Service,1018,344
+2025-04-26,Escalations,127,784
+2025-04-26,Technical Support,325,605
+2025-04-27,Claims,515,444
+2025-04-27,Billing,415,287
+2025-04-27,Customer Service,621,369
+2025-04-27,Escalations,79,730
+2025-04-27,Technical Support,277,585
+2025-04-28,Claims,1185,463
+2025-04-28,Billing,926,277
+2025-04-28,Customer Service,1682,353
+2025-04-28,Escalations,211,716
+2025-04-28,Technical Support,549,651
+2025-04-29,Claims,1205,433
+2025-04-29,Billing,930,281
+2025-04-29,Customer Service,1541,334
+2025-04-29,Escalations,195,653
+2025-04-29,Technical Support,516,640
+2025-04-30,Claims,1057,485
+2025-04-30,Billing,812,305
+2025-04-30,Customer Service,1426,371
+2025-04-30,Escalations,195,705
+2025-04-30,Technical Support,523,597
+2025-05-01,Claims,1048,443
+2025-05-01,Billing,704,295
+2025-05-01,Customer Service,1413,323
+2025-05-01,Escalations,174,709
+2025-05-01,Technical Support,540,599
+2025-05-02,Claims,876,467
+2025-05-02,Billing,683,301
+2025-05-02,Customer Service,1358,347
+2025-05-02,Escalations,154,670
+2025-05-02,Technical Support,416,602
+2025-05-03,Claims,800,467
+2025-05-03,Billing,596,283
+2025-05-03,Customer Service,889,352
+2025-05-03,Escalations,131,708
+2025-05-03,Technical Support,357,578
+2025-05-04,Claims,512,437
+2025-05-04,Billing,393,303
+2025-05-04,Customer Service,695,330
+2025-05-04,Escalations,83,712
+2025-05-04,Technical Support,251,573
+2025-05-05,Claims,1115,474
+2025-05-05,Billing,859,335
+2025-05-05,Customer Service,1690,335
+2025-05-05,Escalations,200,719
+2025-05-05,Technical Support,672,578
+2025-05-06,Claims,1291,473
+2025-05-06,Billing,841,281
+2025-05-06,Customer Service,1660,358
+2025-05-06,Escalations,212,669
+2025-05-06,Technical Support,634,594
+2025-05-07,Claims,1060,427
+2025-05-07,Billing,853,312
+2025-05-07,Customer Service,1545,335
+2025-05-07,Escalations,167,719
+2025-05-07,Technical Support,596,590
+2025-05-08,Claims,1075,447
+2025-05-08,Billing,720,302
+2025-05-08,Customer Service,1421,337
+2025-05-08,Escalations,187,707
+2025-05-08,Technical Support,522,646
+2025-05-09,Claims,981,432
+2025-05-09,Billing,821,318
+2025-05-09,Customer Service,1195,376
+2025-05-09,Escalations,142,671
+2025-05-09,Technical Support,490,556
+2025-05-10,Claims,743,457
+2025-05-10,Billing,527,292
+2025-05-10,Customer Service,1107,383
+2025-05-10,Escalations,111,701
+2025-05-10,Technical Support,393,576
+2025-05-11,Claims,478,424
+2025-05-11,Billing,437,316
+2025-05-11,Customer Service,821,340
+2025-05-11,Escalations,83,702
+2025-05-11,Technical Support,254,629
+2025-05-12,Claims,1287,439
+2025-05-12,Billing,893,299
+2025-05-12,Customer Service,1694,350
+2025-05-12,Escalations,213,724
+2025-05-12,Technical Support,540,618
+2025-05-13,Claims,1153,445
+2025-05-13,Billing,834,301
+2025-05-13,Customer Service,1566,343
+2025-05-13,Escalations,227,648
+2025-05-13,Technical Support,550,608
+2025-05-14,Claims,1123,493
+2025-05-14,Billing,788,287
+2025-05-14,Customer Service,1455,336
+2025-05-14,Escalations,198,670
+2025-05-14,Technical Support,573,622
+2025-05-15,Claims,1050,460
+2025-05-15,Billing,827,298
+2025-05-15,Customer Service,1380,334
+2025-05-15,Escalations,169,703
+2025-05-15,Technical Support,485,553
+2025-05-16,Claims,844,453
+2025-05-16,Billing,854,313
+2025-05-16,Customer Service,1403,328
+2025-05-16,Escalations,142,646
+2025-05-16,Technical Support,428,647
+2025-05-17,Claims,730,436
+2025-05-17,Billing,561,317
+2025-05-17,Customer Service,1036,347
+2025-05-17,Escalations,122,694
+2025-05-17,Technical Support,368,613
+2025-05-18,Claims,515,430
+2025-05-18,Billing,387,302
+2025-05-18,Customer Service,583,343
+2025-05-18,Escalations,87,654
+2025-05-18,Technical Support,248,610
+2025-05-19,Claims,1222,444
+2025-05-19,Billing,1142,298
+2025-05-19,Customer Service,1752,329
+2025-05-19,Escalations,207,756
+2025-05-19,Technical Support,685,626
+2025-05-20,Claims,1200,472
+2025-05-20,Billing,913,295
+2025-05-20,Customer Service,1710,320
+2025-05-20,Escalations,237,768
+2025-05-20,Technical Support,556,598
+2025-05-21,Claims,1095,433
+2025-05-21,Billing,747,306
+2025-05-21,Customer Service,1556,370
+2025-05-21,Escalations,172,699
+2025-05-21,Technical Support,540,638
+2025-05-22,Claims,981,474
+2025-05-22,Billing,828,284
+2025-05-22,Customer Service,1523,338
+2025-05-22,Escalations,160,734
+2025-05-22,Technical Support,534,519
+2025-05-23,Claims,853,447
+2025-05-23,Billing,622,279
+2025-05-23,Customer Service,1255,342
+2025-05-23,Escalations,156,690
+2025-05-23,Technical Support,572,589
+2025-05-24,Claims,728,438
+2025-05-24,Billing,479,284
+2025-05-24,Customer Service,948,390
+2025-05-24,Escalations,134,765
+2025-05-24,Technical Support,435,565
+2025-05-25,Claims,439,486
+2025-05-25,Billing,327,294
+2025-05-25,Customer Service,816,352
+2025-05-25,Escalations,91,698
+2025-05-25,Technical Support,248,580
+2025-05-26,Claims,1258,472
+2025-05-26,Billing,728,302
+2025-05-26,Customer Service,1703,342
+2025-05-26,Escalations,218,654
+2025-05-26,Technical Support,686,573
+2025-05-27,Claims,1062,413
+2025-05-27,Billing,890,300
+2025-05-27,Customer Service,1511,329
+2025-05-27,Escalations,208,691
+2025-05-27,Technical Support,568,641
+2025-05-28,Claims,1021,477
+2025-05-28,Billing,743,300
+2025-05-28,Customer Service,1568,348
+2025-05-28,Escalations,199,766
+2025-05-28,Technical Support,548,616
+2025-05-29,Claims,1009,443
+2025-05-29,Billing,680,279
+2025-05-29,Customer Service,1386,357
+2025-05-29,Escalations,177,729
+2025-05-29,Technical Support,644,581
+2025-05-30,Claims,825,457
+2025-05-30,Billing,773,295
+2025-05-30,Customer Service,1380,347
+2025-05-30,Escalations,163,613
+2025-05-30,Technical Support,547,593
+2025-05-31,Claims,725,472
+2025-05-31,Billing,555,291
+2025-05-31,Customer Service,990,351
+2025-05-31,Escalations,136,674
+2025-05-31,Technical Support,405,611
+2025-06-01,Claims,469,445
+2025-06-01,Billing,338,286
+2025-06-01,Customer Service,686,373
+2025-06-01,Escalations,82,733
+2025-06-01,Technical Support,260,582
+2025-06-02,Claims,1303,461
+2025-06-02,Billing,873,308
+2025-06-02,Customer Service,1668,361
+2025-06-02,Escalations,210,641
+2025-06-02,Technical Support,670,630
+2025-06-03,Claims,932,437
+2025-06-03,Billing,827,295
+2025-06-03,Customer Service,1631,396
+2025-06-03,Escalations,220,711
+2025-06-03,Technical Support,578,588
+2025-06-04,Claims,882,400
+2025-06-04,Billing,833,321
+2025-06-04,Customer Service,1390,326
+2025-06-04,Escalations,166,665
+2025-06-04,Technical Support,522,590
+2025-06-05,Claims,974,482
+2025-06-05,Billing,719,312
+2025-06-05,Customer Service,1149,347
+2025-06-05,Escalations,187,711
+2025-06-05,Technical Support,577,582
+2025-06-06,Claims,936,453
+2025-06-06,Billing,618,301
+2025-06-06,Customer Service,1236,367
+2025-06-06,Escalations,157,734
+2025-06-06,Technical Support,494,615
+2025-06-07,Claims,729,442
+2025-06-07,Billing,498,311
+2025-06-07,Customer Service,983,348
+2025-06-07,Escalations,127,662
+2025-06-07,Technical Support,409,588
+2025-06-08,Claims,522,452
+2025-06-08,Billing,402,314
+2025-06-08,Customer Service,703,347
+2025-06-08,Escalations,97,658
+2025-06-08,Technical Support,270,602
+2025-06-09,Claims,1105,453
+2025-06-09,Billing,1009,303
+2025-06-09,Customer Service,1769,366
+2025-06-09,Escalations,202,736
+2025-06-09,Technical Support,604,582
+2025-06-10,Claims,1164,436
+2025-06-10,Billing,902,284
+2025-06-10,Customer Service,1631,362
+2025-06-10,Escalations,206,751
+2025-06-10,Technical Support,684,591
+2025-06-11,Claims,1127,445
+2025-06-11,Billing,806,322
+2025-06-11,Customer Service,1576,359
+2025-06-11,Escalations,168,715
+2025-06-11,Technical Support,567,564
+2025-06-12,Claims,1132,465
+2025-06-12,Billing,743,286
+2025-06-12,Customer Service,1302,330
+2025-06-12,Escalations,165,688
+2025-06-12,Technical Support,478,582
+2025-06-13,Claims,834,445
+2025-06-13,Billing,661,278
+2025-06-13,Customer Service,1115,367
+2025-06-13,Escalations,157,739
+2025-06-13,Technical Support,505,542
+2025-06-14,Claims,642,472
+2025-06-14,Billing,594,288
+2025-06-14,Customer Service,1018,365
+2025-06-14,Escalations,132,698
+2025-06-14,Technical Support,347,601
+2025-06-15,Claims,528,446
+2025-06-15,Billing,345,318
+2025-06-15,Customer Service,748,328
+2025-06-15,Escalations,88,721
+2025-06-15,Technical Support,273,633
+2025-06-16,Claims,1076,466
+2025-06-16,Billing,843,335
+2025-06-16,Customer Service,1756,341
+2025-06-16,Escalations,194,734
+2025-06-16,Technical Support,652,597
+2025-06-17,Claims,1014,478
+2025-06-17,Billing,929,300
+2025-06-17,Customer Service,1448,343
+2025-06-17,Escalations,210,746
+2025-06-17,Technical Support,633,585
+2025-06-18,Claims,981,418
+2025-06-18,Billing,832,292
+2025-06-18,Customer Service,1498,361
+2025-06-18,Escalations,175,749
+2025-06-18,Technical Support,506,603
+2025-06-19,Claims,834,480
+2025-06-19,Billing,778,280
+2025-06-19,Customer Service,1222,342
+2025-06-19,Escalations,176,690
+2025-06-19,Technical Support,513,597
+2025-06-20,Claims,939,452
+2025-06-20,Billing,665,310
+2025-06-20,Customer Service,1225,342
+2025-06-20,Escalations,166,705
+2025-06-20,Technical Support,484,599
+2025-06-21,Claims,710,429
+2025-06-21,Billing,550,298
+2025-06-21,Customer Service,858,347
+2025-06-21,Escalations,130,694
+2025-06-21,Technical Support,385,601
+2025-06-22,Claims,455,452
+2025-06-22,Billing,371,294
+2025-06-22,Customer Service,697,372
+2025-06-22,Escalations,86,659
+2025-06-22,Technical Support,269,578
+2025-06-23,Claims,1324,513
+2025-06-23,Billing,987,284
+2025-06-23,Customer Service,1501,326
+2025-06-23,Escalations,220,726
+2025-06-23,Technical Support,696,538
+2025-06-24,Claims,1174,445
+2025-06-24,Billing,947,332
+2025-06-24,Customer Service,1867,323
+2025-06-24,Escalations,217,631
+2025-06-24,Technical Support,615,555
+2025-06-25,Claims,1127,470
+2025-06-25,Billing,804,317
+2025-06-25,Customer Service,1471,341
+2025-06-25,Escalations,178,724
+2025-06-25,Technical Support,619,642
+2025-06-26,Claims,926,490
+2025-06-26,Billing,850,296
+2025-06-26,Customer Service,1454,310
+2025-06-26,Escalations,155,671
+2025-06-26,Technical Support,540,587
+2025-06-27,Claims,742,444
+2025-06-27,Billing,716,297
+2025-06-27,Customer Service,1348,370
+2025-06-27,Escalations,150,745
+2025-06-27,Technical Support,477,595
+2025-06-28,Claims,802,475
+2025-06-28,Billing,509,305
+2025-06-28,Customer Service,896,351
+2025-06-28,Escalations,137,732
+2025-06-28,Technical Support,425,602
+2025-06-29,Claims,496,496
+2025-06-29,Billing,409,278
+2025-06-29,Customer Service,774,341
+2025-06-29,Escalations,82,696
+2025-06-29,Technical Support,252,613
+2025-06-30,Claims,1306,479
+2025-06-30,Billing,1032,300
+2025-06-30,Customer Service,1754,325
+2025-06-30,Escalations,195,729
+2025-06-30,Technical Support,730,623
+2025-07-01,Claims,913,406
+2025-07-01,Billing,709,300
+2025-07-01,Customer Service,1382,322
+2025-07-01,Escalations,189,677
+2025-07-01,Technical Support,539,573
+2025-07-02,Claims,899,468
+2025-07-02,Billing,690,302
+2025-07-02,Customer Service,1233,328
+2025-07-02,Escalations,160,731
+2025-07-02,Technical Support,368,557
+2025-07-03,Claims,809,457
+2025-07-03,Billing,646,288
+2025-07-03,Customer Service,1063,344
+2025-07-03,Escalations,151,718
+2025-07-03,Technical Support,432,616
+2025-07-04,Claims,851,480
+2025-07-04,Billing,642,299
+2025-07-04,Customer Service,1014,355
+2025-07-04,Escalations,130,685
+2025-07-04,Technical Support,393,605
+2025-07-05,Claims,559,460
+2025-07-05,Billing,451,299
+2025-07-05,Customer Service,770,318
+2025-07-05,Escalations,93,712
+2025-07-05,Technical Support,323,611
+2025-07-06,Claims,436,435
+2025-07-06,Billing,297,281
+2025-07-06,Customer Service,627,376
+2025-07-06,Escalations,69,717
+2025-07-06,Technical Support,224,593
+2025-07-07,Claims,1061,424
+2025-07-07,Billing,759,288
+2025-07-07,Customer Service,1456,373
+2025-07-07,Escalations,168,705
+2025-07-07,Technical Support,519,583
+2025-07-08,Claims,938,461
+2025-07-08,Billing,686,288
+2025-07-08,Customer Service,1328,376
+2025-07-08,Escalations,147,747
+2025-07-08,Technical Support,485,586
+2025-07-09,Claims,851,436
+2025-07-09,Billing,652,261
+2025-07-09,Customer Service,1206,324
+2025-07-09,Escalations,153,653
+2025-07-09,Technical Support,479,604
+2025-07-10,Claims,888,443
+2025-07-10,Billing,601,280
+2025-07-10,Customer Service,1058,345
+2025-07-10,Escalations,134,718
+2025-07-10,Technical Support,422,616
+2025-07-11,Claims,726,407
+2025-07-11,Billing,536,298
+2025-07-11,Customer Service,945,326
+2025-07-11,Escalations,127,732
+2025-07-11,Technical Support,401,624
+2025-07-12,Claims,608,430
+2025-07-12,Billing,424,289
+2025-07-12,Customer Service,793,342
+2025-07-12,Escalations,95,621
+2025-07-12,Technical Support,307,610
+2025-07-13,Claims,387,444
+2025-07-13,Billing,332,315
+2025-07-13,Customer Service,502,331
+2025-07-13,Escalations,71,678
+2025-07-13,Technical Support,225,555
+2025-07-14,Claims,1011,427
+2025-07-14,Billing,926,282
+2025-07-14,Customer Service,1445,367
+2025-07-14,Escalations,162,676
+2025-07-14,Technical Support,523,604
+2025-07-15,Claims,819,441
+2025-07-15,Billing,725,281
+2025-07-15,Customer Service,1258,347
+2025-07-15,Escalations,181,721
+2025-07-15,Technical Support,483,564
+2025-07-16,Claims,863,468
+2025-07-16,Billing,633,287
+2025-07-16,Customer Service,1402,342
+2025-07-16,Escalations,150,719
+2025-07-16,Technical Support,529,580
+2025-07-17,Claims,884,451
+2025-07-17,Billing,659,295
+2025-07-17,Customer Service,1207,352
+2025-07-17,Escalations,151,617
+2025-07-17,Technical Support,372,545
+2025-07-18,Claims,731,464
+2025-07-18,Billing,610,316
+2025-07-18,Customer Service,1051,334
+2025-07-18,Escalations,117,691
+2025-07-18,Technical Support,394,609
+2025-07-19,Claims,660,466
+2025-07-19,Billing,489,270
+2025-07-19,Customer Service,817,334
+2025-07-19,Escalations,110,688
+2025-07-19,Technical Support,299,621
+2025-07-20,Claims,359,506
+2025-07-20,Billing,294,297
+2025-07-20,Customer Service,659,325
+2025-07-20,Escalations,72,714
+2025-07-20,Technical Support,216,640
+2025-07-21,Claims,973,452
+2025-07-21,Billing,878,286
+2025-07-21,Customer Service,1590,367
+2025-07-21,Escalations,207,723
+2025-07-21,Technical Support,521,569
+2025-07-22,Claims,978,459
+2025-07-22,Billing,642,315
+2025-07-22,Customer Service,1508,371
+2025-07-22,Escalations,153,698
+2025-07-22,Technical Support,514,589
+2025-07-23,Claims,796,478
+2025-07-23,Billing,636,282
+2025-07-23,Customer Service,1149,358
+2025-07-23,Escalations,146,652
+2025-07-23,Technical Support,442,632
+2025-07-24,Claims,794,444
+2025-07-24,Billing,678,319
+2025-07-24,Customer Service,1069,359
+2025-07-24,Escalations,149,657
+2025-07-24,Technical Support,483,643
+2025-07-25,Claims,717,485
+2025-07-25,Billing,539,313
+2025-07-25,Customer Service,1036,337
+2025-07-25,Escalations,144,689
+2025-07-25,Technical Support,402,604
+2025-07-26,Claims,557,434
+2025-07-26,Billing,462,325
+2025-07-26,Customer Service,749,353
+2025-07-26,Escalations,108,605
+2025-07-26,Technical Support,318,610
+2025-07-27,Claims,405,442
+2025-07-27,Billing,296,299
+2025-07-27,Customer Service,545,344
+2025-07-27,Escalations,76,728
+2025-07-27,Technical Support,242,634
+2025-07-28,Claims,946,456
+2025-07-28,Billing,791,295
+2025-07-28,Customer Service,1173,349
+2025-07-28,Escalations,168,701
+2025-07-28,Technical Support,527,576
+2025-07-29,Claims,886,463
+2025-07-29,Billing,676,307
+2025-07-29,Customer Service,1277,377
+2025-07-29,Escalations,173,744
+2025-07-29,Technical Support,498,579
+2025-07-30,Claims,717,468
+2025-07-30,Billing,554,286
+2025-07-30,Customer Service,1172,362
+2025-07-30,Escalations,160,682
+2025-07-30,Technical Support,361,569
+2025-07-31,Claims,798,456
+2025-07-31,Billing,609,260
+2025-07-31,Customer Service,1304,319
+2025-07-31,Escalations,142,694
+2025-07-31,Technical Support,454,602
+2025-08-01,Claims,740,442
+2025-08-01,Billing,464,276
+2025-08-01,Customer Service,1097,336
+2025-08-01,Escalations,131,714
+2025-08-01,Technical Support,403,617
+2025-08-02,Claims,748,450
+2025-08-02,Billing,363,317
+2025-08-02,Customer Service,915,357
+2025-08-02,Escalations,98,674
+2025-08-02,Technical Support,308,592
+2025-08-03,Claims,405,418
+2025-08-03,Billing,301,298
+2025-08-03,Customer Service,548,369
+2025-08-03,Escalations,74,724
+2025-08-03,Technical Support,189,642
+2025-08-04,Claims,1035,443
+2025-08-04,Billing,722,320
+2025-08-04,Customer Service,1254,347
+2025-08-04,Escalations,166,752
+2025-08-04,Technical Support,569,599
+2025-08-05,Claims,896,466
+2025-08-05,Billing,736,322
+2025-08-05,Customer Service,1244,347
+2025-08-05,Escalations,175,708
+2025-08-05,Technical Support,523,639
+2025-08-06,Claims,981,447
+2025-08-06,Billing,644,280
+2025-08-06,Customer Service,1271,388
+2025-08-06,Escalations,152,684
+2025-08-06,Technical Support,499,605
+2025-08-07,Claims,767,476
+2025-08-07,Billing,659,291
+2025-08-07,Customer Service,1131,332
+2025-08-07,Escalations,143,709
+2025-08-07,Technical Support,434,546
+2025-08-08,Claims,747,444
+2025-08-08,Billing,555,304
+2025-08-08,Customer Service,1052,345
+2025-08-08,Escalations,146,646
+2025-08-08,Technical Support,418,648
+2025-08-09,Claims,609,452
+2025-08-09,Billing,420,321
+2025-08-09,Customer Service,747,345
+2025-08-09,Escalations,108,669
+2025-08-09,Technical Support,323,608
+2025-08-10,Claims,455,445
+2025-08-10,Billing,296,282
+2025-08-10,Customer Service,564,376
+2025-08-10,Escalations,62,678
+2025-08-10,Technical Support,209,545
+2025-08-11,Claims,1055,480
+2025-08-11,Billing,719,292
+2025-08-11,Customer Service,1450,339
+2025-08-11,Escalations,170,638
+2025-08-11,Technical Support,531,652
+2025-08-12,Claims,850,421
+2025-08-12,Billing,721,301
+2025-08-12,Customer Service,1006,366
+2025-08-12,Escalations,163,715
+2025-08-12,Technical Support,431,598
+2025-08-13,Claims,938,412
+2025-08-13,Billing,695,288
+2025-08-13,Customer Service,1252,353
+2025-08-13,Escalations,169,672
+2025-08-13,Technical Support,418,606
+2025-08-14,Claims,928,465
+2025-08-14,Billing,669,314
+2025-08-14,Customer Service,1128,329
+2025-08-14,Escalations,157,777
+2025-08-14,Technical Support,393,623
+2025-08-15,Claims,685,450
+2025-08-15,Billing,533,316
+2025-08-15,Customer Service,991,391
+2025-08-15,Escalations,118,650
+2025-08-15,Technical Support,426,593
+2025-08-16,Claims,558,396
+2025-08-16,Billing,448,303
+2025-08-16,Customer Service,768,356
+2025-08-16,Escalations,86,699
+2025-08-16,Technical Support,308,580
+2025-08-17,Claims,345,404
+2025-08-17,Billing,310,306
+2025-08-17,Customer Service,512,375
+2025-08-17,Escalations,83,679
+2025-08-17,Technical Support,231,613
+2025-08-18,Claims,986,415
+2025-08-18,Billing,823,307
+2025-08-18,Customer Service,1287,343
+2025-08-18,Escalations,180,673
+2025-08-18,Technical Support,526,577
+2025-08-19,Claims,957,441
+2025-08-19,Billing,790,306
+2025-08-19,Customer Service,1401,327
+2025-08-19,Escalations,169,686
+2025-08-19,Technical Support,430,599
+2025-08-20,Claims,790,425
+2025-08-20,Billing,648,327
+2025-08-20,Customer Service,1217,335
+2025-08-20,Escalations,137,677
+2025-08-20,Technical Support,540,571
+2025-08-21,Claims,914,490
+2025-08-21,Billing,653,308
+2025-08-21,Customer Service,1157,334
+2025-08-21,Escalations,141,739
+2025-08-21,Technical Support,399,606
+2025-08-22,Claims,738,456
+2025-08-22,Billing,573,295
+2025-08-22,Customer Service,933,337
+2025-08-22,Escalations,133,712
+2025-08-22,Technical Support,384,584
+2025-08-23,Claims,484,491
+2025-08-23,Billing,406,281
+2025-08-23,Customer Service,779,377
+2025-08-23,Escalations,116,696
+2025-08-23,Technical Support,316,609
+2025-08-24,Claims,364,469
+2025-08-24,Billing,324,291
+2025-08-24,Customer Service,504,365
+2025-08-24,Escalations,78,605
+2025-08-24,Technical Support,208,578
+2025-08-25,Claims,971,429
+2025-08-25,Billing,828,281
+2025-08-25,Customer Service,1239,346
+2025-08-25,Escalations,153,714
+2025-08-25,Technical Support,494,621
+2025-08-26,Claims,1016,455
+2025-08-26,Billing,630,290
+2025-08-26,Customer Service,1024,356
+2025-08-26,Escalations,160,704
+2025-08-26,Technical Support,518,628
+2025-08-27,Claims,939,467
+2025-08-27,Billing,631,300
+2025-08-27,Customer Service,1169,334
+2025-08-27,Escalations,165,677
+2025-08-27,Technical Support,386,584
+2025-08-28,Claims,790,443
+2025-08-28,Billing,633,304
+2025-08-28,Customer Service,1193,363
+2025-08-28,Escalations,138,698
+2025-08-28,Technical Support,433,600
+2025-08-29,Claims,588,453
+2025-08-29,Billing,532,292
+2025-08-29,Customer Service,1074,334
+2025-08-29,Escalations,119,639
+2025-08-29,Technical Support,391,579
+2025-08-30,Claims,591,461
+2025-08-30,Billing,425,289
+2025-08-30,Customer Service,817,346
+2025-08-30,Escalations,93,716
+2025-08-30,Technical Support,297,616
+2025-08-31,Claims,428,426
+2025-08-31,Billing,316,315
+2025-08-31,Customer Service,549,370
+2025-08-31,Escalations,73,660
+2025-08-31,Technical Support,228,575
+2025-09-01,Claims,982,477
+2025-09-01,Billing,982,298
+2025-09-01,Customer Service,1614,311
+2025-09-01,Escalations,214,651
+2025-09-01,Technical Support,682,593
+2025-09-02,Claims,1003,424
+2025-09-02,Billing,812,294
+2025-09-02,Customer Service,1553,351
+2025-09-02,Escalations,186,751
+2025-09-02,Technical Support,679,591
+2025-09-03,Claims,958,474
+2025-09-03,Billing,751,321
+2025-09-03,Customer Service,1476,375
+2025-09-03,Escalations,164,710
+2025-09-03,Technical Support,527,541
+2025-09-04,Claims,1004,460
+2025-09-04,Billing,729,316
+2025-09-04,Customer Service,1372,349
+2025-09-04,Escalations,166,761
+2025-09-04,Technical Support,456,626
+2025-09-05,Claims,904,463
+2025-09-05,Billing,769,316
+2025-09-05,Customer Service,1246,356
+2025-09-05,Escalations,158,613
+2025-09-05,Technical Support,493,585
+2025-09-06,Claims,616,477
+2025-09-06,Billing,596,288
+2025-09-06,Customer Service,984,346
+2025-09-06,Escalations,137,663
+2025-09-06,Technical Support,342,654
+2025-09-07,Claims,561,488
+2025-09-07,Billing,398,287
+2025-09-07,Customer Service,722,353
+2025-09-07,Escalations,88,676
+2025-09-07,Technical Support,254,618
+2025-09-08,Claims,1289,461
+2025-09-08,Billing,909,312
+2025-09-08,Customer Service,1399,356
+2025-09-08,Escalations,189,803
+2025-09-08,Technical Support,613,569
+2025-09-09,Claims,1155,412
+2025-09-09,Billing,858,294
+2025-09-09,Customer Service,1746,323
+2025-09-09,Escalations,168,648
+2025-09-09,Technical Support,603,570
+2025-09-10,Claims,879,429
+2025-09-10,Billing,835,286
+2025-09-10,Customer Service,1442,359
+2025-09-10,Escalations,188,682
+2025-09-10,Technical Support,507,595
+2025-09-11,Claims,1081,470
+2025-09-11,Billing,812,289
+2025-09-11,Customer Service,1448,345
+2025-09-11,Escalations,171,713
+2025-09-11,Technical Support,543,542
+2025-09-12,Claims,832,396
+2025-09-12,Billing,721,305
+2025-09-12,Customer Service,1410,359
+2025-09-12,Escalations,169,772
+2025-09-12,Technical Support,440,605
+2025-09-13,Claims,706,468
+2025-09-13,Billing,471,297
+2025-09-13,Customer Service,1013,355
+2025-09-13,Escalations,125,758
+2025-09-13,Technical Support,309,536
+2025-09-14,Claims,445,459
+2025-09-14,Billing,366,332
+2025-09-14,Customer Service,675,355
+2025-09-14,Escalations,78,758
+2025-09-14,Technical Support,268,581
+2025-09-15,Claims,1200,449
+2025-09-15,Billing,886,301
+2025-09-15,Customer Service,1561,311
+2025-09-15,Escalations,225,659
+2025-09-15,Technical Support,705,567
+2025-09-16,Claims,1084,468
+2025-09-16,Billing,820,313
+2025-09-16,Customer Service,1655,356
+2025-09-16,Escalations,193,729
+2025-09-16,Technical Support,590,595
+2025-09-17,Claims,1091,477
+2025-09-17,Billing,667,300
+2025-09-17,Customer Service,1607,351
+2025-09-17,Escalations,183,691
+2025-09-17,Technical Support,527,621
+2025-09-18,Claims,974,441
+2025-09-18,Billing,748,315
+2025-09-18,Customer Service,1193,330
+2025-09-18,Escalations,194,662
+2025-09-18,Technical Support,521,621
+2025-09-19,Claims,914,448
+2025-09-19,Billing,727,293
+2025-09-19,Customer Service,1145,366
+2025-09-19,Escalations,162,679
+2025-09-19,Technical Support,457,594
+2025-09-20,Claims,733,481
+2025-09-20,Billing,436,323
+2025-09-20,Customer Service,962,378
+2025-09-20,Escalations,115,690
+2025-09-20,Technical Support,376,637
+2025-09-21,Claims,509,429
+2025-09-21,Billing,354,286
+2025-09-21,Customer Service,653,309
+2025-09-21,Escalations,86,759
+2025-09-21,Technical Support,241,574
+2025-09-22,Claims,1257,447
+2025-09-22,Billing,874,286
+2025-09-22,Customer Service,1276,362
+2025-09-22,Escalations,202,687
+2025-09-22,Technical Support,572,561
+2025-09-23,Claims,981,460
+2025-09-23,Billing,778,278
+2025-09-23,Customer Service,1607,335
+2025-09-23,Escalations,220,626
+2025-09-23,Technical Support,612,557
+2025-09-24,Claims,981,454
+2025-09-24,Billing,817,271
+2025-09-24,Customer Service,1401,324
+2025-09-24,Escalations,172,700
+2025-09-24,Technical Support,495,584
+2025-09-25,Claims,844,495
+2025-09-25,Billing,727,328
+2025-09-25,Customer Service,1403,335
+2025-09-25,Escalations,172,719
+2025-09-25,Technical Support,502,622
+2025-09-26,Claims,817,437
+2025-09-26,Billing,709,278
+2025-09-26,Customer Service,1116,350
+2025-09-26,Escalations,166,694
+2025-09-26,Technical Support,430,587
+2025-09-27,Claims,646,460
+2025-09-27,Billing,464,289
+2025-09-27,Customer Service,931,330
+2025-09-27,Escalations,131,704
+2025-09-27,Technical Support,379,612
+2025-09-28,Claims,529,424
+2025-09-28,Billing,391,314
+2025-09-28,Customer Service,632,319
+2025-09-28,Escalations,84,680
+2025-09-28,Technical Support,244,592
+2025-09-29,Claims,1304,436
+2025-09-29,Billing,815,292
+2025-09-29,Customer Service,1783,383
+2025-09-29,Escalations,223,670
+2025-09-29,Technical Support,715,673
+2025-09-30,Claims,1092,460
+2025-09-30,Billing,913,301
+2025-09-30,Customer Service,1886,358
+2025-09-30,Escalations,189,789
+2025-09-30,Technical Support,524,570
+2025-10-01,Claims,909,425
+2025-10-01,Billing,864,289
+2025-10-01,Customer Service,1282,351
+2025-10-01,Escalations,183,640
+2025-10-01,Technical Support,586,601
+2025-10-02,Claims,1034,488
+2025-10-02,Billing,806,302
+2025-10-02,Customer Service,1464,345
+2025-10-02,Escalations,198,678
+2025-10-02,Technical Support,498,627
+2025-10-03,Claims,867,431
+2025-10-03,Billing,658,328
+2025-10-03,Customer Service,1380,384
+2025-10-03,Escalations,173,709
+2025-10-03,Technical Support,503,600
+2025-10-04,Claims,781,473
+2025-10-04,Billing,494,316
+2025-10-04,Customer Service,1141,336
+2025-10-04,Escalations,141,682
+2025-10-04,Technical Support,400,560
+2025-10-05,Claims,582,459
+2025-10-05,Billing,338,310
+2025-10-05,Customer Service,689,326
+2025-10-05,Escalations,85,684
+2025-10-05,Technical Support,285,560
+2025-10-06,Claims,1120,430
+2025-10-06,Billing,992,308
+2025-10-06,Customer Service,1916,337
+2025-10-06,Escalations,228,689
+2025-10-06,Technical Support,662,551
+2025-10-07,Claims,1079,454
+2025-10-07,Billing,836,299
+2025-10-07,Customer Service,1820,337
+2025-10-07,Escalations,220,693
+2025-10-07,Technical Support,619,605
+2025-10-08,Claims,1034,432
+2025-10-08,Billing,686,278
+2025-10-08,Customer Service,1382,382
+2025-10-08,Escalations,218,678
+2025-10-08,Technical Support,509,597
+2025-10-09,Claims,1035,473
+2025-10-09,Billing,842,353
+2025-10-09,Customer Service,1295,328
+2025-10-09,Escalations,183,716
+2025-10-09,Technical Support,580,579
+2025-10-10,Claims,918,438
+2025-10-10,Billing,863,289
+2025-10-10,Customer Service,1122,330
+2025-10-10,Escalations,176,699
+2025-10-10,Technical Support,479,556
+2025-10-11,Claims,758,471
+2025-10-11,Billing,565,301
+2025-10-11,Customer Service,949,357
+2025-10-11,Escalations,128,684
+2025-10-11,Technical Support,322,589
+2025-10-12,Claims,534,456
+2025-10-12,Billing,399,283
+2025-10-12,Customer Service,757,344
+2025-10-12,Escalations,98,670
+2025-10-12,Technical Support,278,573
+2025-10-13,Claims,1238,403
+2025-10-13,Billing,870,320
+2025-10-13,Customer Service,1629,338
+2025-10-13,Escalations,236,741
+2025-10-13,Technical Support,722,632
+2025-10-14,Claims,1151,421
+2025-10-14,Billing,900,284
+2025-10-14,Customer Service,1536,395
+2025-10-14,Escalations,226,761
+2025-10-14,Technical Support,654,599
+2025-10-15,Claims,1237,456
+2025-10-15,Billing,761,291
+2025-10-15,Customer Service,1466,358
+2025-10-15,Escalations,193,675
+2025-10-15,Technical Support,596,539
+2025-10-16,Claims,1003,420
+2025-10-16,Billing,726,300
+2025-10-16,Customer Service,1542,330
+2025-10-16,Escalations,190,698
+2025-10-16,Technical Support,500,568
+2025-10-17,Claims,1018,432
+2025-10-17,Billing,768,313
+2025-10-17,Customer Service,1310,354
+2025-10-17,Escalations,163,700
+2025-10-17,Technical Support,508,626
+2025-10-18,Claims,665,461
+2025-10-18,Billing,547,322
+2025-10-18,Customer Service,835,342
+2025-10-18,Escalations,135,685
+2025-10-18,Technical Support,331,561
+2025-10-19,Claims,572,440
+2025-10-19,Billing,380,314
+2025-10-19,Customer Service,708,373
+2025-10-19,Escalations,86,734
+2025-10-19,Technical Support,264,546
+2025-10-20,Claims,1364,474
+2025-10-20,Billing,750,272
+2025-10-20,Customer Service,1906,366
+2025-10-20,Escalations,222,687
+2025-10-20,Technical Support,586,621
+2025-10-21,Claims,1073,420
+2025-10-21,Billing,1018,318
+2025-10-21,Customer Service,1532,324
+2025-10-21,Escalations,188,677
+2025-10-21,Technical Support,678,570
+2025-10-22,Claims,1101,411
+2025-10-22,Billing,758,301
+2025-10-22,Customer Service,1539,382
+2025-10-22,Escalations,174,793
+2025-10-22,Technical Support,617,603
+2025-10-23,Claims,1108,475
+2025-10-23,Billing,814,303
+2025-10-23,Customer Service,1483,359
+2025-10-23,Escalations,206,688
+2025-10-23,Technical Support,540,606
+2025-10-24,Claims,832,462
+2025-10-24,Billing,728,291
+2025-10-24,Customer Service,1514,349
+2025-10-24,Escalations,149,698
+2025-10-24,Technical Support,472,625
+2025-10-25,Claims,739,426
+2025-10-25,Billing,544,299
+2025-10-25,Customer Service,930,383
+2025-10-25,Escalations,137,741
+2025-10-25,Technical Support,449,640
+2025-10-26,Claims,519,451
+2025-10-26,Billing,362,305
+2025-10-26,Customer Service,632,368
+2025-10-26,Escalations,92,755
+2025-10-26,Technical Support,294,541
+2025-10-27,Claims,1272,420
+2025-10-27,Billing,937,320
+2025-10-27,Customer Service,1649,345
+2025-10-27,Escalations,197,676
+2025-10-27,Technical Support,692,562
+2025-10-28,Claims,1260,438
+2025-10-28,Billing,787,279
+2025-10-28,Customer Service,1869,387
+2025-10-28,Escalations,217,699
+2025-10-28,Technical Support,691,598
+2025-10-29,Claims,957,463
+2025-10-29,Billing,731,314
+2025-10-29,Customer Service,1496,367
+2025-10-29,Escalations,197,738
+2025-10-29,Technical Support,649,581
+2025-10-30,Claims,1079,443
+2025-10-30,Billing,766,312
+2025-10-30,Customer Service,1324,341
+2025-10-30,Escalations,198,700
+2025-10-30,Technical Support,499,612
+2025-10-31,Claims,1039,468
+2025-10-31,Billing,687,273
+2025-10-31,Customer Service,1463,363
+2025-10-31,Escalations,171,692
+2025-10-31,Technical Support,481,621
+2025-11-01,Claims,704,467
+2025-11-01,Billing,546,324
+2025-11-01,Customer Service,1072,374
+2025-11-01,Escalations,130,747
+2025-11-01,Technical Support,370,643
+2025-11-02,Claims,518,457
+2025-11-02,Billing,404,300
+2025-11-02,Customer Service,615,365
+2025-11-02,Escalations,96,726
+2025-11-02,Technical Support,256,591
+2025-11-03,Claims,1143,459
+2025-11-03,Billing,833,299
+2025-11-03,Customer Service,1523,335
+2025-11-03,Escalations,198,745
+2025-11-03,Technical Support,629,602
+2025-11-04,Claims,1396,496
+2025-11-04,Billing,884,276
+2025-11-04,Customer Service,1728,340
+2025-11-04,Escalations,220,701
+2025-11-04,Technical Support,646,634
+2025-11-05,Claims,1095,459
+2025-11-05,Billing,762,305
+2025-11-05,Customer Service,1736,330
+2025-11-05,Escalations,223,660
+2025-11-05,Technical Support,505,610
+2025-11-06,Claims,964,419
+2025-11-06,Billing,785,292
+2025-11-06,Customer Service,1368,359
+2025-11-06,Escalations,193,666
+2025-11-06,Technical Support,523,648
+2025-11-07,Claims,1108,478
+2025-11-07,Billing,791,276
+2025-11-07,Customer Service,1357,334
+2025-11-07,Escalations,180,620
+2025-11-07,Technical Support,544,577
+2025-11-08,Claims,702,467
+2025-11-08,Billing,525,294
+2025-11-08,Customer Service,1044,358
+2025-11-08,Escalations,139,647
+2025-11-08,Technical Support,393,624
+2025-11-09,Claims,459,438
+2025-11-09,Billing,376,300
+2025-11-09,Customer Service,737,348
+2025-11-09,Escalations,92,655
+2025-11-09,Technical Support,322,565
+2025-11-10,Claims,1120,472
+2025-11-10,Billing,1003,306
+2025-11-10,Customer Service,1991,368
+2025-11-10,Escalations,263,711
+2025-11-10,Technical Support,646,604
+2025-11-11,Claims,1255,411
+2025-11-11,Billing,966,296
+2025-11-11,Customer Service,1732,350
+2025-11-11,Escalations,211,768
+2025-11-11,Technical Support,662,621
+2025-11-12,Claims,879,485
+2025-11-12,Billing,889,309
+2025-11-12,Customer Service,1573,338
+2025-11-12,Escalations,191,704
+2025-11-12,Technical Support,679,607
+2025-11-13,Claims,994,429
+2025-11-13,Billing,777,294
+2025-11-13,Customer Service,1719,346
+2025-11-13,Escalations,173,756
+2025-11-13,Technical Support,532,538
+2025-11-14,Claims,934,477
+2025-11-14,Billing,772,286
+2025-11-14,Customer Service,1357,326
+2025-11-14,Escalations,150,741
+2025-11-14,Technical Support,479,622
+2025-11-15,Claims,700,478
+2025-11-15,Billing,559,312
+2025-11-15,Customer Service,1074,386
+2025-11-15,Escalations,134,720
+2025-11-15,Technical Support,334,595
+2025-11-16,Claims,570,458
+2025-11-16,Billing,410,319
+2025-11-16,Customer Service,824,336
+2025-11-16,Escalations,96,677
+2025-11-16,Technical Support,303,591
+2025-11-17,Claims,1308,403
+2025-11-17,Billing,1068,302
+2025-11-17,Customer Service,1855,317
+2025-11-17,Escalations,221,702
+2025-11-17,Technical Support,789,626
+2025-11-18,Claims,1295,439
+2025-11-18,Billing,967,325
+2025-11-18,Customer Service,1532,324
+2025-11-18,Escalations,191,742
+2025-11-18,Technical Support,655,620
+2025-11-19,Claims,1117,411
+2025-11-19,Billing,803,341
+2025-11-19,Customer Service,1576,349
+2025-11-19,Escalations,220,669
+2025-11-19,Technical Support,617,558
+2025-11-20,Claims,955,445
+2025-11-20,Billing,797,298
+2025-11-20,Customer Service,1388,352
+2025-11-20,Escalations,180,690
+2025-11-20,Technical Support,538,619
+2025-11-21,Claims,910,441
+2025-11-21,Billing,651,271
+2025-11-21,Customer Service,1322,347
+2025-11-21,Escalations,159,617
+2025-11-21,Technical Support,384,611
+2025-11-22,Claims,857,428
+2025-11-22,Billing,612,302
+2025-11-22,Customer Service,1008,373
+2025-11-22,Escalations,130,667
+2025-11-22,Technical Support,353,632
+2025-11-23,Claims,597,440
+2025-11-23,Billing,463,326
+2025-11-23,Customer Service,752,344
+2025-11-23,Escalations,100,671
+2025-11-23,Technical Support,282,621
+2025-11-24,Claims,1127,440
+2025-11-24,Billing,933,287
+2025-11-24,Customer Service,1800,342
+2025-11-24,Escalations,215,698
+2025-11-24,Technical Support,656,640
+2025-11-25,Claims,1201,406
+2025-11-25,Billing,919,300
+2025-11-25,Customer Service,1715,361
+2025-11-25,Escalations,195,707
+2025-11-25,Technical Support,604,639
+2025-11-26,Claims,991,448
+2025-11-26,Billing,911,297
+2025-11-26,Customer Service,1297,360
+2025-11-26,Escalations,213,703
+2025-11-26,Technical Support,650,588
+2025-11-27,Claims,1027,462
+2025-11-27,Billing,637,290
+2025-11-27,Customer Service,1442,339
+2025-11-27,Escalations,185,682
+2025-11-27,Technical Support,512,641
+2025-11-28,Claims,908,378
+2025-11-28,Billing,813,306
+2025-11-28,Customer Service,1408,351
+2025-11-28,Escalations,155,641
+2025-11-28,Technical Support,437,609
+2025-11-29,Claims,717,461
+2025-11-29,Billing,554,309
+2025-11-29,Customer Service,1081,304
+2025-11-29,Escalations,124,748
+2025-11-29,Technical Support,406,578
+2025-11-30,Claims,608,465
+2025-11-30,Billing,429,311
+2025-11-30,Customer Service,740,335
+2025-11-30,Escalations,91,723
+2025-11-30,Technical Support,271,588
+2025-12-01,Claims,1502,403
+2025-12-01,Billing,997,318
+2025-12-01,Customer Service,1945,336
+2025-12-01,Escalations,243,670
+2025-12-01,Technical Support,698,588
+2025-12-02,Claims,1171,456
+2025-12-02,Billing,1032,299
+2025-12-02,Customer Service,1848,360
+2025-12-02,Escalations,241,653
+2025-12-02,Technical Support,667,578
+2025-12-03,Claims,1319,447
+2025-12-03,Billing,854,328
+2025-12-03,Customer Service,1928,348
+2025-12-03,Escalations,182,738
+2025-12-03,Technical Support,658,601
+2025-12-04,Claims,1188,439
+2025-12-04,Billing,819,296
+2025-12-04,Customer Service,1670,347
+2025-12-04,Escalations,223,721
+2025-12-04,Technical Support,498,641
+2025-12-05,Claims,1071,458
+2025-12-05,Billing,630,318
+2025-12-05,Customer Service,1342,333
+2025-12-05,Escalations,205,685
+2025-12-05,Technical Support,520,578
+2025-12-06,Claims,726,457
+2025-12-06,Billing,603,295
+2025-12-06,Customer Service,1318,363
+2025-12-06,Escalations,121,667
+2025-12-06,Technical Support,388,601
+2025-12-07,Claims,641,465
+2025-12-07,Billing,503,269
+2025-12-07,Customer Service,801,387
+2025-12-07,Escalations,91,690
+2025-12-07,Technical Support,354,539
+2025-12-08,Claims,1549,454
+2025-12-08,Billing,1107,301
+2025-12-08,Customer Service,1813,349
+2025-12-08,Escalations,241,735
+2025-12-08,Technical Support,718,622
+2025-12-09,Claims,1351,457
+2025-12-09,Billing,1124,307
+2025-12-09,Customer Service,1989,348
+2025-12-09,Escalations,212,762
+2025-12-09,Technical Support,774,556
+2025-12-10,Claims,1232,453
+2025-12-10,Billing,970,301
+2025-12-10,Customer Service,1896,364
+2025-12-10,Escalations,193,670
+2025-12-10,Technical Support,635,548
+2025-12-11,Claims,1096,454
+2025-12-11,Billing,766,304
+2025-12-11,Customer Service,1661,376
+2025-12-11,Escalations,243,656
+2025-12-11,Technical Support,517,635
+2025-12-12,Claims,1028,503
+2025-12-12,Billing,829,294
+2025-12-12,Customer Service,1469,327
+2025-12-12,Escalations,180,686
+2025-12-12,Technical Support,489,600
+2025-12-13,Claims,817,463
+2025-12-13,Billing,576,291
+2025-12-13,Customer Service,934,377
+2025-12-13,Escalations,155,661
+2025-12-13,Technical Support,457,548
+2025-12-14,Claims,575,475
+2025-12-14,Billing,446,266
+2025-12-14,Customer Service,878,346
+2025-12-14,Escalations,103,809
+2025-12-14,Technical Support,325,600
+2025-12-15,Claims,1342,425
+2025-12-15,Billing,1162,299
+2025-12-15,Customer Service,1990,349
+2025-12-15,Escalations,246,706
+2025-12-15,Technical Support,654,620
+2025-12-16,Claims,1348,427
+2025-12-16,Billing,940,325
+2025-12-16,Customer Service,1765,354
+2025-12-16,Escalations,217,725
+2025-12-16,Technical Support,638,581
+2025-12-17,Claims,1408,479
+2025-12-17,Billing,1018,296
+2025-12-17,Customer Service,1959,355
+2025-12-17,Escalations,192,667
+2025-12-17,Technical Support,641,570
+2025-12-18,Claims,1027,465
+2025-12-18,Billing,827,293
+2025-12-18,Customer Service,1499,335
+2025-12-18,Escalations,222,677
+2025-12-18,Technical Support,587,621
+2025-12-19,Claims,1120,436
+2025-12-19,Billing,827,298
+2025-12-19,Customer Service,1724,350
+2025-12-19,Escalations,160,633
+2025-12-19,Technical Support,601,556
+2025-12-20,Claims,876,458
+2025-12-20,Billing,566,289
+2025-12-20,Customer Service,1224,368
+2025-12-20,Escalations,145,734
+2025-12-20,Technical Support,417,622
+2025-12-21,Claims,535,491
+2025-12-21,Billing,413,299
+2025-12-21,Customer Service,942,361
+2025-12-21,Escalations,101,680
+2025-12-21,Technical Support,322,674
+2025-12-22,Claims,1289,495
+2025-12-22,Billing,986,300
+2025-12-22,Customer Service,2110,357
+2025-12-22,Escalations,217,748
+2025-12-22,Technical Support,704,596
+2025-12-23,Claims,1322,435
+2025-12-23,Billing,1017,313
+2025-12-23,Customer Service,1835,351
+2025-12-23,Escalations,240,706
+2025-12-23,Technical Support,737,575
+2025-12-24,Claims,1275,411
+2025-12-24,Billing,848,304
+2025-12-24,Customer Service,1661,366
+2025-12-24,Escalations,233,692
+2025-12-24,Technical Support,683,643
+2025-12-25,Claims,1021,434
+2025-12-25,Billing,902,284
+2025-12-25,Customer Service,1363,349
+2025-12-25,Escalations,203,697
+2025-12-25,Technical Support,699,623
+2025-12-26,Claims,954,433
+2025-12-26,Billing,737,321
+2025-12-26,Customer Service,1546,384
+2025-12-26,Escalations,160,699
+2025-12-26,Technical Support,519,637
+2025-12-27,Claims,841,426
+2025-12-27,Billing,583,316
+2025-12-27,Customer Service,1112,368
+2025-12-27,Escalations,150,730
+2025-12-27,Technical Support,439,600
+2025-12-28,Claims,586,384
+2025-12-28,Billing,427,290
+2025-12-28,Customer Service,834,339
+2025-12-28,Escalations,100,666
+2025-12-28,Technical Support,315,604
+2025-12-29,Claims,1322,441
+2025-12-29,Billing,1037,288
+2025-12-29,Customer Service,1789,331
+2025-12-29,Escalations,242,675
+2025-12-29,Technical Support,681,634
+2025-12-30,Claims,1202,435
+2025-12-30,Billing,1030,292
+2025-12-30,Customer Service,1894,342
+2025-12-30,Escalations,247,712
+2025-12-30,Technical Support,674,614
+2025-12-31,Claims,1244,381
+2025-12-31,Billing,962,315
+2025-12-31,Customer Service,1761,375
+2025-12-31,Escalations,199,663
+2025-12-31,Technical Support,645,571
