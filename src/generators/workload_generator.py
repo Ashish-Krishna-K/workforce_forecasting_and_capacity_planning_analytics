@@ -32,15 +32,54 @@ MONTH_MULTIPLIER = {
 def create_calendar(start_date: str, end_date: str) -> pd.DataFrame:
     start_dt = pd.to_datetime(start_date)
     end_dt = pd.to_datetime(end_date)
-    df = pd.date_range(start=start_dt, end=end_dt).to_frame(index=False, name="date")
-    df["day_index"] = range(len(df))
-    df["dow_num"] = df["date"].dt.dayofweek
-    df["dow_name"] = df["date"].dt.day_name()
-    df["month_num"] = df["date"].dt.month
-    df["month_name"] = df["date"].dt.month_name()
-    df["year"] = df["date"].dt.year
-    return df
+    return (
+        pd.date_range(start=start_dt, end=end_dt)
+        .to_frame(index=False, name="date")
+        .assign(
+            day_index=lambda df: range(len(df)),
+            dow_num=lambda df: df["date"].dt.dayofweek,
+            dow_name=lambda df: df["date"].dt.day_name(),
+            month_num=lambda df: df["date"].dt.month,
+            month_name=lambda df: df["date"].dt.month_name(),
+            year=lambda df: df["date"].dt.year,
+        )
+    )
+
+
+def generate_workload(calendar: pd.DataFrame) -> pd.DataFrame:
+    queue_df = pd.DataFrame.from_dict(QUEUE_CONFIG, orient="index").reset_index(
+        names="queue"
+    )
+    total_days = len(calendar)
+    return pd.merge(calendar, queue_df, how="cross").assign(
+        volume=lambda df: (
+            (
+                df["base_volume"]
+                * df["dow_num"].map(DOW_MULTIPLIER)
+                * df["month_num"].map(MONTH_MULTIPLIER)
+                * (1 + (df["day_index"] / total_days) * 0.08)
+                * (np.random.normal(loc=1, scale=0.08, size=len(df)))
+            )
+            .round()
+            .clip(lower=1)
+            .astype(int)
+        ),
+        aht_seconds=lambda df: (
+            (df["base_aht"] * (np.random.normal(loc=1, scale=0.05, size=len(df))))
+            .round()
+            .clip(lower=60)
+            .astype(int)
+        ),
+        workload_seconds=lambda df: df["volume"] * df["aht_seconds"],
+    )[["date", "queue", "volume", "aht_seconds", "workload_seconds"]]
 
 
 calendar_df = create_calendar(start_date="2024-01-01", end_date="2025-12-31")
-print(calendar_df.head(10))
+workload_df = generate_workload(calendar_df)
+print(workload_df.head(10))
+print(len(workload_df))
+print(workload_df["date"].min(), workload_df["date"].max())
+print(workload_df["queue"].value_counts())
+print(workload_df.groupby("queue")["volume"].describe())
+print(workload_df.groupby("date")["volume"].sum())
+print(workload_df.groupby(pd.Grouper(key="date", freq="ME"))["volume"].sum())
