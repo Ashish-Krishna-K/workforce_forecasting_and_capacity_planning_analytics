@@ -1,0 +1,6 @@
+queue,total_volume,total_workload_hours,avg_aht,avg_volume,avg_workload_hours,volume_share_pct,workload_share_pct
+Billing,485742,40473.91,299.85,664.49,55.37,19.64,14.18
+Claims,637539,79539.99,449.17,872.15,108.81,25.77,27.87
+Customer Service,898802,87245.79,349.87,1229.55,119.35,36.34,30.57
+Escalations,112525,21785.53,696.89,153.93,29.8,4.55,7.63
+Technical Support,338878,56379.61,598.59,463.58,77.13,13.7,19.75

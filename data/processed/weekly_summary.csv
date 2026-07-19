@@ -1,0 +1,8 @@
+dow_num,day_of_week,avg_daily_volume,avg_daily_workload_hours,avg_daily_aht
+0,Monday,4399.84,508.09,480.08
+1,Tuesday,4183.02,481.06,479.25
+2,Wednesday,3837.99,444.31,478.21
+3,Thursday,3603.08,415.53,479.08
+4,Friday,3276.47,376.66,476.7
+5,Saturday,2543.78,294.68,479.7
+6,Sunday,1819.91,210.36,479.09
