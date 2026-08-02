@@ -1,0 +1,4 @@
+scenario,avg_available_fte,avg_required_fte,avg_gap,min_gap,max_gap,avg_coverage_pct,min_coverage_pct,max_coverage_pct,surplus_days,low_risk_days,moderate_risk_days,high_risk_days,critical_risk_days
+Attrition,60.68,84.77,-24.08,-61.26,23.46,77.31,46.42,157.02,53,21,27,19,241
+Baseline,71.39,84.77,-13.37,-51.9,34.86,90.96,54.61,184.74,93,13,39,81,135
+Hiring,82.1,84.77,-2.66,-42.54,46.7,104.6,62.79,212.45,108,45,83,93,32

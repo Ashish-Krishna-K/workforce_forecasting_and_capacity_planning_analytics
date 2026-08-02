@@ -1,0 +1,1084 @@
+date,year,month_num,month_name,year_month,week_of_year,dow_num,day_of_week,scenario,available_fte,required_fte,staffing_gap,coverage_pct,risk_level
+2026-01-01,2026,1,January,2026-January,1,3,Thursday,baseline,76.0,83.88,-7.88,90.61,Moderate Risk
+2026-01-01,2026,1,January,2026-January,1,3,Thursday,hiring,87.4,83.88,3.52,104.2,Low Risk
+2026-01-01,2026,1,January,2026-January,1,3,Thursday,attrition,64.6,83.88,-19.28,77.01,High Risk
+2026-01-02,2026,1,January,2026-January,1,4,Friday,baseline,76.0,76.07,-0.07,99.91,Low Risk
+2026-01-02,2026,1,January,2026-January,1,4,Friday,hiring,87.4,76.07,11.33,114.89,Surplus
+2026-01-02,2026,1,January,2026-January,1,4,Friday,attrition,64.6,76.07,-11.47,84.92,High Risk
+2026-01-03,2026,1,January,2026-January,1,5,Saturday,baseline,76.0,58.59,17.41,129.71,Surplus
+2026-01-03,2026,1,January,2026-January,1,5,Saturday,hiring,87.4,58.59,28.81,149.17,Surplus
+2026-01-03,2026,1,January,2026-January,1,5,Saturday,attrition,64.6,58.59,6.01,110.26,Surplus
+2026-01-04,2026,1,January,2026-January,1,6,Sunday,baseline,76.0,41.14,34.86,184.74,Surplus
+2026-01-04,2026,1,January,2026-January,1,6,Sunday,hiring,87.4,41.14,46.26,212.45,Surplus
+2026-01-04,2026,1,January,2026-January,1,6,Sunday,attrition,64.6,41.14,23.46,157.02,Surplus
+2026-01-05,2026,1,January,2026-January,2,0,Monday,baseline,67.0,102.62,-35.62,65.29,Critical
+2026-01-05,2026,1,January,2026-January,2,0,Monday,hiring,77.05,102.62,-25.57,75.08,High Risk
+2026-01-05,2026,1,January,2026-January,2,0,Monday,attrition,56.95,102.62,-45.67,55.5,Critical
+2026-01-06,2026,1,January,2026-January,2,1,Tuesday,baseline,67.0,97.49,-30.49,68.72,Critical
+2026-01-06,2026,1,January,2026-January,2,1,Tuesday,hiring,77.05,97.49,-20.44,79.03,High Risk
+2026-01-06,2026,1,January,2026-January,2,1,Tuesday,attrition,56.95,97.49,-40.54,58.42,Critical
+2026-01-07,2026,1,January,2026-January,2,2,Wednesday,baseline,67.0,89.38,-22.38,74.96,Critical
+2026-01-07,2026,1,January,2026-January,2,2,Wednesday,hiring,77.05,89.38,-12.33,86.2,Moderate Risk
+2026-01-07,2026,1,January,2026-January,2,2,Wednesday,attrition,56.95,89.38,-32.43,63.72,Critical
+2026-01-08,2026,1,January,2026-January,2,3,Thursday,baseline,67.0,83.93,-16.93,79.83,High Risk
+2026-01-08,2026,1,January,2026-January,2,3,Thursday,hiring,77.05,83.93,-6.88,91.8,Moderate Risk
+2026-01-08,2026,1,January,2026-January,2,3,Thursday,attrition,56.95,83.93,-26.98,67.85,Critical
+2026-01-09,2026,1,January,2026-January,2,4,Friday,baseline,67.0,76.13,-9.13,88.01,Moderate Risk
+2026-01-09,2026,1,January,2026-January,2,4,Friday,hiring,77.05,76.13,0.92,101.21,Low Risk
+2026-01-09,2026,1,January,2026-January,2,4,Friday,attrition,56.95,76.13,-19.18,74.81,Critical
+2026-01-10,2026,1,January,2026-January,2,5,Saturday,baseline,67.0,58.65,8.35,114.24,Surplus
+2026-01-10,2026,1,January,2026-January,2,5,Saturday,hiring,77.05,58.65,18.4,131.37,Surplus
+2026-01-10,2026,1,January,2026-January,2,5,Saturday,attrition,56.95,58.65,-1.7,97.1,Low Risk
+2026-01-11,2026,1,January,2026-January,2,6,Sunday,baseline,67.0,41.19,25.81,162.66,Surplus
+2026-01-11,2026,1,January,2026-January,2,6,Sunday,hiring,77.05,41.19,35.86,187.06,Surplus
+2026-01-11,2026,1,January,2026-January,2,6,Sunday,attrition,56.95,41.19,15.76,138.26,Surplus
+2026-01-12,2026,1,January,2026-January,3,0,Monday,baseline,67.14,102.66,-35.52,65.4,Critical
+2026-01-12,2026,1,January,2026-January,3,0,Monday,hiring,77.21,102.66,-25.45,75.21,High Risk
+2026-01-12,2026,1,January,2026-January,3,0,Monday,attrition,57.07,102.66,-45.59,55.59,Critical
+2026-01-13,2026,1,January,2026-January,3,1,Tuesday,baseline,67.14,97.54,-30.4,68.83,Critical
+2026-01-13,2026,1,January,2026-January,3,1,Tuesday,hiring,77.21,97.54,-20.33,79.16,High Risk
+2026-01-13,2026,1,January,2026-January,3,1,Tuesday,attrition,57.07,97.54,-40.47,58.51,Critical
+2026-01-14,2026,1,January,2026-January,3,2,Wednesday,baseline,67.14,89.43,-22.29,75.08,High Risk
+2026-01-14,2026,1,January,2026-January,3,2,Wednesday,hiring,77.21,89.43,-12.22,86.34,Moderate Risk
+2026-01-14,2026,1,January,2026-January,3,2,Wednesday,attrition,57.07,89.43,-32.36,63.82,Critical
+2026-01-15,2026,1,January,2026-January,3,3,Thursday,baseline,67.14,83.98,-16.84,79.95,High Risk
+2026-01-15,2026,1,January,2026-January,3,3,Thursday,hiring,77.21,83.98,-6.77,91.94,Moderate Risk
+2026-01-15,2026,1,January,2026-January,3,3,Thursday,attrition,57.07,83.98,-26.91,67.96,Critical
+2026-01-16,2026,1,January,2026-January,3,4,Friday,baseline,67.14,76.17,-9.03,88.14,Moderate Risk
+2026-01-16,2026,1,January,2026-January,3,4,Friday,hiring,77.21,76.17,1.04,101.37,Low Risk
+2026-01-16,2026,1,January,2026-January,3,4,Friday,attrition,57.07,76.17,-19.1,74.92,Critical
+2026-01-17,2026,1,January,2026-January,3,5,Saturday,baseline,67.14,58.71,8.43,114.36,Surplus
+2026-01-17,2026,1,January,2026-January,3,5,Saturday,hiring,77.21,58.71,18.5,131.51,Surplus
+2026-01-17,2026,1,January,2026-January,3,5,Saturday,attrition,57.07,58.71,-1.64,97.21,Low Risk
+2026-01-18,2026,1,January,2026-January,3,6,Sunday,baseline,67.14,41.25,25.89,162.76,Surplus
+2026-01-18,2026,1,January,2026-January,3,6,Sunday,hiring,77.21,41.25,35.96,187.18,Surplus
+2026-01-18,2026,1,January,2026-January,3,6,Sunday,attrition,57.07,41.25,15.82,138.35,Surplus
+2026-01-19,2026,1,January,2026-January,4,0,Monday,baseline,65.86,102.72,-36.86,64.12,Critical
+2026-01-19,2026,1,January,2026-January,4,0,Monday,hiring,75.74,102.72,-26.98,73.73,Critical
+2026-01-19,2026,1,January,2026-January,4,0,Monday,attrition,55.98,102.72,-46.74,54.5,Critical
+2026-01-20,2026,1,January,2026-January,4,1,Tuesday,baseline,65.86,97.59,-31.73,67.49,Critical
+2026-01-20,2026,1,January,2026-January,4,1,Tuesday,hiring,75.74,97.59,-21.85,77.61,High Risk
+2026-01-20,2026,1,January,2026-January,4,1,Tuesday,attrition,55.98,97.59,-41.61,57.36,Critical
+2026-01-21,2026,1,January,2026-January,4,2,Wednesday,baseline,65.86,89.48,-23.62,73.6,Critical
+2026-01-21,2026,1,January,2026-January,4,2,Wednesday,hiring,75.74,89.48,-13.74,84.64,High Risk
+2026-01-21,2026,1,January,2026-January,4,2,Wednesday,attrition,55.98,89.48,-33.5,62.56,Critical
+2026-01-22,2026,1,January,2026-January,4,3,Thursday,baseline,65.86,84.03,-18.17,78.38,High Risk
+2026-01-22,2026,1,January,2026-January,4,3,Thursday,hiring,75.74,84.03,-8.29,90.13,Moderate Risk
+2026-01-22,2026,1,January,2026-January,4,3,Thursday,attrition,55.98,84.03,-28.05,66.62,Critical
+2026-01-23,2026,1,January,2026-January,4,4,Friday,baseline,65.86,76.23,-10.37,86.4,Moderate Risk
+2026-01-23,2026,1,January,2026-January,4,4,Friday,hiring,75.74,76.23,-0.49,99.36,Low Risk
+2026-01-23,2026,1,January,2026-January,4,4,Friday,attrition,55.98,76.23,-20.25,73.44,Critical
+2026-01-24,2026,1,January,2026-January,4,5,Saturday,baseline,65.86,58.76,7.1,112.08,Surplus
+2026-01-24,2026,1,January,2026-January,4,5,Saturday,hiring,75.74,58.76,16.98,128.9,Surplus
+2026-01-24,2026,1,January,2026-January,4,5,Saturday,attrition,55.98,58.76,-2.78,95.27,Low Risk
+2026-01-25,2026,1,January,2026-January,4,6,Sunday,baseline,65.86,41.29,24.57,159.51,Surplus
+2026-01-25,2026,1,January,2026-January,4,6,Sunday,hiring,75.74,41.29,34.45,183.43,Surplus
+2026-01-25,2026,1,January,2026-January,4,6,Sunday,attrition,55.98,41.29,14.69,135.58,Surplus
+2026-01-26,2026,1,January,2026-January,5,0,Monday,baseline,62.57,102.78,-40.21,60.88,Critical
+2026-01-26,2026,1,January,2026-January,5,0,Monday,hiring,71.96,102.78,-30.82,70.01,Critical
+2026-01-26,2026,1,January,2026-January,5,0,Monday,attrition,53.18,102.78,-49.6,51.74,Critical
+2026-01-27,2026,1,January,2026-January,5,1,Tuesday,baseline,62.57,97.65,-35.08,64.08,Critical
+2026-01-27,2026,1,January,2026-January,5,1,Tuesday,hiring,71.96,97.65,-25.69,73.69,Critical
+2026-01-27,2026,1,January,2026-January,5,1,Tuesday,attrition,53.18,97.65,-44.47,54.46,Critical
+2026-01-28,2026,1,January,2026-January,5,2,Wednesday,baseline,62.57,89.53,-26.96,69.89,Critical
+2026-01-28,2026,1,January,2026-January,5,2,Wednesday,hiring,71.96,89.53,-17.57,80.38,High Risk
+2026-01-28,2026,1,January,2026-January,5,2,Wednesday,attrition,53.18,89.53,-36.35,59.4,Critical
+2026-01-29,2026,1,January,2026-January,5,3,Thursday,baseline,62.57,84.09,-21.52,74.41,Critical
+2026-01-29,2026,1,January,2026-January,5,3,Thursday,hiring,71.96,84.09,-12.13,85.57,Moderate Risk
+2026-01-29,2026,1,January,2026-January,5,3,Thursday,attrition,53.18,84.09,-30.91,63.24,Critical
+2026-01-30,2026,1,January,2026-January,5,4,Friday,baseline,62.57,76.29,-13.72,82.02,High Risk
+2026-01-30,2026,1,January,2026-January,5,4,Friday,hiring,71.96,76.29,-4.33,94.32,Moderate Risk
+2026-01-30,2026,1,January,2026-January,5,4,Friday,attrition,53.18,76.29,-23.11,69.71,Critical
+2026-01-31,2026,1,January,2026-January,5,5,Saturday,baseline,62.57,58.81,3.76,106.39,Surplus
+2026-01-31,2026,1,January,2026-January,5,5,Saturday,hiring,71.96,58.81,13.15,122.36,Surplus
+2026-01-31,2026,1,January,2026-January,5,5,Saturday,attrition,53.18,58.81,-5.63,90.43,Moderate Risk
+2026-02-01,2026,2,February,2026-February,5,6,Sunday,baseline,62.57,39.9,22.67,156.82,Surplus
+2026-02-01,2026,2,February,2026-February,5,6,Sunday,hiring,71.96,39.9,32.06,180.35,Surplus
+2026-02-01,2026,2,February,2026-February,5,6,Sunday,attrition,53.18,39.9,13.28,133.28,Surplus
+2026-02-02,2026,2,February,2026-February,6,0,Monday,baseline,57.0,100.89,-43.89,56.5,Critical
+2026-02-02,2026,2,February,2026-February,6,0,Monday,hiring,65.55,100.89,-35.34,64.97,Critical
+2026-02-02,2026,2,February,2026-February,6,0,Monday,attrition,48.45,100.89,-52.44,48.02,Critical
+2026-02-03,2026,2,February,2026-February,6,1,Tuesday,baseline,57.0,95.8,-38.8,59.5,Critical
+2026-02-03,2026,2,February,2026-February,6,1,Tuesday,hiring,65.55,95.8,-30.25,68.42,Critical
+2026-02-03,2026,2,February,2026-February,6,1,Tuesday,attrition,48.45,95.8,-47.35,50.57,Critical
+2026-02-04,2026,2,February,2026-February,6,2,Wednesday,baseline,57.0,87.75,-30.75,64.96,Critical
+2026-02-04,2026,2,February,2026-February,6,2,Wednesday,hiring,65.55,87.75,-22.2,74.7,Critical
+2026-02-04,2026,2,February,2026-February,6,2,Wednesday,attrition,48.45,87.75,-39.3,55.21,Critical
+2026-02-05,2026,2,February,2026-February,6,3,Thursday,baseline,57.0,82.35,-25.35,69.22,Critical
+2026-02-05,2026,2,February,2026-February,6,3,Thursday,hiring,65.55,82.35,-16.8,79.6,High Risk
+2026-02-05,2026,2,February,2026-February,6,3,Thursday,attrition,48.45,82.35,-33.9,58.83,Critical
+2026-02-06,2026,2,February,2026-February,6,4,Friday,baseline,57.0,74.61,-17.61,76.4,High Risk
+2026-02-06,2026,2,February,2026-February,6,4,Friday,hiring,65.55,74.61,-9.06,87.86,Moderate Risk
+2026-02-06,2026,2,February,2026-February,6,4,Friday,attrition,48.45,74.61,-26.16,64.94,Critical
+2026-02-07,2026,2,February,2026-February,6,5,Saturday,baseline,57.0,57.27,-0.27,99.53,Low Risk
+2026-02-07,2026,2,February,2026-February,6,5,Saturday,hiring,65.55,57.27,8.28,114.46,Surplus
+2026-02-07,2026,2,February,2026-February,6,5,Saturday,attrition,48.45,57.27,-8.82,84.6,High Risk
+2026-02-08,2026,2,February,2026-February,6,6,Sunday,baseline,57.0,39.95,17.05,142.68,Surplus
+2026-02-08,2026,2,February,2026-February,6,6,Sunday,hiring,65.55,39.95,25.6,164.08,Surplus
+2026-02-08,2026,2,February,2026-February,6,6,Sunday,attrition,48.45,39.95,8.5,121.28,Surplus
+2026-02-09,2026,2,February,2026-February,7,0,Monday,baseline,67.0,100.93,-33.93,66.38,Critical
+2026-02-09,2026,2,February,2026-February,7,0,Monday,hiring,77.05,100.93,-23.88,76.34,High Risk
+2026-02-09,2026,2,February,2026-February,7,0,Monday,attrition,56.95,100.93,-43.98,56.43,Critical
+2026-02-10,2026,2,February,2026-February,7,1,Tuesday,baseline,67.0,95.86,-28.86,69.89,Critical
+2026-02-10,2026,2,February,2026-February,7,1,Tuesday,hiring,77.05,95.86,-18.81,80.38,High Risk
+2026-02-10,2026,2,February,2026-February,7,1,Tuesday,attrition,56.95,95.86,-38.91,59.41,Critical
+2026-02-11,2026,2,February,2026-February,7,2,Wednesday,baseline,67.0,87.8,-20.8,76.31,High Risk
+2026-02-11,2026,2,February,2026-February,7,2,Wednesday,hiring,77.05,87.8,-10.75,87.76,Moderate Risk
+2026-02-11,2026,2,February,2026-February,7,2,Wednesday,attrition,56.95,87.8,-30.85,64.86,Critical
+2026-02-12,2026,2,February,2026-February,7,3,Thursday,baseline,67.0,82.39,-15.39,81.32,High Risk
+2026-02-12,2026,2,February,2026-February,7,3,Thursday,hiring,77.05,82.39,-5.34,93.52,Moderate Risk
+2026-02-12,2026,2,February,2026-February,7,3,Thursday,attrition,56.95,82.39,-25.44,69.12,Critical
+2026-02-13,2026,2,February,2026-February,7,4,Friday,baseline,67.0,74.65,-7.65,89.75,Moderate Risk
+2026-02-13,2026,2,February,2026-February,7,4,Friday,hiring,77.05,74.65,2.4,103.22,Low Risk
+2026-02-13,2026,2,February,2026-February,7,4,Friday,attrition,56.95,74.65,-17.7,76.29,High Risk
+2026-02-14,2026,2,February,2026-February,7,5,Saturday,baseline,67.0,57.32,9.68,116.89,Surplus
+2026-02-14,2026,2,February,2026-February,7,5,Saturday,hiring,77.05,57.32,19.73,134.42,Surplus
+2026-02-14,2026,2,February,2026-February,7,5,Saturday,attrition,56.95,57.32,-0.37,99.35,Low Risk
+2026-02-15,2026,2,February,2026-February,7,6,Sunday,baseline,67.0,40.01,26.99,167.46,Surplus
+2026-02-15,2026,2,February,2026-February,7,6,Sunday,hiring,77.05,40.01,37.04,192.58,Surplus
+2026-02-15,2026,2,February,2026-February,7,6,Sunday,attrition,56.95,40.01,16.94,142.34,Surplus
+2026-02-16,2026,2,February,2026-February,8,0,Monday,baseline,65.29,100.99,-35.7,64.65,Critical
+2026-02-16,2026,2,February,2026-February,8,0,Monday,hiring,75.08,100.99,-25.91,74.34,Critical
+2026-02-16,2026,2,February,2026-February,8,0,Monday,attrition,55.5,100.99,-45.49,54.96,Critical
+2026-02-17,2026,2,February,2026-February,8,1,Tuesday,baseline,65.29,95.9,-30.61,68.08,Critical
+2026-02-17,2026,2,February,2026-February,8,1,Tuesday,hiring,75.08,95.9,-20.82,78.29,High Risk
+2026-02-17,2026,2,February,2026-February,8,1,Tuesday,attrition,55.5,95.9,-40.4,57.87,Critical
+2026-02-18,2026,2,February,2026-February,8,2,Wednesday,baseline,65.29,87.85,-22.56,74.32,Critical
+2026-02-18,2026,2,February,2026-February,8,2,Wednesday,hiring,75.08,87.85,-12.77,85.46,Moderate Risk
+2026-02-18,2026,2,February,2026-February,8,2,Wednesday,attrition,55.5,87.85,-32.35,63.18,Critical
+2026-02-19,2026,2,February,2026-February,8,3,Thursday,baseline,65.29,82.45,-17.16,79.19,High Risk
+2026-02-19,2026,2,February,2026-February,8,3,Thursday,hiring,75.08,82.45,-7.37,91.06,Moderate Risk
+2026-02-19,2026,2,February,2026-February,8,3,Thursday,attrition,55.5,82.45,-26.95,67.31,Critical
+2026-02-20,2026,2,February,2026-February,8,4,Friday,baseline,65.29,74.71,-9.42,87.39,Moderate Risk
+2026-02-20,2026,2,February,2026-February,8,4,Friday,hiring,75.08,74.71,0.37,100.5,Low Risk
+2026-02-20,2026,2,February,2026-February,8,4,Friday,attrition,55.5,74.71,-19.21,74.29,Critical
+2026-02-21,2026,2,February,2026-February,8,5,Saturday,baseline,65.29,57.37,7.92,113.81,Surplus
+2026-02-21,2026,2,February,2026-February,8,5,Saturday,hiring,75.08,57.37,17.71,130.87,Surplus
+2026-02-21,2026,2,February,2026-February,8,5,Saturday,attrition,55.5,57.37,-1.87,96.74,Low Risk
+2026-02-22,2026,2,February,2026-February,8,6,Sunday,baseline,65.29,40.05,25.24,163.02,Surplus
+2026-02-22,2026,2,February,2026-February,8,6,Sunday,hiring,75.08,40.05,35.03,187.47,Surplus
+2026-02-22,2026,2,February,2026-February,8,6,Sunday,attrition,55.5,40.05,15.45,138.58,Surplus
+2026-02-23,2026,2,February,2026-February,9,0,Monday,baseline,70.86,101.04,-30.18,70.13,Critical
+2026-02-23,2026,2,February,2026-February,9,0,Monday,hiring,81.49,101.04,-19.55,80.65,High Risk
+2026-02-23,2026,2,February,2026-February,9,0,Monday,attrition,60.23,101.04,-40.81,59.61,Critical
+2026-02-24,2026,2,February,2026-February,9,1,Tuesday,baseline,70.86,95.96,-25.1,73.84,Critical
+2026-02-24,2026,2,February,2026-February,9,1,Tuesday,hiring,81.49,95.96,-14.47,84.92,High Risk
+2026-02-24,2026,2,February,2026-February,9,1,Tuesday,attrition,60.23,95.96,-35.73,62.77,Critical
+2026-02-25,2026,2,February,2026-February,9,2,Wednesday,baseline,70.86,87.91,-17.05,80.61,High Risk
+2026-02-25,2026,2,February,2026-February,9,2,Wednesday,hiring,81.49,87.91,-6.42,92.7,Moderate Risk
+2026-02-25,2026,2,February,2026-February,9,2,Wednesday,attrition,60.23,87.91,-27.68,68.51,Critical
+2026-02-26,2026,2,February,2026-February,9,3,Thursday,baseline,70.86,82.51,-11.65,85.88,Moderate Risk
+2026-02-26,2026,2,February,2026-February,9,3,Thursday,hiring,81.49,82.51,-1.02,98.76,Low Risk
+2026-02-26,2026,2,February,2026-February,9,3,Thursday,attrition,60.23,82.51,-22.28,73.0,Critical
+2026-02-27,2026,2,February,2026-February,9,4,Friday,baseline,70.86,74.76,-3.9,94.78,Moderate Risk
+2026-02-27,2026,2,February,2026-February,9,4,Friday,hiring,81.49,74.76,6.73,109.0,Surplus
+2026-02-27,2026,2,February,2026-February,9,4,Friday,attrition,60.23,74.76,-14.53,80.56,High Risk
+2026-02-28,2026,2,February,2026-February,9,5,Saturday,baseline,70.86,57.43,13.43,123.38,Surplus
+2026-02-28,2026,2,February,2026-February,9,5,Saturday,hiring,81.49,57.43,24.06,141.89,Surplus
+2026-02-28,2026,2,February,2026-February,9,5,Saturday,attrition,60.23,57.43,2.8,104.88,Low Risk
+2026-03-01,2026,3,March,2026-March,9,6,Sunday,baseline,70.86,41.93,28.93,169.0,Surplus
+2026-03-01,2026,3,March,2026-March,9,6,Sunday,hiring,81.49,41.93,39.56,194.35,Surplus
+2026-03-01,2026,3,March,2026-March,9,6,Sunday,attrition,60.23,41.93,18.3,143.64,Surplus
+2026-03-02,2026,3,March,2026-March,10,0,Monday,baseline,67.71,103.27,-35.56,65.57,Critical
+2026-03-02,2026,3,March,2026-March,10,0,Monday,hiring,77.87,103.27,-25.4,75.4,High Risk
+2026-03-02,2026,3,March,2026-March,10,0,Monday,attrition,57.55,103.27,-45.72,55.73,Critical
+2026-03-03,2026,3,March,2026-March,10,1,Tuesday,baseline,67.71,98.16,-30.45,68.98,Critical
+2026-03-03,2026,3,March,2026-March,10,1,Tuesday,hiring,77.87,98.16,-20.29,79.33,High Risk
+2026-03-03,2026,3,March,2026-March,10,1,Tuesday,attrition,57.55,98.16,-40.61,58.63,Critical
+2026-03-04,2026,3,March,2026-March,10,2,Wednesday,baseline,67.71,90.07,-22.36,75.17,High Risk
+2026-03-04,2026,3,March,2026-March,10,2,Wednesday,hiring,77.87,90.07,-12.2,86.45,Moderate Risk
+2026-03-04,2026,3,March,2026-March,10,2,Wednesday,attrition,57.55,90.07,-32.52,63.89,Critical
+2026-03-05,2026,3,March,2026-March,10,3,Thursday,baseline,67.71,84.63,-16.92,80.01,High Risk
+2026-03-05,2026,3,March,2026-March,10,3,Thursday,hiring,77.87,84.63,-6.76,92.01,Moderate Risk
+2026-03-05,2026,3,March,2026-March,10,3,Thursday,attrition,57.55,84.63,-27.08,68.0,Critical
+2026-03-06,2026,3,March,2026-March,10,4,Friday,baseline,67.71,76.84,-9.13,88.12,Moderate Risk
+2026-03-06,2026,3,March,2026-March,10,4,Friday,hiring,77.87,76.84,1.03,101.34,Low Risk
+2026-03-06,2026,3,March,2026-March,10,4,Friday,attrition,57.55,76.84,-19.29,74.9,Critical
+2026-03-07,2026,3,March,2026-March,10,5,Saturday,baseline,67.71,59.4,8.31,113.99,Surplus
+2026-03-07,2026,3,March,2026-March,10,5,Saturday,hiring,77.87,59.4,18.47,131.09,Surplus
+2026-03-07,2026,3,March,2026-March,10,5,Saturday,attrition,57.55,59.4,-1.85,96.89,Low Risk
+2026-03-08,2026,3,March,2026-March,10,6,Sunday,baseline,67.71,41.98,25.73,161.29,Surplus
+2026-03-08,2026,3,March,2026-March,10,6,Sunday,hiring,77.87,41.98,35.89,185.49,Surplus
+2026-03-08,2026,3,March,2026-March,10,6,Sunday,attrition,57.55,41.98,15.57,137.09,Surplus
+2026-03-09,2026,3,March,2026-March,11,0,Monday,baseline,66.86,103.33,-36.47,64.71,Critical
+2026-03-09,2026,3,March,2026-March,11,0,Monday,hiring,76.89,103.33,-26.44,74.41,Critical
+2026-03-09,2026,3,March,2026-March,11,0,Monday,attrition,56.83,103.33,-46.5,55.0,Critical
+2026-03-10,2026,3,March,2026-March,11,1,Tuesday,baseline,66.86,98.22,-31.36,68.07,Critical
+2026-03-10,2026,3,March,2026-March,11,1,Tuesday,hiring,76.89,98.22,-21.33,78.28,High Risk
+2026-03-10,2026,3,March,2026-March,11,1,Tuesday,attrition,56.83,98.22,-41.39,57.86,Critical
+2026-03-11,2026,3,March,2026-March,11,2,Wednesday,baseline,66.86,90.11,-23.25,74.2,Critical
+2026-03-11,2026,3,March,2026-March,11,2,Wednesday,hiring,76.89,90.11,-13.22,85.33,Moderate Risk
+2026-03-11,2026,3,March,2026-March,11,2,Wednesday,attrition,56.83,90.11,-33.28,63.07,Critical
+2026-03-12,2026,3,March,2026-March,11,3,Thursday,baseline,66.86,84.69,-17.83,78.95,High Risk
+2026-03-12,2026,3,March,2026-March,11,3,Thursday,hiring,76.89,84.69,-7.8,90.79,Moderate Risk
+2026-03-12,2026,3,March,2026-March,11,3,Thursday,attrition,56.83,84.69,-27.86,67.1,Critical
+2026-03-13,2026,3,March,2026-March,11,4,Friday,baseline,66.86,76.89,-10.03,86.96,Moderate Risk
+2026-03-13,2026,3,March,2026-March,11,4,Friday,hiring,76.89,76.89,0.0,100.0,Low Risk
+2026-03-13,2026,3,March,2026-March,11,4,Friday,attrition,56.83,76.89,-20.06,73.91,Critical
+2026-03-14,2026,3,March,2026-March,11,5,Saturday,baseline,66.86,59.46,7.4,112.45,Surplus
+2026-03-14,2026,3,March,2026-March,11,5,Saturday,hiring,76.89,59.46,17.43,129.31,Surplus
+2026-03-14,2026,3,March,2026-March,11,5,Saturday,attrition,56.83,59.46,-2.63,95.58,Low Risk
+2026-03-15,2026,3,March,2026-March,11,6,Sunday,baseline,66.86,42.04,24.82,159.04,Surplus
+2026-03-15,2026,3,March,2026-March,11,6,Sunday,hiring,76.89,42.04,34.85,182.9,Surplus
+2026-03-15,2026,3,March,2026-March,11,6,Sunday,attrition,56.83,42.04,14.79,135.18,Surplus
+2026-03-16,2026,3,March,2026-March,12,0,Monday,baseline,61.71,103.39,-41.68,59.69,Critical
+2026-03-16,2026,3,March,2026-March,12,0,Monday,hiring,70.97,103.39,-32.42,68.64,Critical
+2026-03-16,2026,3,March,2026-March,12,0,Monday,attrition,52.45,103.39,-50.94,50.73,Critical
+2026-03-17,2026,3,March,2026-March,12,1,Tuesday,baseline,61.71,98.26,-36.55,62.8,Critical
+2026-03-17,2026,3,March,2026-March,12,1,Tuesday,hiring,70.97,98.26,-27.29,72.23,Critical
+2026-03-17,2026,3,March,2026-March,12,1,Tuesday,attrition,52.45,98.26,-45.81,53.38,Critical
+2026-03-18,2026,3,March,2026-March,12,2,Wednesday,baseline,61.71,90.17,-28.46,68.44,Critical
+2026-03-18,2026,3,March,2026-March,12,2,Wednesday,hiring,70.97,90.17,-19.2,78.71,High Risk
+2026-03-18,2026,3,March,2026-March,12,2,Wednesday,attrition,52.45,90.17,-37.72,58.17,Critical
+2026-03-19,2026,3,March,2026-March,12,3,Thursday,baseline,61.71,84.73,-23.02,72.83,Critical
+2026-03-19,2026,3,March,2026-March,12,3,Thursday,hiring,70.97,84.73,-13.76,83.76,High Risk
+2026-03-19,2026,3,March,2026-March,12,3,Thursday,attrition,52.45,84.73,-32.28,61.9,Critical
+2026-03-20,2026,3,March,2026-March,12,4,Friday,baseline,61.71,76.95,-15.24,80.19,High Risk
+2026-03-20,2026,3,March,2026-March,12,4,Friday,hiring,70.97,76.95,-5.98,92.23,Moderate Risk
+2026-03-20,2026,3,March,2026-March,12,4,Friday,attrition,52.45,76.95,-24.5,68.16,Critical
+2026-03-21,2026,3,March,2026-March,12,5,Saturday,baseline,61.71,59.5,2.21,103.71,Low Risk
+2026-03-21,2026,3,March,2026-March,12,5,Saturday,hiring,70.97,59.5,11.47,119.28,Surplus
+2026-03-21,2026,3,March,2026-March,12,5,Saturday,attrition,52.45,59.5,-7.05,88.15,Moderate Risk
+2026-03-22,2026,3,March,2026-March,12,6,Sunday,baseline,61.71,42.09,19.62,146.61,Surplus
+2026-03-22,2026,3,March,2026-March,12,6,Sunday,hiring,70.97,42.09,28.88,168.61,Surplus
+2026-03-22,2026,3,March,2026-March,12,6,Sunday,attrition,52.45,42.09,10.36,124.61,Surplus
+2026-03-23,2026,3,March,2026-March,13,0,Monday,baseline,66.29,103.43,-37.14,64.09,Critical
+2026-03-23,2026,3,March,2026-March,13,0,Monday,hiring,76.23,103.43,-27.2,73.7,Critical
+2026-03-23,2026,3,March,2026-March,13,0,Monday,attrition,56.35,103.43,-47.08,54.48,Critical
+2026-03-24,2026,3,March,2026-March,13,1,Tuesday,baseline,66.29,98.32,-32.03,67.42,Critical
+2026-03-24,2026,3,March,2026-March,13,1,Tuesday,hiring,76.23,98.32,-22.09,77.53,High Risk
+2026-03-24,2026,3,March,2026-March,13,1,Tuesday,attrition,56.35,98.32,-41.97,57.31,Critical
+2026-03-25,2026,3,March,2026-March,13,2,Wednesday,baseline,66.29,90.21,-23.92,73.48,Critical
+2026-03-25,2026,3,March,2026-March,13,2,Wednesday,hiring,76.23,90.21,-13.98,84.5,High Risk
+2026-03-25,2026,3,March,2026-March,13,2,Wednesday,attrition,56.35,90.21,-33.86,62.47,Critical
+2026-03-26,2026,3,March,2026-March,13,3,Thursday,baseline,66.29,84.79,-18.5,78.18,High Risk
+2026-03-26,2026,3,March,2026-March,13,3,Thursday,hiring,76.23,84.79,-8.56,89.9,Moderate Risk
+2026-03-26,2026,3,March,2026-March,13,3,Thursday,attrition,56.35,84.79,-28.44,66.46,Critical
+2026-03-27,2026,3,March,2026-March,13,4,Friday,baseline,66.29,76.99,-10.7,86.1,Moderate Risk
+2026-03-27,2026,3,March,2026-March,13,4,Friday,hiring,76.23,76.99,-0.76,99.01,Low Risk
+2026-03-27,2026,3,March,2026-March,13,4,Friday,attrition,56.35,76.99,-20.64,73.19,Critical
+2026-03-28,2026,3,March,2026-March,13,5,Saturday,baseline,66.29,59.56,6.73,111.3,Surplus
+2026-03-28,2026,3,March,2026-March,13,5,Saturday,hiring,76.23,59.56,16.67,127.99,Surplus
+2026-03-28,2026,3,March,2026-March,13,5,Saturday,attrition,56.35,59.56,-3.21,94.61,Moderate Risk
+2026-03-29,2026,3,March,2026-March,13,6,Sunday,baseline,66.29,42.14,24.15,157.31,Surplus
+2026-03-29,2026,3,March,2026-March,13,6,Sunday,hiring,76.23,42.14,34.09,180.9,Surplus
+2026-03-29,2026,3,March,2026-March,13,6,Sunday,attrition,56.35,42.14,14.21,133.72,Surplus
+2026-03-30,2026,3,March,2026-March,14,0,Monday,baseline,72.0,103.49,-31.49,69.57,Critical
+2026-03-30,2026,3,March,2026-March,14,0,Monday,hiring,82.8,103.49,-20.69,80.01,High Risk
+2026-03-30,2026,3,March,2026-March,14,0,Monday,attrition,61.2,103.49,-42.29,59.14,Critical
+2026-03-31,2026,3,March,2026-March,14,1,Tuesday,baseline,72.0,98.38,-26.38,73.19,Critical
+2026-03-31,2026,3,March,2026-March,14,1,Tuesday,hiring,82.8,98.38,-15.58,84.16,High Risk
+2026-03-31,2026,3,March,2026-March,14,1,Tuesday,attrition,61.2,98.38,-37.18,62.21,Critical
+2026-04-01,2026,4,April,2026-April,14,2,Wednesday,baseline,72.0,95.81,-23.81,75.15,High Risk
+2026-04-01,2026,4,April,2026-April,14,2,Wednesday,hiring,82.8,95.81,-13.01,86.42,Moderate Risk
+2026-04-01,2026,4,April,2026-April,14,2,Wednesday,attrition,61.2,95.81,-34.61,63.88,Critical
+2026-04-02,2026,4,April,2026-April,14,3,Thursday,baseline,72.0,90.35,-18.35,79.69,High Risk
+2026-04-02,2026,4,April,2026-April,14,3,Thursday,hiring,82.8,90.35,-7.55,91.64,Moderate Risk
+2026-04-02,2026,4,April,2026-April,14,3,Thursday,attrition,61.2,90.35,-29.15,67.74,Critical
+2026-04-03,2026,4,April,2026-April,14,4,Friday,baseline,72.0,82.56,-10.56,87.21,Moderate Risk
+2026-04-03,2026,4,April,2026-April,14,4,Friday,hiring,82.8,82.56,0.24,100.29,Low Risk
+2026-04-03,2026,4,April,2026-April,14,4,Friday,attrition,61.2,82.56,-21.36,74.13,Critical
+2026-04-04,2026,4,April,2026-April,14,5,Saturday,baseline,72.0,65.07,6.93,110.65,Surplus
+2026-04-04,2026,4,April,2026-April,14,5,Saturday,hiring,82.8,65.07,17.73,127.25,Surplus
+2026-04-04,2026,4,April,2026-April,14,5,Saturday,attrition,61.2,65.07,-3.87,94.05,Moderate Risk
+2026-04-05,2026,4,April,2026-April,14,6,Sunday,baseline,72.0,47.61,24.39,151.23,Surplus
+2026-04-05,2026,4,April,2026-April,14,6,Sunday,hiring,82.8,47.61,35.19,173.91,Surplus
+2026-04-05,2026,4,April,2026-April,14,6,Sunday,attrition,61.2,47.61,13.59,128.54,Surplus
+2026-04-06,2026,4,April,2026-April,15,0,Monday,baseline,73.43,109.1,-35.67,67.31,Critical
+2026-04-06,2026,4,April,2026-April,15,0,Monday,hiring,84.44,109.1,-24.66,77.4,High Risk
+2026-04-06,2026,4,April,2026-April,15,0,Monday,attrition,62.42,109.1,-46.68,57.21,Critical
+2026-04-07,2026,4,April,2026-April,15,1,Tuesday,baseline,73.43,103.98,-30.55,70.62,Critical
+2026-04-07,2026,4,April,2026-April,15,1,Tuesday,hiring,84.44,103.98,-19.54,81.21,High Risk
+2026-04-07,2026,4,April,2026-April,15,1,Tuesday,attrition,62.42,103.98,-41.56,60.03,Critical
+2026-04-08,2026,4,April,2026-April,15,2,Wednesday,baseline,73.43,95.86,-22.43,76.6,High Risk
+2026-04-08,2026,4,April,2026-April,15,2,Wednesday,hiring,84.44,95.86,-11.42,88.09,Moderate Risk
+2026-04-08,2026,4,April,2026-April,15,2,Wednesday,attrition,62.42,95.86,-33.44,65.12,Critical
+2026-04-09,2026,4,April,2026-April,15,3,Thursday,baseline,73.43,90.41,-16.98,81.22,High Risk
+2026-04-09,2026,4,April,2026-April,15,3,Thursday,hiring,84.44,90.41,-5.97,93.4,Moderate Risk
+2026-04-09,2026,4,April,2026-April,15,3,Thursday,attrition,62.42,90.41,-27.99,69.04,Critical
+2026-04-10,2026,4,April,2026-April,15,4,Friday,baseline,73.43,82.6,-9.17,88.9,Moderate Risk
+2026-04-10,2026,4,April,2026-April,15,4,Friday,hiring,84.44,82.6,1.84,102.23,Low Risk
+2026-04-10,2026,4,April,2026-April,15,4,Friday,attrition,62.42,82.6,-20.18,75.57,High Risk
+2026-04-11,2026,4,April,2026-April,15,5,Saturday,baseline,73.43,65.13,8.3,112.74,Surplus
+2026-04-11,2026,4,April,2026-April,15,5,Saturday,hiring,84.44,65.13,19.31,129.65,Surplus
+2026-04-11,2026,4,April,2026-April,15,5,Saturday,attrition,62.42,65.13,-2.71,95.84,Low Risk
+2026-04-12,2026,4,April,2026-April,15,6,Sunday,baseline,73.43,47.65,25.78,154.1,Surplus
+2026-04-12,2026,4,April,2026-April,15,6,Sunday,hiring,84.44,47.65,36.79,177.21,Surplus
+2026-04-12,2026,4,April,2026-April,15,6,Sunday,attrition,62.42,47.65,14.77,131.0,Surplus
+2026-04-13,2026,4,April,2026-April,16,0,Monday,baseline,70.57,109.16,-38.59,64.65,Critical
+2026-04-13,2026,4,April,2026-April,16,0,Monday,hiring,81.16,109.16,-28.0,74.35,Critical
+2026-04-13,2026,4,April,2026-April,16,0,Monday,attrition,59.98,109.16,-49.18,54.95,Critical
+2026-04-14,2026,4,April,2026-April,16,1,Tuesday,baseline,70.57,104.04,-33.47,67.83,Critical
+2026-04-14,2026,4,April,2026-April,16,1,Tuesday,hiring,81.16,104.04,-22.88,78.01,High Risk
+2026-04-14,2026,4,April,2026-April,16,1,Tuesday,attrition,59.98,104.04,-44.06,57.65,Critical
+2026-04-15,2026,4,April,2026-April,16,2,Wednesday,baseline,70.57,95.91,-25.34,73.58,Critical
+2026-04-15,2026,4,April,2026-April,16,2,Wednesday,hiring,81.16,95.91,-14.75,84.62,High Risk
+2026-04-15,2026,4,April,2026-April,16,2,Wednesday,attrition,59.98,95.91,-35.93,62.54,Critical
+2026-04-16,2026,4,April,2026-April,16,3,Thursday,baseline,70.57,90.47,-19.9,78.0,High Risk
+2026-04-16,2026,4,April,2026-April,16,3,Thursday,hiring,81.16,90.47,-9.31,89.71,Moderate Risk
+2026-04-16,2026,4,April,2026-April,16,3,Thursday,attrition,59.98,90.47,-30.49,66.3,Critical
+2026-04-17,2026,4,April,2026-April,16,4,Friday,baseline,70.57,82.66,-12.09,85.37,Moderate Risk
+2026-04-17,2026,4,April,2026-April,16,4,Friday,hiring,81.16,82.66,-1.5,98.19,Low Risk
+2026-04-17,2026,4,April,2026-April,16,4,Friday,attrition,59.98,82.66,-22.68,72.56,Critical
+2026-04-18,2026,4,April,2026-April,16,5,Saturday,baseline,70.57,65.17,5.4,108.29,Surplus
+2026-04-18,2026,4,April,2026-April,16,5,Saturday,hiring,81.16,65.17,15.99,124.54,Surplus
+2026-04-18,2026,4,April,2026-April,16,5,Saturday,attrition,59.98,65.17,-5.19,92.04,Moderate Risk
+2026-04-19,2026,4,April,2026-April,16,6,Sunday,baseline,70.57,47.71,22.86,147.91,Surplus
+2026-04-19,2026,4,April,2026-April,16,6,Sunday,hiring,81.16,47.71,33.45,170.11,Surplus
+2026-04-19,2026,4,April,2026-April,16,6,Sunday,attrition,59.98,47.71,12.27,125.72,Surplus
+2026-04-20,2026,4,April,2026-April,17,0,Monday,baseline,73.71,109.22,-35.51,67.49,Critical
+2026-04-20,2026,4,April,2026-April,17,0,Monday,hiring,84.77,109.22,-24.45,77.61,High Risk
+2026-04-20,2026,4,April,2026-April,17,0,Monday,attrition,62.65,109.22,-46.57,57.36,Critical
+2026-04-21,2026,4,April,2026-April,17,1,Tuesday,baseline,73.71,104.08,-30.37,70.82,Critical
+2026-04-21,2026,4,April,2026-April,17,1,Tuesday,hiring,84.77,104.08,-19.31,81.45,High Risk
+2026-04-21,2026,4,April,2026-April,17,1,Tuesday,attrition,62.65,104.08,-41.43,60.19,Critical
+2026-04-22,2026,4,April,2026-April,17,2,Wednesday,baseline,73.71,95.96,-22.25,76.81,High Risk
+2026-04-22,2026,4,April,2026-April,17,2,Wednesday,hiring,84.77,95.96,-11.19,88.34,Moderate Risk
+2026-04-22,2026,4,April,2026-April,17,2,Wednesday,attrition,62.65,95.96,-33.31,65.29,Critical
+2026-04-23,2026,4,April,2026-April,17,3,Thursday,baseline,73.71,90.51,-16.8,81.44,High Risk
+2026-04-23,2026,4,April,2026-April,17,3,Thursday,hiring,84.77,90.51,-5.74,93.66,Moderate Risk
+2026-04-23,2026,4,April,2026-April,17,3,Thursday,attrition,62.65,90.51,-27.86,69.22,Critical
+2026-04-24,2026,4,April,2026-April,17,4,Friday,baseline,73.71,82.71,-9.0,89.12,Moderate Risk
+2026-04-24,2026,4,April,2026-April,17,4,Friday,hiring,84.77,82.71,2.06,102.49,Low Risk
+2026-04-24,2026,4,April,2026-April,17,4,Friday,attrition,62.65,82.71,-20.06,75.75,High Risk
+2026-04-25,2026,4,April,2026-April,17,5,Saturday,baseline,73.71,65.23,8.48,113.0,Surplus
+2026-04-25,2026,4,April,2026-April,17,5,Saturday,hiring,84.77,65.23,19.54,129.96,Surplus
+2026-04-25,2026,4,April,2026-April,17,5,Saturday,attrition,62.65,65.23,-2.58,96.04,Low Risk
+2026-04-26,2026,4,April,2026-April,17,6,Sunday,baseline,73.71,47.77,25.94,154.3,Surplus
+2026-04-26,2026,4,April,2026-April,17,6,Sunday,hiring,84.77,47.77,37.0,177.45,Surplus
+2026-04-26,2026,4,April,2026-April,17,6,Sunday,attrition,62.65,47.77,14.88,131.15,Surplus
+2026-04-27,2026,4,April,2026-April,18,0,Monday,baseline,71.57,109.26,-37.69,65.5,Critical
+2026-04-27,2026,4,April,2026-April,18,0,Monday,hiring,82.31,109.26,-26.95,75.33,High Risk
+2026-04-27,2026,4,April,2026-April,18,0,Monday,attrition,60.83,109.26,-48.43,55.67,Critical
+2026-04-28,2026,4,April,2026-April,18,1,Tuesday,baseline,71.57,104.14,-32.57,68.72,Critical
+2026-04-28,2026,4,April,2026-April,18,1,Tuesday,hiring,82.31,104.14,-21.83,79.04,High Risk
+2026-04-28,2026,4,April,2026-April,18,1,Tuesday,attrition,60.83,104.14,-43.31,58.41,Critical
+2026-04-29,2026,4,April,2026-April,18,2,Wednesday,baseline,71.57,96.02,-24.45,74.54,Critical
+2026-04-29,2026,4,April,2026-April,18,2,Wednesday,hiring,82.31,96.02,-13.71,85.72,Moderate Risk
+2026-04-29,2026,4,April,2026-April,18,2,Wednesday,attrition,60.83,96.02,-35.19,63.35,Critical
+2026-04-30,2026,4,April,2026-April,18,3,Thursday,baseline,71.57,90.57,-19.0,79.02,High Risk
+2026-04-30,2026,4,April,2026-April,18,3,Thursday,hiring,82.31,90.57,-8.26,90.88,Moderate Risk
+2026-04-30,2026,4,April,2026-April,18,3,Thursday,attrition,60.83,90.57,-29.74,67.16,Critical
+2026-05-01,2026,5,May,2026-May,18,4,Friday,baseline,71.57,86.04,-14.47,83.18,High Risk
+2026-05-01,2026,5,May,2026-May,18,4,Friday,hiring,82.31,86.04,-3.73,95.66,Low Risk
+2026-05-01,2026,5,May,2026-May,18,4,Friday,attrition,60.83,86.04,-25.21,70.7,Critical
+2026-05-02,2026,5,May,2026-May,18,5,Saturday,baseline,71.57,68.68,2.89,104.21,Low Risk
+2026-05-02,2026,5,May,2026-May,18,5,Saturday,hiring,82.31,68.68,13.63,119.85,Surplus
+2026-05-02,2026,5,May,2026-May,18,5,Saturday,attrition,60.83,68.68,-7.85,88.57,Moderate Risk
+2026-05-03,2026,5,May,2026-May,18,6,Sunday,baseline,71.57,51.33,20.24,139.43,Surplus
+2026-05-03,2026,5,May,2026-May,18,6,Sunday,hiring,82.31,51.33,30.98,160.35,Surplus
+2026-05-03,2026,5,May,2026-May,18,6,Sunday,attrition,60.83,51.33,9.5,118.51,Surplus
+2026-05-04,2026,5,May,2026-May,19,0,Monday,baseline,77.14,112.39,-35.25,68.64,Critical
+2026-05-04,2026,5,May,2026-May,19,0,Monday,hiring,88.71,112.39,-23.68,78.93,High Risk
+2026-05-04,2026,5,May,2026-May,19,0,Monday,attrition,65.57,112.39,-46.82,58.34,Critical
+2026-05-05,2026,5,May,2026-May,19,1,Tuesday,baseline,77.14,107.32,-30.18,71.88,Critical
+2026-05-05,2026,5,May,2026-May,19,1,Tuesday,hiring,88.71,107.32,-18.61,82.66,High Risk
+2026-05-05,2026,5,May,2026-May,19,1,Tuesday,attrition,65.57,107.32,-41.75,61.1,Critical
+2026-05-06,2026,5,May,2026-May,19,2,Wednesday,baseline,77.14,99.24,-22.1,77.73,High Risk
+2026-05-06,2026,5,May,2026-May,19,2,Wednesday,hiring,88.71,99.24,-10.53,89.39,Moderate Risk
+2026-05-06,2026,5,May,2026-May,19,2,Wednesday,attrition,65.57,99.24,-33.67,66.07,Critical
+2026-05-07,2026,5,May,2026-May,19,3,Thursday,baseline,77.14,93.84,-16.7,82.2,High Risk
+2026-05-07,2026,5,May,2026-May,19,3,Thursday,hiring,88.71,93.84,-5.13,94.53,Moderate Risk
+2026-05-07,2026,5,May,2026-May,19,3,Thursday,attrition,65.57,93.84,-28.27,69.87,Critical
+2026-05-08,2026,5,May,2026-May,19,4,Friday,baseline,77.14,86.09,-8.95,89.6,Moderate Risk
+2026-05-08,2026,5,May,2026-May,19,4,Friday,hiring,88.71,86.09,2.62,103.04,Low Risk
+2026-05-08,2026,5,May,2026-May,19,4,Friday,attrition,65.57,86.09,-20.52,76.16,High Risk
+2026-05-09,2026,5,May,2026-May,19,5,Saturday,baseline,77.14,68.73,8.41,112.24,Surplus
+2026-05-09,2026,5,May,2026-May,19,5,Saturday,hiring,88.71,68.73,19.98,129.07,Surplus
+2026-05-09,2026,5,May,2026-May,19,5,Saturday,attrition,65.57,68.73,-3.16,95.4,Low Risk
+2026-05-10,2026,5,May,2026-May,19,6,Sunday,baseline,77.14,51.39,25.75,150.11,Surplus
+2026-05-10,2026,5,May,2026-May,19,6,Sunday,hiring,88.71,51.39,37.32,172.62,Surplus
+2026-05-10,2026,5,May,2026-May,19,6,Sunday,attrition,65.57,51.39,14.18,127.59,Surplus
+2026-05-11,2026,5,May,2026-May,20,0,Monday,baseline,74.0,112.45,-38.45,65.81,Critical
+2026-05-11,2026,5,May,2026-May,20,0,Monday,hiring,85.1,112.45,-27.35,75.68,High Risk
+2026-05-11,2026,5,May,2026-May,20,0,Monday,attrition,62.9,112.45,-49.55,55.94,Critical
+2026-05-12,2026,5,May,2026-May,20,1,Tuesday,baseline,74.0,107.36,-33.36,68.93,Critical
+2026-05-12,2026,5,May,2026-May,20,1,Tuesday,hiring,85.1,107.36,-22.26,79.27,High Risk
+2026-05-12,2026,5,May,2026-May,20,1,Tuesday,attrition,62.9,107.36,-44.46,58.59,Critical
+2026-05-13,2026,5,May,2026-May,20,2,Wednesday,baseline,74.0,99.3,-25.3,74.52,Critical
+2026-05-13,2026,5,May,2026-May,20,2,Wednesday,hiring,85.1,99.3,-14.2,85.7,Moderate Risk
+2026-05-13,2026,5,May,2026-May,20,2,Wednesday,attrition,62.9,99.3,-36.4,63.34,Critical
+2026-05-14,2026,5,May,2026-May,20,3,Thursday,baseline,74.0,93.9,-19.9,78.81,High Risk
+2026-05-14,2026,5,May,2026-May,20,3,Thursday,hiring,85.1,93.9,-8.8,90.63,Moderate Risk
+2026-05-14,2026,5,May,2026-May,20,3,Thursday,attrition,62.9,93.9,-31.0,66.99,Critical
+2026-05-15,2026,5,May,2026-May,20,4,Friday,baseline,74.0,86.14,-12.14,85.91,Moderate Risk
+2026-05-15,2026,5,May,2026-May,20,4,Friday,hiring,85.1,86.14,-1.04,98.79,Low Risk
+2026-05-15,2026,5,May,2026-May,20,4,Friday,attrition,62.9,86.14,-23.24,73.02,Critical
+2026-05-16,2026,5,May,2026-May,20,5,Saturday,baseline,74.0,68.78,5.22,107.59,Surplus
+2026-05-16,2026,5,May,2026-May,20,5,Saturday,hiring,85.1,68.78,16.32,123.73,Surplus
+2026-05-16,2026,5,May,2026-May,20,5,Saturday,attrition,62.9,68.78,-5.88,91.45,Moderate Risk
+2026-05-17,2026,5,May,2026-May,20,6,Sunday,baseline,74.0,51.45,22.55,143.83,Surplus
+2026-05-17,2026,5,May,2026-May,20,6,Sunday,hiring,85.1,51.45,33.65,165.4,Surplus
+2026-05-17,2026,5,May,2026-May,20,6,Sunday,attrition,62.9,51.45,11.45,122.25,Surplus
+2026-05-18,2026,5,May,2026-May,21,0,Monday,baseline,77.71,112.51,-34.8,69.07,Critical
+2026-05-18,2026,5,May,2026-May,21,0,Monday,hiring,89.37,112.51,-23.14,79.43,High Risk
+2026-05-18,2026,5,May,2026-May,21,0,Monday,attrition,66.05,112.51,-46.46,58.71,Critical
+2026-05-19,2026,5,May,2026-May,21,1,Tuesday,baseline,77.71,107.42,-29.71,72.34,Critical
+2026-05-19,2026,5,May,2026-May,21,1,Tuesday,hiring,89.37,107.42,-18.05,83.2,High Risk
+2026-05-19,2026,5,May,2026-May,21,1,Tuesday,attrition,66.05,107.42,-41.37,61.49,Critical
+2026-05-20,2026,5,May,2026-May,21,2,Wednesday,baseline,77.71,99.36,-21.65,78.21,High Risk
+2026-05-20,2026,5,May,2026-May,21,2,Wednesday,hiring,89.37,99.36,-9.99,89.95,Moderate Risk
+2026-05-20,2026,5,May,2026-May,21,2,Wednesday,attrition,66.05,99.36,-33.31,66.48,Critical
+2026-05-21,2026,5,May,2026-May,21,3,Thursday,baseline,77.71,93.94,-16.23,82.72,High Risk
+2026-05-21,2026,5,May,2026-May,21,3,Thursday,hiring,89.37,93.94,-4.57,95.14,Low Risk
+2026-05-21,2026,5,May,2026-May,21,3,Thursday,attrition,66.05,93.94,-27.89,70.31,Critical
+2026-05-22,2026,5,May,2026-May,21,4,Friday,baseline,77.71,86.19,-8.48,90.16,Moderate Risk
+2026-05-22,2026,5,May,2026-May,21,4,Friday,hiring,89.37,86.19,3.18,103.69,Low Risk
+2026-05-22,2026,5,May,2026-May,21,4,Friday,attrition,66.05,86.19,-20.14,76.63,High Risk
+2026-05-23,2026,5,May,2026-May,21,5,Saturday,baseline,77.71,68.83,8.88,112.9,Surplus
+2026-05-23,2026,5,May,2026-May,21,5,Saturday,hiring,89.37,68.83,20.54,129.84,Surplus
+2026-05-23,2026,5,May,2026-May,21,5,Saturday,attrition,66.05,68.83,-2.78,95.96,Low Risk
+2026-05-24,2026,5,May,2026-May,21,6,Sunday,baseline,77.71,51.49,26.22,150.92,Surplus
+2026-05-24,2026,5,May,2026-May,21,6,Sunday,hiring,89.37,51.49,37.88,173.57,Surplus
+2026-05-24,2026,5,May,2026-May,21,6,Sunday,attrition,66.05,51.49,14.56,128.28,Surplus
+2026-05-25,2026,5,May,2026-May,22,0,Monday,baseline,71.14,112.55,-41.41,63.21,Critical
+2026-05-25,2026,5,May,2026-May,22,0,Monday,hiring,81.81,112.55,-30.74,72.69,Critical
+2026-05-25,2026,5,May,2026-May,22,0,Monday,attrition,60.47,112.55,-52.08,53.73,Critical
+2026-05-26,2026,5,May,2026-May,22,1,Tuesday,baseline,71.14,107.47,-36.33,66.2,Critical
+2026-05-26,2026,5,May,2026-May,22,1,Tuesday,hiring,81.81,107.47,-25.66,76.12,High Risk
+2026-05-26,2026,5,May,2026-May,22,1,Tuesday,attrition,60.47,107.47,-47.0,56.27,Critical
+2026-05-27,2026,5,May,2026-May,22,2,Wednesday,baseline,71.14,99.4,-28.26,71.57,Critical
+2026-05-27,2026,5,May,2026-May,22,2,Wednesday,hiring,81.81,99.4,-17.59,82.3,High Risk
+2026-05-27,2026,5,May,2026-May,22,2,Wednesday,attrition,60.47,99.4,-38.93,60.84,Critical
+2026-05-28,2026,5,May,2026-May,22,3,Thursday,baseline,71.14,94.0,-22.86,75.68,High Risk
+2026-05-28,2026,5,May,2026-May,22,3,Thursday,hiring,81.81,94.0,-12.19,87.03,Moderate Risk
+2026-05-28,2026,5,May,2026-May,22,3,Thursday,attrition,60.47,94.0,-33.53,64.33,Critical
+2026-05-29,2026,5,May,2026-May,22,4,Friday,baseline,71.14,86.25,-15.11,82.48,High Risk
+2026-05-29,2026,5,May,2026-May,22,4,Friday,hiring,81.81,86.25,-4.44,94.85,Moderate Risk
+2026-05-29,2026,5,May,2026-May,22,4,Friday,attrition,60.47,86.25,-25.78,70.11,Critical
+2026-05-30,2026,5,May,2026-May,22,5,Saturday,baseline,71.14,68.89,2.25,103.27,Low Risk
+2026-05-30,2026,5,May,2026-May,22,5,Saturday,hiring,81.81,68.89,12.92,118.75,Surplus
+2026-05-30,2026,5,May,2026-May,22,5,Saturday,attrition,60.47,68.89,-8.42,87.78,Moderate Risk
+2026-05-31,2026,5,May,2026-May,22,6,Sunday,baseline,71.14,51.55,19.59,138.0,Surplus
+2026-05-31,2026,5,May,2026-May,22,6,Sunday,hiring,81.81,51.55,30.26,158.7,Surplus
+2026-05-31,2026,5,May,2026-May,22,6,Sunday,attrition,60.47,51.55,8.92,117.3,Surplus
+2026-06-01,2026,6,June,2026-June,23,0,Monday,baseline,77.43,114.12,-36.69,67.85,Critical
+2026-06-01,2026,6,June,2026-June,23,0,Monday,hiring,89.04,114.12,-25.08,78.02,High Risk
+2026-06-01,2026,6,June,2026-June,23,0,Monday,attrition,65.82,114.12,-48.3,57.68,Critical
+2026-06-02,2026,6,June,2026-June,23,1,Tuesday,baseline,77.43,108.93,-31.5,71.08,Critical
+2026-06-02,2026,6,June,2026-June,23,1,Tuesday,hiring,89.04,108.93,-19.89,81.74,High Risk
+2026-06-02,2026,6,June,2026-June,23,1,Tuesday,attrition,65.82,108.93,-43.11,60.42,Critical
+2026-06-03,2026,6,June,2026-June,23,2,Wednesday,baseline,77.43,100.7,-23.27,76.89,High Risk
+2026-06-03,2026,6,June,2026-June,23,2,Wednesday,hiring,89.04,100.7,-11.66,88.42,Moderate Risk
+2026-06-03,2026,6,June,2026-June,23,2,Wednesday,attrition,65.82,100.7,-34.88,65.36,Critical
+2026-06-04,2026,6,June,2026-June,23,3,Thursday,baseline,77.43,95.17,-17.74,81.36,High Risk
+2026-06-04,2026,6,June,2026-June,23,3,Thursday,hiring,89.04,95.17,-6.13,93.56,Moderate Risk
+2026-06-04,2026,6,June,2026-June,23,3,Thursday,attrition,65.82,95.17,-29.35,69.16,Critical
+2026-06-05,2026,6,June,2026-June,23,4,Friday,baseline,77.43,87.26,-9.83,88.73,Moderate Risk
+2026-06-05,2026,6,June,2026-June,23,4,Friday,hiring,89.04,87.26,1.78,102.04,Low Risk
+2026-06-05,2026,6,June,2026-June,23,4,Friday,attrition,65.82,87.26,-21.44,75.43,High Risk
+2026-06-06,2026,6,June,2026-June,23,5,Saturday,baseline,77.43,69.54,7.89,111.35,Surplus
+2026-06-06,2026,6,June,2026-June,23,5,Saturday,hiring,89.04,69.54,19.5,128.04,Surplus
+2026-06-06,2026,6,June,2026-June,23,5,Saturday,attrition,65.82,69.54,-3.72,94.65,Moderate Risk
+2026-06-07,2026,6,June,2026-June,23,6,Sunday,baseline,77.43,51.83,25.6,149.39,Surplus
+2026-06-07,2026,6,June,2026-June,23,6,Sunday,hiring,89.04,51.83,37.21,171.79,Surplus
+2026-06-07,2026,6,June,2026-June,23,6,Sunday,attrition,65.82,51.83,13.99,126.99,Surplus
+2026-06-08,2026,6,June,2026-June,24,0,Monday,baseline,77.71,114.17,-36.46,68.07,Critical
+2026-06-08,2026,6,June,2026-June,24,0,Monday,hiring,89.37,114.17,-24.8,78.28,High Risk
+2026-06-08,2026,6,June,2026-June,24,0,Monday,attrition,66.05,114.17,-48.12,57.85,Critical
+2026-06-09,2026,6,June,2026-June,24,1,Tuesday,baseline,77.71,108.99,-31.28,71.3,Critical
+2026-06-09,2026,6,June,2026-June,24,1,Tuesday,hiring,89.37,108.99,-19.62,82.0,High Risk
+2026-06-09,2026,6,June,2026-June,24,1,Tuesday,attrition,66.05,108.99,-42.94,60.6,Critical
+2026-06-10,2026,6,June,2026-June,24,2,Wednesday,baseline,77.71,100.75,-23.04,77.13,High Risk
+2026-06-10,2026,6,June,2026-June,24,2,Wednesday,hiring,89.37,100.75,-11.38,88.7,Moderate Risk
+2026-06-10,2026,6,June,2026-June,24,2,Wednesday,attrition,66.05,100.75,-34.7,65.56,Critical
+2026-06-11,2026,6,June,2026-June,24,3,Thursday,baseline,77.71,95.23,-17.52,81.6,High Risk
+2026-06-11,2026,6,June,2026-June,24,3,Thursday,hiring,89.37,95.23,-5.86,93.85,Moderate Risk
+2026-06-11,2026,6,June,2026-June,24,3,Thursday,attrition,66.05,95.23,-29.18,69.36,Critical
+2026-06-12,2026,6,June,2026-June,24,4,Friday,baseline,77.71,87.32,-9.61,88.99,Moderate Risk
+2026-06-12,2026,6,June,2026-June,24,4,Friday,hiring,89.37,87.32,2.05,102.35,Low Risk
+2026-06-12,2026,6,June,2026-June,24,4,Friday,attrition,66.05,87.32,-21.27,75.64,High Risk
+2026-06-13,2026,6,June,2026-June,24,5,Saturday,baseline,77.71,69.59,8.12,111.67,Surplus
+2026-06-13,2026,6,June,2026-June,24,5,Saturday,hiring,89.37,69.59,19.78,128.42,Surplus
+2026-06-13,2026,6,June,2026-June,24,5,Saturday,attrition,66.05,69.59,-3.54,94.91,Moderate Risk
+2026-06-14,2026,6,June,2026-June,24,6,Sunday,baseline,77.71,51.88,25.83,149.79,Surplus
+2026-06-14,2026,6,June,2026-June,24,6,Sunday,hiring,89.37,51.88,37.49,172.26,Surplus
+2026-06-14,2026,6,June,2026-June,24,6,Sunday,attrition,66.05,51.88,14.17,127.31,Surplus
+2026-06-15,2026,6,June,2026-June,25,0,Monday,baseline,72.0,114.23,-42.23,63.03,Critical
+2026-06-15,2026,6,June,2026-June,25,0,Monday,hiring,82.8,114.23,-31.43,72.49,Critical
+2026-06-15,2026,6,June,2026-June,25,0,Monday,attrition,61.2,114.23,-53.03,53.58,Critical
+2026-06-16,2026,6,June,2026-June,25,1,Tuesday,baseline,72.0,109.03,-37.03,66.04,Critical
+2026-06-16,2026,6,June,2026-June,25,1,Tuesday,hiring,82.8,109.03,-26.23,75.94,High Risk
+2026-06-16,2026,6,June,2026-June,25,1,Tuesday,attrition,61.2,109.03,-47.83,56.13,Critical
+2026-06-17,2026,6,June,2026-June,25,2,Wednesday,baseline,72.0,100.8,-28.8,71.43,Critical
+2026-06-17,2026,6,June,2026-June,25,2,Wednesday,hiring,82.8,100.8,-18.0,82.14,High Risk
+2026-06-17,2026,6,June,2026-June,25,2,Wednesday,attrition,61.2,100.8,-39.6,60.71,Critical
+2026-06-18,2026,6,June,2026-June,25,3,Thursday,baseline,72.0,95.28,-23.28,75.57,High Risk
+2026-06-18,2026,6,June,2026-June,25,3,Thursday,hiring,82.8,95.28,-12.48,86.9,Moderate Risk
+2026-06-18,2026,6,June,2026-June,25,3,Thursday,attrition,61.2,95.28,-34.08,64.23,Critical
+2026-06-19,2026,6,June,2026-June,25,4,Friday,baseline,72.0,87.36,-15.36,82.42,High Risk
+2026-06-19,2026,6,June,2026-June,25,4,Friday,hiring,82.8,87.36,-4.56,94.78,Moderate Risk
+2026-06-19,2026,6,June,2026-June,25,4,Friday,attrition,61.2,87.36,-26.16,70.05,Critical
+2026-06-20,2026,6,June,2026-June,25,5,Saturday,baseline,72.0,69.64,2.36,103.39,Low Risk
+2026-06-20,2026,6,June,2026-June,25,5,Saturday,hiring,82.8,69.64,13.16,118.9,Surplus
+2026-06-20,2026,6,June,2026-June,25,5,Saturday,attrition,61.2,69.64,-8.44,87.88,Moderate Risk
+2026-06-21,2026,6,June,2026-June,25,6,Sunday,baseline,72.0,51.94,20.06,138.62,Surplus
+2026-06-21,2026,6,June,2026-June,25,6,Sunday,hiring,82.8,51.94,30.86,159.41,Surplus
+2026-06-21,2026,6,June,2026-June,25,6,Sunday,attrition,61.2,51.94,9.26,117.83,Surplus
+2026-06-22,2026,6,June,2026-June,26,0,Monday,baseline,77.43,114.29,-36.86,67.75,Critical
+2026-06-22,2026,6,June,2026-June,26,0,Monday,hiring,89.04,114.29,-25.25,77.91,High Risk
+2026-06-22,2026,6,June,2026-June,26,0,Monday,attrition,65.82,114.29,-48.47,57.59,Critical
+2026-06-23,2026,6,June,2026-June,26,1,Tuesday,baseline,77.43,109.09,-31.66,70.98,Critical
+2026-06-23,2026,6,June,2026-June,26,1,Tuesday,hiring,89.04,109.09,-20.05,81.62,High Risk
+2026-06-23,2026,6,June,2026-June,26,1,Tuesday,attrition,65.82,109.09,-43.27,60.34,Critical
+2026-06-24,2026,6,June,2026-June,26,2,Wednesday,baseline,77.43,100.86,-23.43,76.77,High Risk
+2026-06-24,2026,6,June,2026-June,26,2,Wednesday,hiring,89.04,100.86,-11.82,88.28,Moderate Risk
+2026-06-24,2026,6,June,2026-June,26,2,Wednesday,attrition,65.82,100.86,-35.04,65.26,Critical
+2026-06-25,2026,6,June,2026-June,26,3,Thursday,baseline,77.43,95.33,-17.9,81.22,High Risk
+2026-06-25,2026,6,June,2026-June,26,3,Thursday,hiring,89.04,95.33,-6.29,93.4,Moderate Risk
+2026-06-25,2026,6,June,2026-June,26,3,Thursday,attrition,65.82,95.33,-29.51,69.04,Critical
+2026-06-26,2026,6,June,2026-June,26,4,Friday,baseline,77.43,87.42,-9.99,88.57,Moderate Risk
+2026-06-26,2026,6,June,2026-June,26,4,Friday,hiring,89.04,87.42,1.62,101.85,Low Risk
+2026-06-26,2026,6,June,2026-June,26,4,Friday,attrition,65.82,87.42,-21.6,75.29,High Risk
+2026-06-27,2026,6,June,2026-June,26,5,Saturday,baseline,77.43,69.7,7.73,111.09,Surplus
+2026-06-27,2026,6,June,2026-June,26,5,Saturday,hiring,89.04,69.7,19.34,127.75,Surplus
+2026-06-27,2026,6,June,2026-June,26,5,Saturday,attrition,65.82,69.7,-3.88,94.43,Moderate Risk
+2026-06-28,2026,6,June,2026-June,26,6,Sunday,baseline,77.43,52.0,25.43,148.9,Surplus
+2026-06-28,2026,6,June,2026-June,26,6,Sunday,hiring,89.04,52.0,37.04,171.23,Surplus
+2026-06-28,2026,6,June,2026-June,26,6,Sunday,attrition,65.82,52.0,13.82,126.58,Surplus
+2026-06-29,2026,6,June,2026-June,27,0,Monday,baseline,62.43,114.33,-51.9,54.61,Critical
+2026-06-29,2026,6,June,2026-June,27,0,Monday,hiring,71.79,114.33,-42.54,62.79,Critical
+2026-06-29,2026,6,June,2026-June,27,0,Monday,attrition,53.07,114.33,-61.26,46.42,Critical
+2026-06-30,2026,6,June,2026-June,27,1,Tuesday,baseline,62.43,109.14,-46.71,57.2,Critical
+2026-06-30,2026,6,June,2026-June,27,1,Tuesday,hiring,71.79,109.14,-37.35,65.78,Critical
+2026-06-30,2026,6,June,2026-June,27,1,Tuesday,attrition,53.07,109.14,-56.07,48.63,Critical
+2026-07-01,2026,7,July,2026-July,27,2,Wednesday,baseline,62.43,85.38,-22.95,73.12,Critical
+2026-07-01,2026,7,July,2026-July,27,2,Wednesday,hiring,71.79,85.38,-13.59,84.08,High Risk
+2026-07-01,2026,7,July,2026-July,27,2,Wednesday,attrition,53.07,85.38,-32.31,62.16,Critical
+2026-07-02,2026,7,July,2026-July,27,3,Thursday,baseline,62.43,79.89,-17.46,78.14,High Risk
+2026-07-02,2026,7,July,2026-July,27,3,Thursday,hiring,71.79,79.89,-8.1,89.86,Moderate Risk
+2026-07-02,2026,7,July,2026-July,27,3,Thursday,attrition,53.07,79.89,-26.82,66.43,Critical
+2026-07-03,2026,7,July,2026-July,27,4,Friday,baseline,62.43,72.0,-9.57,86.71,Moderate Risk
+2026-07-03,2026,7,July,2026-July,27,4,Friday,hiring,71.79,72.0,-0.21,99.71,Low Risk
+2026-07-03,2026,7,July,2026-July,27,4,Friday,attrition,53.07,72.0,-18.93,73.71,Critical
+2026-07-04,2026,7,July,2026-July,27,5,Saturday,baseline,62.43,54.34,8.09,114.89,Surplus
+2026-07-04,2026,7,July,2026-July,27,5,Saturday,hiring,71.79,54.34,17.45,132.11,Surplus
+2026-07-04,2026,7,July,2026-July,27,5,Saturday,attrition,53.07,54.34,-1.27,97.66,Low Risk
+2026-07-05,2026,7,July,2026-July,27,6,Sunday,baseline,62.43,36.71,25.72,170.06,Surplus
+2026-07-05,2026,7,July,2026-July,27,6,Sunday,hiring,71.79,36.71,35.08,195.56,Surplus
+2026-07-05,2026,7,July,2026-July,27,6,Sunday,attrition,53.07,36.71,16.36,144.57,Surplus
+2026-07-06,2026,7,July,2026-July,28,0,Monday,baseline,57.14,98.81,-41.67,57.83,Critical
+2026-07-06,2026,7,July,2026-July,28,0,Monday,hiring,65.71,98.81,-33.1,66.5,Critical
+2026-07-06,2026,7,July,2026-July,28,0,Monday,attrition,48.57,98.81,-50.24,49.15,Critical
+2026-07-07,2026,7,July,2026-July,28,1,Tuesday,baseline,57.14,93.63,-36.49,61.03,Critical
+2026-07-07,2026,7,July,2026-July,28,1,Tuesday,hiring,65.71,93.63,-27.92,70.18,Critical
+2026-07-07,2026,7,July,2026-July,28,1,Tuesday,attrition,48.57,93.63,-45.06,51.87,Critical
+2026-07-08,2026,7,July,2026-July,28,2,Wednesday,baseline,57.14,85.44,-28.3,66.88,Critical
+2026-07-08,2026,7,July,2026-July,28,2,Wednesday,hiring,65.71,85.44,-19.73,76.91,High Risk
+2026-07-08,2026,7,July,2026-July,28,2,Wednesday,attrition,48.57,85.44,-36.87,56.85,Critical
+2026-07-09,2026,7,July,2026-July,28,3,Thursday,baseline,57.14,79.95,-22.81,71.47,Critical
+2026-07-09,2026,7,July,2026-July,28,3,Thursday,hiring,65.71,79.95,-14.24,82.19,High Risk
+2026-07-09,2026,7,July,2026-July,28,3,Thursday,attrition,48.57,79.95,-31.38,60.75,Critical
+2026-07-10,2026,7,July,2026-July,28,4,Friday,baseline,57.14,72.06,-14.92,79.3,High Risk
+2026-07-10,2026,7,July,2026-July,28,4,Friday,hiring,65.71,72.06,-6.35,91.19,Moderate Risk
+2026-07-10,2026,7,July,2026-July,28,4,Friday,attrition,48.57,72.06,-23.49,67.4,Critical
+2026-07-11,2026,7,July,2026-July,28,5,Saturday,baseline,57.14,54.4,2.74,105.04,Surplus
+2026-07-11,2026,7,July,2026-July,28,5,Saturday,hiring,65.71,54.4,11.31,120.79,Surplus
+2026-07-11,2026,7,July,2026-July,28,5,Saturday,attrition,48.57,54.4,-5.83,89.28,Moderate Risk
+2026-07-12,2026,7,July,2026-July,28,6,Sunday,baseline,57.14,36.77,20.37,155.4,Surplus
+2026-07-12,2026,7,July,2026-July,28,6,Sunday,hiring,65.71,36.77,28.94,178.71,Surplus
+2026-07-12,2026,7,July,2026-July,28,6,Sunday,attrition,48.57,36.77,11.8,132.09,Surplus
+2026-07-13,2026,7,July,2026-July,29,0,Monday,baseline,61.71,98.87,-37.16,62.42,Critical
+2026-07-13,2026,7,July,2026-July,29,0,Monday,hiring,70.97,98.87,-27.9,71.78,Critical
+2026-07-13,2026,7,July,2026-July,29,0,Monday,attrition,52.45,98.87,-46.42,53.05,Critical
+2026-07-14,2026,7,July,2026-July,29,1,Tuesday,baseline,61.71,93.69,-31.98,65.87,Critical
+2026-07-14,2026,7,July,2026-July,29,1,Tuesday,hiring,70.97,93.69,-22.72,75.75,High Risk
+2026-07-14,2026,7,July,2026-July,29,1,Tuesday,attrition,52.45,93.69,-41.24,55.98,Critical
+2026-07-15,2026,7,July,2026-July,29,2,Wednesday,baseline,61.71,85.49,-23.78,72.18,Critical
+2026-07-15,2026,7,July,2026-July,29,2,Wednesday,hiring,70.97,85.49,-14.52,83.02,High Risk
+2026-07-15,2026,7,July,2026-July,29,2,Wednesday,attrition,52.45,85.49,-33.04,61.35,Critical
+2026-07-16,2026,7,July,2026-July,29,3,Thursday,baseline,61.71,79.99,-18.28,77.15,High Risk
+2026-07-16,2026,7,July,2026-July,29,3,Thursday,hiring,70.97,79.99,-9.02,88.72,Moderate Risk
+2026-07-16,2026,7,July,2026-July,29,3,Thursday,attrition,52.45,79.99,-27.54,65.57,Critical
+2026-07-17,2026,7,July,2026-July,29,4,Friday,baseline,61.71,72.12,-10.41,85.57,Moderate Risk
+2026-07-17,2026,7,July,2026-July,29,4,Friday,hiring,70.97,72.12,-1.15,98.41,Low Risk
+2026-07-17,2026,7,July,2026-July,29,4,Friday,attrition,52.45,72.12,-19.67,72.73,Critical
+2026-07-18,2026,7,July,2026-July,29,5,Saturday,baseline,61.71,54.46,7.25,113.31,Surplus
+2026-07-18,2026,7,July,2026-July,29,5,Saturday,hiring,70.97,54.46,16.51,130.32,Surplus
+2026-07-18,2026,7,July,2026-July,29,5,Saturday,attrition,52.45,54.46,-2.01,96.31,Low Risk
+2026-07-19,2026,7,July,2026-July,29,6,Sunday,baseline,61.71,36.83,24.88,167.55,Surplus
+2026-07-19,2026,7,July,2026-July,29,6,Sunday,hiring,70.97,36.83,34.14,192.7,Surplus
+2026-07-19,2026,7,July,2026-July,29,6,Sunday,attrition,52.45,36.83,15.62,142.41,Surplus
+2026-07-20,2026,7,July,2026-July,30,0,Monday,baseline,63.43,98.93,-35.5,64.12,Critical
+2026-07-20,2026,7,July,2026-July,30,0,Monday,hiring,72.94,98.93,-25.99,73.73,Critical
+2026-07-20,2026,7,July,2026-July,30,0,Monday,attrition,53.92,98.93,-45.01,54.5,Critical
+2026-07-21,2026,7,July,2026-July,30,1,Tuesday,baseline,63.43,93.75,-30.32,67.66,Critical
+2026-07-21,2026,7,July,2026-July,30,1,Tuesday,hiring,72.94,93.75,-20.81,77.8,High Risk
+2026-07-21,2026,7,July,2026-July,30,1,Tuesday,attrition,53.92,93.75,-39.83,57.51,Critical
+2026-07-22,2026,7,July,2026-July,30,2,Wednesday,baseline,63.43,85.54,-22.11,74.15,Critical
+2026-07-22,2026,7,July,2026-July,30,2,Wednesday,hiring,72.94,85.54,-12.6,85.27,Moderate Risk
+2026-07-22,2026,7,July,2026-July,30,2,Wednesday,attrition,53.92,85.54,-31.62,63.03,Critical
+2026-07-23,2026,7,July,2026-July,30,3,Thursday,baseline,63.43,80.05,-16.62,79.24,High Risk
+2026-07-23,2026,7,July,2026-July,30,3,Thursday,hiring,72.94,80.05,-7.11,91.12,Moderate Risk
+2026-07-23,2026,7,July,2026-July,30,3,Thursday,attrition,53.92,80.05,-26.13,67.36,Critical
+2026-07-24,2026,7,July,2026-July,30,4,Friday,baseline,63.43,72.16,-8.73,87.9,Moderate Risk
+2026-07-24,2026,7,July,2026-July,30,4,Friday,hiring,72.94,72.16,0.78,101.08,Low Risk
+2026-07-24,2026,7,July,2026-July,30,4,Friday,attrition,53.92,72.16,-18.24,74.72,Critical
+2026-07-25,2026,7,July,2026-July,30,5,Saturday,baseline,63.43,54.52,8.91,116.34,Surplus
+2026-07-25,2026,7,July,2026-July,30,5,Saturday,hiring,72.94,54.52,18.42,133.79,Surplus
+2026-07-25,2026,7,July,2026-July,30,5,Saturday,attrition,53.92,54.52,-0.6,98.9,Low Risk
+2026-07-26,2026,7,July,2026-July,30,6,Sunday,baseline,63.43,36.87,26.56,172.04,Surplus
+2026-07-26,2026,7,July,2026-July,30,6,Sunday,hiring,72.94,36.87,36.07,197.83,Surplus
+2026-07-26,2026,7,July,2026-July,30,6,Sunday,attrition,53.92,36.87,17.05,146.24,Surplus
+2026-07-27,2026,7,July,2026-July,31,0,Monday,baseline,63.29,98.97,-35.68,63.95,Critical
+2026-07-27,2026,7,July,2026-July,31,0,Monday,hiring,72.78,98.97,-26.19,73.54,Critical
+2026-07-27,2026,7,July,2026-July,31,0,Monday,attrition,53.8,98.97,-45.17,54.36,Critical
+2026-07-28,2026,7,July,2026-July,31,1,Tuesday,baseline,63.29,93.79,-30.5,67.48,Critical
+2026-07-28,2026,7,July,2026-July,31,1,Tuesday,hiring,72.78,93.79,-21.01,77.6,High Risk
+2026-07-28,2026,7,July,2026-July,31,1,Tuesday,attrition,53.8,93.79,-39.99,57.36,Critical
+2026-07-29,2026,7,July,2026-July,31,2,Wednesday,baseline,63.29,85.6,-22.31,73.94,Critical
+2026-07-29,2026,7,July,2026-July,31,2,Wednesday,hiring,72.78,85.6,-12.82,85.02,Moderate Risk
+2026-07-29,2026,7,July,2026-July,31,2,Wednesday,attrition,53.8,85.6,-31.8,62.85,Critical
+2026-07-30,2026,7,July,2026-July,31,3,Thursday,baseline,63.29,80.09,-16.8,79.02,High Risk
+2026-07-30,2026,7,July,2026-July,31,3,Thursday,hiring,72.78,80.09,-7.31,90.87,Moderate Risk
+2026-07-30,2026,7,July,2026-July,31,3,Thursday,attrition,53.8,80.09,-26.29,67.17,Critical
+2026-07-31,2026,7,July,2026-July,31,4,Friday,baseline,63.29,72.22,-8.93,87.64,Moderate Risk
+2026-07-31,2026,7,July,2026-July,31,4,Friday,hiring,72.78,72.22,0.56,100.78,Low Risk
+2026-07-31,2026,7,July,2026-July,31,4,Friday,attrition,53.8,72.22,-18.42,74.49,Critical
+2026-08-01,2026,8,August,2026-August,31,5,Saturday,baseline,63.29,53.35,9.94,118.63,Surplus
+2026-08-01,2026,8,August,2026-August,31,5,Saturday,hiring,72.78,53.35,19.43,136.42,Surplus
+2026-08-01,2026,8,August,2026-August,31,5,Saturday,attrition,53.8,53.35,0.45,100.84,Low Risk
+2026-08-02,2026,8,August,2026-August,31,6,Sunday,baseline,63.29,35.8,27.49,176.79,Surplus
+2026-08-02,2026,8,August,2026-August,31,6,Sunday,hiring,72.78,35.8,36.98,203.3,Surplus
+2026-08-02,2026,8,August,2026-August,31,6,Sunday,attrition,53.8,35.8,18.0,150.28,Surplus
+2026-08-03,2026,8,August,2026-August,32,0,Monday,baseline,61.71,97.63,-35.92,63.21,Critical
+2026-08-03,2026,8,August,2026-August,32,0,Monday,hiring,70.97,97.63,-26.66,72.69,Critical
+2026-08-03,2026,8,August,2026-August,32,0,Monday,attrition,52.45,97.63,-45.18,53.72,Critical
+2026-08-04,2026,8,August,2026-August,32,1,Tuesday,baseline,61.71,92.48,-30.77,66.73,Critical
+2026-08-04,2026,8,August,2026-August,32,1,Tuesday,hiring,70.97,92.48,-21.51,76.74,High Risk
+2026-08-04,2026,8,August,2026-August,32,1,Tuesday,attrition,52.45,92.48,-40.03,56.71,Critical
+2026-08-05,2026,8,August,2026-August,32,2,Wednesday,baseline,61.71,84.31,-22.6,73.19,Critical
+2026-08-05,2026,8,August,2026-August,32,2,Wednesday,hiring,70.97,84.31,-13.34,84.18,High Risk
+2026-08-05,2026,8,August,2026-August,32,2,Wednesday,attrition,52.45,84.31,-31.86,62.21,Critical
+2026-08-06,2026,8,August,2026-August,32,3,Thursday,baseline,61.71,78.83,-17.12,78.28,High Risk
+2026-08-06,2026,8,August,2026-August,32,3,Thursday,hiring,70.97,78.83,-7.86,90.03,Moderate Risk
+2026-08-06,2026,8,August,2026-August,32,3,Thursday,attrition,52.45,78.83,-26.38,66.54,Critical
+2026-08-07,2026,8,August,2026-August,32,4,Friday,baseline,61.71,70.98,-9.27,86.94,Moderate Risk
+2026-08-07,2026,8,August,2026-August,32,4,Friday,hiring,70.97,70.98,-0.01,99.99,Low Risk
+2026-08-07,2026,8,August,2026-August,32,4,Friday,attrition,52.45,70.98,-18.53,73.89,Critical
+2026-08-08,2026,8,August,2026-August,32,5,Saturday,baseline,61.71,53.4,8.31,115.56,Surplus
+2026-08-08,2026,8,August,2026-August,32,5,Saturday,hiring,70.97,53.4,17.57,132.9,Surplus
+2026-08-08,2026,8,August,2026-August,32,5,Saturday,attrition,52.45,53.4,-0.95,98.22,Low Risk
+2026-08-09,2026,8,August,2026-August,32,6,Sunday,baseline,61.71,35.84,25.87,172.18,Surplus
+2026-08-09,2026,8,August,2026-August,32,6,Sunday,hiring,70.97,35.84,35.13,198.02,Surplus
+2026-08-09,2026,8,August,2026-August,32,6,Sunday,attrition,52.45,35.84,16.61,146.34,Surplus
+2026-08-10,2026,8,August,2026-August,33,0,Monday,baseline,56.86,97.69,-40.83,58.2,Critical
+2026-08-10,2026,8,August,2026-August,33,0,Monday,hiring,65.39,97.69,-32.3,66.94,Critical
+2026-08-10,2026,8,August,2026-August,33,0,Monday,attrition,48.33,97.69,-49.36,49.47,Critical
+2026-08-11,2026,8,August,2026-August,33,1,Tuesday,baseline,56.86,92.53,-35.67,61.45,Critical
+2026-08-11,2026,8,August,2026-August,33,1,Tuesday,hiring,65.39,92.53,-27.14,70.67,Critical
+2026-08-11,2026,8,August,2026-August,33,1,Tuesday,attrition,48.33,92.53,-44.2,52.23,Critical
+2026-08-12,2026,8,August,2026-August,33,2,Wednesday,baseline,56.86,84.37,-27.51,67.39,Critical
+2026-08-12,2026,8,August,2026-August,33,2,Wednesday,hiring,65.39,84.37,-18.98,77.5,High Risk
+2026-08-12,2026,8,August,2026-August,33,2,Wednesday,attrition,48.33,84.37,-36.04,57.28,Critical
+2026-08-13,2026,8,August,2026-August,33,3,Thursday,baseline,56.86,78.89,-22.03,72.08,Critical
+2026-08-13,2026,8,August,2026-August,33,3,Thursday,hiring,65.39,78.89,-13.5,82.89,High Risk
+2026-08-13,2026,8,August,2026-August,33,3,Thursday,attrition,48.33,78.89,-30.56,61.26,Critical
+2026-08-14,2026,8,August,2026-August,33,4,Friday,baseline,56.86,71.04,-14.18,80.04,High Risk
+2026-08-14,2026,8,August,2026-August,33,4,Friday,hiring,65.39,71.04,-5.65,92.05,Moderate Risk
+2026-08-14,2026,8,August,2026-August,33,4,Friday,attrition,48.33,71.04,-22.71,68.03,Critical
+2026-08-15,2026,8,August,2026-August,33,5,Saturday,baseline,56.86,53.46,3.4,106.36,Surplus
+2026-08-15,2026,8,August,2026-August,33,5,Saturday,hiring,65.39,53.46,11.93,122.32,Surplus
+2026-08-15,2026,8,August,2026-August,33,5,Saturday,attrition,48.33,53.46,-5.13,90.4,Moderate Risk
+2026-08-16,2026,8,August,2026-August,33,6,Sunday,baseline,56.86,35.9,20.96,158.38,Surplus
+2026-08-16,2026,8,August,2026-August,33,6,Sunday,hiring,65.39,35.9,29.49,182.14,Surplus
+2026-08-16,2026,8,August,2026-August,33,6,Sunday,attrition,48.33,35.9,12.43,134.62,Surplus
+2026-08-17,2026,8,August,2026-August,34,0,Monday,baseline,62.0,97.73,-35.73,63.44,Critical
+2026-08-17,2026,8,August,2026-August,34,0,Monday,hiring,71.3,97.73,-26.43,72.96,Critical
+2026-08-17,2026,8,August,2026-August,34,0,Monday,attrition,52.7,97.73,-45.03,53.92,Critical
+2026-08-18,2026,8,August,2026-August,34,1,Tuesday,baseline,62.0,92.58,-30.58,66.97,Critical
+2026-08-18,2026,8,August,2026-August,34,1,Tuesday,hiring,71.3,92.58,-21.28,77.01,High Risk
+2026-08-18,2026,8,August,2026-August,34,1,Tuesday,attrition,52.7,92.58,-39.88,56.92,Critical
+2026-08-19,2026,8,August,2026-August,34,2,Wednesday,baseline,62.0,84.42,-22.42,73.44,Critical
+2026-08-19,2026,8,August,2026-August,34,2,Wednesday,hiring,71.3,84.42,-13.12,84.46,High Risk
+2026-08-19,2026,8,August,2026-August,34,2,Wednesday,attrition,52.7,84.42,-31.72,62.43,Critical
+2026-08-20,2026,8,August,2026-August,34,3,Thursday,baseline,62.0,78.94,-16.94,78.54,High Risk
+2026-08-20,2026,8,August,2026-August,34,3,Thursday,hiring,71.3,78.94,-7.64,90.32,Moderate Risk
+2026-08-20,2026,8,August,2026-August,34,3,Thursday,attrition,52.7,78.94,-26.24,66.76,Critical
+2026-08-21,2026,8,August,2026-August,34,4,Friday,baseline,62.0,71.09,-9.09,87.21,Moderate Risk
+2026-08-21,2026,8,August,2026-August,34,4,Friday,hiring,71.3,71.09,0.21,100.3,Low Risk
+2026-08-21,2026,8,August,2026-August,34,4,Friday,attrition,52.7,71.09,-18.39,74.13,Critical
+2026-08-22,2026,8,August,2026-August,34,5,Saturday,baseline,62.0,53.51,8.49,115.87,Surplus
+2026-08-22,2026,8,August,2026-August,34,5,Saturday,hiring,71.3,53.51,17.79,133.25,Surplus
+2026-08-22,2026,8,August,2026-August,34,5,Saturday,attrition,52.7,53.51,-0.81,98.49,Low Risk
+2026-08-23,2026,8,August,2026-August,34,6,Sunday,baseline,62.0,35.95,26.05,172.46,Surplus
+2026-08-23,2026,8,August,2026-August,34,6,Sunday,hiring,71.3,35.95,35.35,198.33,Surplus
+2026-08-23,2026,8,August,2026-August,34,6,Sunday,attrition,52.7,35.95,16.75,146.59,Surplus
+2026-08-24,2026,8,August,2026-August,35,0,Monday,baseline,58.0,97.79,-39.79,59.31,Critical
+2026-08-24,2026,8,August,2026-August,35,0,Monday,hiring,66.7,97.79,-31.09,68.21,Critical
+2026-08-24,2026,8,August,2026-August,35,0,Monday,attrition,49.3,97.79,-48.49,50.41,Critical
+2026-08-25,2026,8,August,2026-August,35,1,Tuesday,baseline,58.0,92.64,-34.64,62.61,Critical
+2026-08-25,2026,8,August,2026-August,35,1,Tuesday,hiring,66.7,92.64,-25.94,72.0,Critical
+2026-08-25,2026,8,August,2026-August,35,1,Tuesday,attrition,49.3,92.64,-43.34,53.22,Critical
+2026-08-26,2026,8,August,2026-August,35,2,Wednesday,baseline,58.0,84.47,-26.47,68.66,Critical
+2026-08-26,2026,8,August,2026-August,35,2,Wednesday,hiring,66.7,84.47,-17.77,78.96,High Risk
+2026-08-26,2026,8,August,2026-August,35,2,Wednesday,attrition,49.3,84.47,-35.17,58.36,Critical
+2026-08-27,2026,8,August,2026-August,35,3,Thursday,baseline,58.0,78.99,-20.99,73.43,Critical
+2026-08-27,2026,8,August,2026-August,35,3,Thursday,hiring,66.7,78.99,-12.29,84.44,High Risk
+2026-08-27,2026,8,August,2026-August,35,3,Thursday,attrition,49.3,78.99,-29.69,62.41,Critical
+2026-08-28,2026,8,August,2026-August,35,4,Friday,baseline,58.0,71.14,-13.14,81.53,High Risk
+2026-08-28,2026,8,August,2026-August,35,4,Friday,hiring,66.7,71.14,-4.44,93.76,Moderate Risk
+2026-08-28,2026,8,August,2026-August,35,4,Friday,attrition,49.3,71.14,-21.84,69.3,Critical
+2026-08-29,2026,8,August,2026-August,35,5,Saturday,baseline,58.0,53.56,4.44,108.29,Surplus
+2026-08-29,2026,8,August,2026-August,35,5,Saturday,hiring,66.7,53.56,13.14,124.53,Surplus
+2026-08-29,2026,8,August,2026-August,35,5,Saturday,attrition,49.3,53.56,-4.26,92.05,Moderate Risk
+2026-08-30,2026,8,August,2026-August,35,6,Sunday,baseline,58.0,36.0,22.0,161.11,Surplus
+2026-08-30,2026,8,August,2026-August,35,6,Sunday,hiring,66.7,36.0,30.7,185.28,Surplus
+2026-08-30,2026,8,August,2026-August,35,6,Sunday,attrition,49.3,36.0,13.3,136.94,Surplus
+2026-08-31,2026,8,August,2026-August,36,0,Monday,baseline,70.86,97.85,-26.99,72.42,Critical
+2026-08-31,2026,8,August,2026-August,36,0,Monday,hiring,81.49,97.85,-16.36,83.28,High Risk
+2026-08-31,2026,8,August,2026-August,36,0,Monday,attrition,60.23,97.85,-37.62,61.55,Critical
+2026-09-01,2026,9,September,2026-September,36,1,Tuesday,baseline,70.86,105.12,-34.26,67.41,Critical
+2026-09-01,2026,9,September,2026-September,36,1,Tuesday,hiring,81.49,105.12,-23.63,77.52,High Risk
+2026-09-01,2026,9,September,2026-September,36,1,Tuesday,attrition,60.23,105.12,-44.89,57.3,Critical
+2026-09-02,2026,9,September,2026-September,36,2,Wednesday,baseline,70.86,97.0,-26.14,73.05,Critical
+2026-09-02,2026,9,September,2026-September,36,2,Wednesday,hiring,81.49,97.0,-15.51,84.01,High Risk
+2026-09-02,2026,9,September,2026-September,36,2,Wednesday,attrition,60.23,97.0,-36.77,62.09,Critical
+2026-09-03,2026,9,September,2026-September,36,3,Thursday,baseline,70.86,91.55,-20.69,77.4,High Risk
+2026-09-03,2026,9,September,2026-September,36,3,Thursday,hiring,81.49,91.55,-10.06,89.01,Moderate Risk
+2026-09-03,2026,9,September,2026-September,36,3,Thursday,attrition,60.23,91.55,-31.32,65.79,Critical
+2026-09-04,2026,9,September,2026-September,36,4,Friday,baseline,70.86,83.75,-12.89,84.61,High Risk
+2026-09-04,2026,9,September,2026-September,36,4,Friday,hiring,81.49,83.75,-2.26,97.3,Low Risk
+2026-09-04,2026,9,September,2026-September,36,4,Friday,attrition,60.23,83.75,-23.52,71.92,Critical
+2026-09-05,2026,9,September,2026-September,36,5,Saturday,baseline,70.86,66.29,4.57,106.89,Surplus
+2026-09-05,2026,9,September,2026-September,36,5,Saturday,hiring,81.49,66.29,15.2,122.93,Surplus
+2026-09-05,2026,9,September,2026-September,36,5,Saturday,attrition,60.23,66.29,-6.06,90.86,Moderate Risk
+2026-09-06,2026,9,September,2026-September,36,6,Sunday,baseline,70.86,48.84,22.02,145.09,Surplus
+2026-09-06,2026,9,September,2026-September,36,6,Sunday,hiring,81.49,48.84,32.65,166.85,Surplus
+2026-09-06,2026,9,September,2026-September,36,6,Sunday,attrition,60.23,48.84,11.39,123.32,Surplus
+2026-09-07,2026,9,September,2026-September,37,0,Monday,baseline,73.14,110.29,-37.15,66.32,Critical
+2026-09-07,2026,9,September,2026-September,37,0,Monday,hiring,84.11,110.29,-26.18,76.26,High Risk
+2026-09-07,2026,9,September,2026-September,37,0,Monday,attrition,62.17,110.29,-48.12,56.37,Critical
+2026-09-08,2026,9,September,2026-September,37,1,Tuesday,baseline,73.14,105.16,-32.02,69.55,Critical
+2026-09-08,2026,9,September,2026-September,37,1,Tuesday,hiring,84.11,105.16,-21.05,79.98,High Risk
+2026-09-08,2026,9,September,2026-September,37,1,Tuesday,attrition,62.17,105.16,-42.99,59.12,Critical
+2026-09-09,2026,9,September,2026-September,37,2,Wednesday,baseline,73.14,97.06,-23.92,75.36,High Risk
+2026-09-09,2026,9,September,2026-September,37,2,Wednesday,hiring,84.11,97.06,-12.95,86.66,Moderate Risk
+2026-09-09,2026,9,September,2026-September,37,2,Wednesday,attrition,62.17,97.06,-34.89,64.05,Critical
+2026-09-10,2026,9,September,2026-September,37,3,Thursday,baseline,73.14,91.61,-18.47,79.84,High Risk
+2026-09-10,2026,9,September,2026-September,37,3,Thursday,hiring,84.11,91.61,-7.5,91.81,Moderate Risk
+2026-09-10,2026,9,September,2026-September,37,3,Thursday,attrition,62.17,91.61,-29.44,67.86,Critical
+2026-09-11,2026,9,September,2026-September,37,4,Friday,baseline,73.14,83.81,-10.67,87.27,Moderate Risk
+2026-09-11,2026,9,September,2026-September,37,4,Friday,hiring,84.11,83.81,0.3,100.36,Low Risk
+2026-09-11,2026,9,September,2026-September,37,4,Friday,attrition,62.17,83.81,-21.64,74.18,Critical
+2026-09-12,2026,9,September,2026-September,37,5,Saturday,baseline,73.14,66.33,6.81,110.27,Surplus
+2026-09-12,2026,9,September,2026-September,37,5,Saturday,hiring,84.11,66.33,17.78,126.81,Surplus
+2026-09-12,2026,9,September,2026-September,37,5,Saturday,attrition,62.17,66.33,-4.16,93.73,Moderate Risk
+2026-09-13,2026,9,September,2026-September,37,6,Sunday,baseline,73.14,48.9,24.24,149.57,Surplus
+2026-09-13,2026,9,September,2026-September,37,6,Sunday,hiring,84.11,48.9,35.21,172.0,Surplus
+2026-09-13,2026,9,September,2026-September,37,6,Sunday,attrition,62.17,48.9,13.27,127.14,Surplus
+2026-09-14,2026,9,September,2026-September,38,0,Monday,baseline,73.29,110.33,-37.04,66.43,Critical
+2026-09-14,2026,9,September,2026-September,38,0,Monday,hiring,84.28,110.33,-26.05,76.39,High Risk
+2026-09-14,2026,9,September,2026-September,38,0,Monday,attrition,62.3,110.33,-48.03,56.47,Critical
+2026-09-15,2026,9,September,2026-September,38,1,Tuesday,baseline,73.29,105.22,-31.93,69.65,Critical
+2026-09-15,2026,9,September,2026-September,38,1,Tuesday,hiring,84.28,105.22,-20.94,80.1,High Risk
+2026-09-15,2026,9,September,2026-September,38,1,Tuesday,attrition,62.3,105.22,-42.92,59.21,Critical
+2026-09-16,2026,9,September,2026-September,38,2,Wednesday,baseline,73.29,97.1,-23.81,75.48,High Risk
+2026-09-16,2026,9,September,2026-September,38,2,Wednesday,hiring,84.28,97.1,-12.82,86.8,Moderate Risk
+2026-09-16,2026,9,September,2026-September,38,2,Wednesday,attrition,62.3,97.1,-34.8,64.16,Critical
+2026-09-17,2026,9,September,2026-September,38,3,Thursday,baseline,73.29,91.65,-18.36,79.97,High Risk
+2026-09-17,2026,9,September,2026-September,38,3,Thursday,hiring,84.28,91.65,-7.37,91.96,Moderate Risk
+2026-09-17,2026,9,September,2026-September,38,3,Thursday,attrition,62.3,91.65,-29.35,67.98,Critical
+2026-09-18,2026,9,September,2026-September,38,4,Friday,baseline,73.29,83.87,-10.58,87.39,Moderate Risk
+2026-09-18,2026,9,September,2026-September,38,4,Friday,hiring,84.28,83.87,0.41,100.49,Low Risk
+2026-09-18,2026,9,September,2026-September,38,4,Friday,attrition,62.3,83.87,-21.57,74.28,Critical
+2026-09-19,2026,9,September,2026-September,38,5,Saturday,baseline,73.29,66.39,6.9,110.39,Surplus
+2026-09-19,2026,9,September,2026-September,38,5,Saturday,hiring,84.28,66.39,17.89,126.95,Surplus
+2026-09-19,2026,9,September,2026-September,38,5,Saturday,attrition,62.3,66.39,-4.09,93.84,Moderate Risk
+2026-09-20,2026,9,September,2026-September,38,6,Sunday,baseline,73.29,48.94,24.35,149.75,Surplus
+2026-09-20,2026,9,September,2026-September,38,6,Sunday,hiring,84.28,48.94,35.34,172.21,Surplus
+2026-09-20,2026,9,September,2026-September,38,6,Sunday,attrition,62.3,48.94,13.36,127.3,Surplus
+2026-09-21,2026,9,September,2026-September,39,0,Monday,baseline,65.57,110.39,-44.82,59.4,Critical
+2026-09-21,2026,9,September,2026-September,39,0,Monday,hiring,75.41,110.39,-34.98,68.31,Critical
+2026-09-21,2026,9,September,2026-September,39,0,Monday,attrition,55.73,110.39,-54.66,50.48,Critical
+2026-09-22,2026,9,September,2026-September,39,1,Tuesday,baseline,65.57,105.27,-39.7,62.29,Critical
+2026-09-22,2026,9,September,2026-September,39,1,Tuesday,hiring,75.41,105.27,-29.86,71.63,Critical
+2026-09-22,2026,9,September,2026-September,39,1,Tuesday,attrition,55.73,105.27,-49.54,52.94,Critical
+2026-09-23,2026,9,September,2026-September,39,2,Wednesday,baseline,65.57,97.16,-31.59,67.49,Critical
+2026-09-23,2026,9,September,2026-September,39,2,Wednesday,hiring,75.41,97.16,-21.75,77.61,High Risk
+2026-09-23,2026,9,September,2026-September,39,2,Wednesday,attrition,55.73,97.16,-41.43,57.36,Critical
+2026-09-24,2026,9,September,2026-September,39,3,Thursday,baseline,65.57,91.71,-26.14,71.5,Critical
+2026-09-24,2026,9,September,2026-September,39,3,Thursday,hiring,75.41,91.71,-16.3,82.23,High Risk
+2026-09-24,2026,9,September,2026-September,39,3,Thursday,attrition,55.73,91.71,-35.98,60.77,Critical
+2026-09-25,2026,9,September,2026-September,39,4,Friday,baseline,65.57,83.91,-18.34,78.14,High Risk
+2026-09-25,2026,9,September,2026-September,39,4,Friday,hiring,75.41,83.91,-8.5,89.87,Moderate Risk
+2026-09-25,2026,9,September,2026-September,39,4,Friday,attrition,55.73,83.91,-28.18,66.42,Critical
+2026-09-26,2026,9,September,2026-September,39,5,Saturday,baseline,65.57,66.45,-0.88,98.68,Low Risk
+2026-09-26,2026,9,September,2026-September,39,5,Saturday,hiring,75.41,66.45,8.96,113.48,Surplus
+2026-09-26,2026,9,September,2026-September,39,5,Saturday,attrition,55.73,66.45,-10.72,83.87,High Risk
+2026-09-27,2026,9,September,2026-September,39,6,Sunday,baseline,65.57,49.0,16.57,133.82,Surplus
+2026-09-27,2026,9,September,2026-September,39,6,Sunday,hiring,75.41,49.0,26.41,153.9,Surplus
+2026-09-27,2026,9,September,2026-September,39,6,Sunday,attrition,55.73,49.0,6.73,113.73,Surplus
+2026-09-28,2026,9,September,2026-September,40,0,Monday,baseline,70.57,110.45,-39.88,63.89,Critical
+2026-09-28,2026,9,September,2026-September,40,0,Monday,hiring,81.16,110.45,-29.29,73.48,Critical
+2026-09-28,2026,9,September,2026-September,40,0,Monday,attrition,59.98,110.45,-50.47,54.31,Critical
+2026-09-29,2026,9,September,2026-September,40,1,Tuesday,baseline,70.57,105.32,-34.75,67.01,Critical
+2026-09-29,2026,9,September,2026-September,40,1,Tuesday,hiring,81.16,105.32,-24.16,77.06,High Risk
+2026-09-29,2026,9,September,2026-September,40,1,Tuesday,attrition,59.98,105.32,-45.34,56.95,Critical
+2026-09-30,2026,9,September,2026-September,40,2,Wednesday,baseline,70.57,97.21,-26.64,72.6,Critical
+2026-09-30,2026,9,September,2026-September,40,2,Wednesday,hiring,81.16,97.21,-16.05,83.49,High Risk
+2026-09-30,2026,9,September,2026-September,40,2,Wednesday,attrition,59.98,97.21,-37.23,61.7,Critical
+2026-10-01,2026,10,October,2026-October,40,3,Thursday,baseline,70.57,96.29,-25.72,73.29,Critical
+2026-10-01,2026,10,October,2026-October,40,3,Thursday,hiring,81.16,96.29,-15.13,84.29,High Risk
+2026-10-01,2026,10,October,2026-October,40,3,Thursday,attrition,59.98,96.29,-36.31,62.29,Critical
+2026-10-02,2026,10,October,2026-October,40,4,Friday,baseline,70.57,88.53,-17.96,79.71,High Risk
+2026-10-02,2026,10,October,2026-October,40,4,Friday,hiring,81.16,88.53,-7.37,91.68,Moderate Risk
+2026-10-02,2026,10,October,2026-October,40,4,Friday,attrition,59.98,88.53,-28.55,67.75,Critical
+2026-10-03,2026,10,October,2026-October,40,5,Saturday,baseline,70.57,71.12,-0.55,99.23,Low Risk
+2026-10-03,2026,10,October,2026-October,40,5,Saturday,hiring,81.16,71.12,10.04,114.12,Surplus
+2026-10-03,2026,10,October,2026-October,40,5,Saturday,attrition,59.98,71.12,-11.14,84.34,High Risk
+2026-10-04,2026,10,October,2026-October,40,6,Sunday,baseline,70.57,53.72,16.85,131.37,Surplus
+2026-10-04,2026,10,October,2026-October,40,6,Sunday,hiring,81.16,53.72,27.44,151.08,Surplus
+2026-10-04,2026,10,October,2026-October,40,6,Sunday,attrition,59.98,53.72,6.26,111.65,Surplus
+2026-10-05,2026,10,October,2026-October,41,0,Monday,baseline,72.71,114.95,-42.24,63.25,Critical
+2026-10-05,2026,10,October,2026-October,41,0,Monday,hiring,83.62,114.95,-31.33,72.74,Critical
+2026-10-05,2026,10,October,2026-October,41,0,Monday,attrition,61.8,114.95,-53.15,53.76,Critical
+2026-10-06,2026,10,October,2026-October,41,1,Tuesday,baseline,72.71,109.86,-37.15,66.18,Critical
+2026-10-06,2026,10,October,2026-October,41,1,Tuesday,hiring,83.62,109.86,-26.24,76.12,High Risk
+2026-10-06,2026,10,October,2026-October,41,1,Tuesday,attrition,61.8,109.86,-48.06,56.25,Critical
+2026-10-07,2026,10,October,2026-October,41,2,Wednesday,baseline,72.71,101.77,-29.06,71.45,Critical
+2026-10-07,2026,10,October,2026-October,41,2,Wednesday,hiring,83.62,101.77,-18.15,82.17,High Risk
+2026-10-07,2026,10,October,2026-October,41,2,Wednesday,attrition,61.8,101.77,-39.97,60.73,Critical
+2026-10-08,2026,10,October,2026-October,41,3,Thursday,baseline,72.71,96.35,-23.64,75.46,High Risk
+2026-10-08,2026,10,October,2026-October,41,3,Thursday,hiring,83.62,96.35,-12.73,86.79,Moderate Risk
+2026-10-08,2026,10,October,2026-October,41,3,Thursday,attrition,61.8,96.35,-34.55,64.14,Critical
+2026-10-09,2026,10,October,2026-October,41,4,Friday,baseline,72.71,88.57,-15.86,82.09,High Risk
+2026-10-09,2026,10,October,2026-October,41,4,Friday,hiring,83.62,88.57,-4.95,94.41,Moderate Risk
+2026-10-09,2026,10,October,2026-October,41,4,Friday,attrition,61.8,88.57,-26.77,69.78,Critical
+2026-10-10,2026,10,October,2026-October,41,5,Saturday,baseline,72.71,71.18,1.53,102.15,Low Risk
+2026-10-10,2026,10,October,2026-October,41,5,Saturday,hiring,83.62,71.18,12.44,117.48,Surplus
+2026-10-10,2026,10,October,2026-October,41,5,Saturday,attrition,61.8,71.18,-9.38,86.82,Moderate Risk
+2026-10-11,2026,10,October,2026-October,41,6,Sunday,baseline,72.71,53.78,18.93,135.2,Surplus
+2026-10-11,2026,10,October,2026-October,41,6,Sunday,hiring,83.62,53.78,29.84,155.49,Surplus
+2026-10-11,2026,10,October,2026-October,41,6,Sunday,attrition,61.8,53.78,8.02,114.91,Surplus
+2026-10-12,2026,10,October,2026-October,42,0,Monday,baseline,76.43,115.01,-38.58,66.46,Critical
+2026-10-12,2026,10,October,2026-October,42,0,Monday,hiring,87.89,115.01,-27.12,76.42,High Risk
+2026-10-12,2026,10,October,2026-October,42,0,Monday,attrition,64.97,115.01,-50.04,56.49,Critical
+2026-10-13,2026,10,October,2026-October,42,1,Tuesday,baseline,76.43,109.92,-33.49,69.53,Critical
+2026-10-13,2026,10,October,2026-October,42,1,Tuesday,hiring,87.89,109.92,-22.03,79.96,High Risk
+2026-10-13,2026,10,October,2026-October,42,1,Tuesday,attrition,64.97,109.92,-44.95,59.11,Critical
+2026-10-14,2026,10,October,2026-October,42,2,Wednesday,baseline,76.43,101.83,-25.4,75.06,High Risk
+2026-10-14,2026,10,October,2026-October,42,2,Wednesday,hiring,87.89,101.83,-13.94,86.31,Moderate Risk
+2026-10-14,2026,10,October,2026-October,42,2,Wednesday,attrition,64.97,101.83,-36.86,63.8,Critical
+2026-10-15,2026,10,October,2026-October,42,3,Thursday,baseline,76.43,96.4,-19.97,79.28,High Risk
+2026-10-15,2026,10,October,2026-October,42,3,Thursday,hiring,87.89,96.4,-8.51,91.17,Moderate Risk
+2026-10-15,2026,10,October,2026-October,42,3,Thursday,attrition,64.97,96.4,-31.43,67.4,Critical
+2026-10-16,2026,10,October,2026-October,42,4,Friday,baseline,76.43,88.63,-12.2,86.23,Moderate Risk
+2026-10-16,2026,10,October,2026-October,42,4,Friday,hiring,87.89,88.63,-0.74,99.17,Low Risk
+2026-10-16,2026,10,October,2026-October,42,4,Friday,attrition,64.97,88.63,-23.66,73.3,Critical
+2026-10-17,2026,10,October,2026-October,42,5,Saturday,baseline,76.43,71.22,5.21,107.32,Surplus
+2026-10-17,2026,10,October,2026-October,42,5,Saturday,hiring,87.89,71.22,16.67,123.41,Surplus
+2026-10-17,2026,10,October,2026-October,42,5,Saturday,attrition,64.97,71.22,-6.25,91.22,Moderate Risk
+2026-10-18,2026,10,October,2026-October,42,6,Sunday,baseline,76.43,53.84,22.59,141.96,Surplus
+2026-10-18,2026,10,October,2026-October,42,6,Sunday,hiring,87.89,53.84,34.05,163.24,Surplus
+2026-10-18,2026,10,October,2026-October,42,6,Sunday,attrition,64.97,53.84,11.13,120.67,Surplus
+2026-10-19,2026,10,October,2026-October,43,0,Monday,baseline,77.0,115.07,-38.07,66.92,Critical
+2026-10-19,2026,10,October,2026-October,43,0,Monday,hiring,88.55,115.07,-26.52,76.95,High Risk
+2026-10-19,2026,10,October,2026-October,43,0,Monday,attrition,65.45,115.07,-49.62,56.88,Critical
+2026-10-20,2026,10,October,2026-October,43,1,Tuesday,baseline,77.0,109.96,-32.96,70.03,Critical
+2026-10-20,2026,10,October,2026-October,43,1,Tuesday,hiring,88.55,109.96,-21.41,80.53,High Risk
+2026-10-20,2026,10,October,2026-October,43,1,Tuesday,attrition,65.45,109.96,-44.51,59.52,Critical
+2026-10-21,2026,10,October,2026-October,43,2,Wednesday,baseline,77.0,101.88,-24.88,75.58,High Risk
+2026-10-21,2026,10,October,2026-October,43,2,Wednesday,hiring,88.55,101.88,-13.33,86.92,Moderate Risk
+2026-10-21,2026,10,October,2026-October,43,2,Wednesday,attrition,65.45,101.88,-36.43,64.24,Critical
+2026-10-22,2026,10,October,2026-October,43,3,Thursday,baseline,77.0,96.46,-19.46,79.83,High Risk
+2026-10-22,2026,10,October,2026-October,43,3,Thursday,hiring,88.55,96.46,-7.91,91.8,Moderate Risk
+2026-10-22,2026,10,October,2026-October,43,3,Thursday,attrition,65.45,96.46,-31.01,67.85,Critical
+2026-10-23,2026,10,October,2026-October,43,4,Friday,baseline,77.0,88.68,-11.68,86.83,Moderate Risk
+2026-10-23,2026,10,October,2026-October,43,4,Friday,hiring,88.55,88.68,-0.13,99.85,Low Risk
+2026-10-23,2026,10,October,2026-October,43,4,Friday,attrition,65.45,88.68,-23.23,73.8,Critical
+2026-10-24,2026,10,October,2026-October,43,5,Saturday,baseline,77.0,71.28,5.72,108.02,Surplus
+2026-10-24,2026,10,October,2026-October,43,5,Saturday,hiring,88.55,71.28,17.27,124.23,Surplus
+2026-10-24,2026,10,October,2026-October,43,5,Saturday,attrition,65.45,71.28,-5.83,91.82,Moderate Risk
+2026-10-25,2026,10,October,2026-October,43,6,Sunday,baseline,77.0,53.88,23.12,142.91,Surplus
+2026-10-25,2026,10,October,2026-October,43,6,Sunday,hiring,88.55,53.88,34.67,164.35,Surplus
+2026-10-25,2026,10,October,2026-October,43,6,Sunday,attrition,65.45,53.88,11.57,121.47,Surplus
+2026-10-26,2026,10,October,2026-October,44,0,Monday,baseline,76.57,115.13,-38.56,66.51,Critical
+2026-10-26,2026,10,October,2026-October,44,0,Monday,hiring,88.06,115.13,-27.07,76.49,High Risk
+2026-10-26,2026,10,October,2026-October,44,0,Monday,attrition,65.08,115.13,-50.05,56.53,Critical
+2026-10-27,2026,10,October,2026-October,44,1,Tuesday,baseline,76.57,110.02,-33.45,69.6,Critical
+2026-10-27,2026,10,October,2026-October,44,1,Tuesday,hiring,88.06,110.02,-21.96,80.04,High Risk
+2026-10-27,2026,10,October,2026-October,44,1,Tuesday,attrition,65.08,110.02,-44.94,59.15,Critical
+2026-10-28,2026,10,October,2026-October,44,2,Wednesday,baseline,76.57,101.93,-25.36,75.12,High Risk
+2026-10-28,2026,10,October,2026-October,44,2,Wednesday,hiring,88.06,101.93,-13.87,86.39,Moderate Risk
+2026-10-28,2026,10,October,2026-October,44,2,Wednesday,attrition,65.08,101.93,-36.85,63.85,Critical
+2026-10-29,2026,10,October,2026-October,44,3,Thursday,baseline,76.57,96.5,-19.93,79.35,High Risk
+2026-10-29,2026,10,October,2026-October,44,3,Thursday,hiring,88.06,96.5,-8.44,91.25,Moderate Risk
+2026-10-29,2026,10,October,2026-October,44,3,Thursday,attrition,65.08,96.5,-31.42,67.44,Critical
+2026-10-30,2026,10,October,2026-October,44,4,Friday,baseline,76.57,88.73,-12.16,86.3,Moderate Risk
+2026-10-30,2026,10,October,2026-October,44,4,Friday,hiring,88.06,88.73,-0.67,99.24,Low Risk
+2026-10-30,2026,10,October,2026-October,44,4,Friday,attrition,65.08,88.73,-23.65,73.35,Critical
+2026-10-31,2026,10,October,2026-October,44,5,Saturday,baseline,76.57,71.32,5.25,107.36,Surplus
+2026-10-31,2026,10,October,2026-October,44,5,Saturday,hiring,88.06,71.32,16.74,123.47,Surplus
+2026-10-31,2026,10,October,2026-October,44,5,Saturday,attrition,65.08,71.32,-6.24,91.25,Moderate Risk
+2026-11-01,2026,11,November,2026-November,44,6,Sunday,baseline,76.57,55.59,20.98,137.74,Surplus
+2026-11-01,2026,11,November,2026-November,44,6,Sunday,hiring,88.06,55.59,32.47,158.41,Surplus
+2026-11-01,2026,11,November,2026-November,44,6,Sunday,attrition,65.08,55.59,9.49,117.07,Surplus
+2026-11-02,2026,11,November,2026-November,45,0,Monday,baseline,80.14,117.39,-37.25,68.27,Critical
+2026-11-02,2026,11,November,2026-November,45,0,Monday,hiring,92.16,117.39,-25.23,78.51,High Risk
+2026-11-02,2026,11,November,2026-November,45,0,Monday,attrition,68.12,117.39,-49.27,58.03,Critical
+2026-11-03,2026,11,November,2026-November,45,1,Tuesday,baseline,80.14,112.25,-32.11,71.39,Critical
+2026-11-03,2026,11,November,2026-November,45,1,Tuesday,hiring,92.16,112.25,-20.09,82.1,High Risk
+2026-11-03,2026,11,November,2026-November,45,1,Tuesday,attrition,68.12,112.25,-44.13,60.69,Critical
+2026-11-04,2026,11,November,2026-November,45,2,Wednesday,baseline,80.14,104.08,-23.94,77.0,High Risk
+2026-11-04,2026,11,November,2026-November,45,2,Wednesday,hiring,92.16,104.08,-11.92,88.55,Moderate Risk
+2026-11-04,2026,11,November,2026-November,45,2,Wednesday,attrition,68.12,104.08,-35.96,65.45,Critical
+2026-11-05,2026,11,November,2026-November,45,3,Thursday,baseline,80.14,98.61,-18.47,81.27,High Risk
+2026-11-05,2026,11,November,2026-November,45,3,Thursday,hiring,92.16,98.61,-6.45,93.46,Moderate Risk
+2026-11-05,2026,11,November,2026-November,45,3,Thursday,attrition,68.12,98.61,-30.49,69.08,Critical
+2026-11-06,2026,11,November,2026-November,45,4,Friday,baseline,80.14,90.77,-10.63,88.29,Moderate Risk
+2026-11-06,2026,11,November,2026-November,45,4,Friday,hiring,92.16,90.77,1.39,101.53,Low Risk
+2026-11-06,2026,11,November,2026-November,45,4,Friday,attrition,68.12,90.77,-22.65,75.05,High Risk
+2026-11-07,2026,11,November,2026-November,45,5,Saturday,baseline,80.14,73.19,6.95,109.5,Surplus
+2026-11-07,2026,11,November,2026-November,45,5,Saturday,hiring,92.16,73.19,18.97,125.92,Surplus
+2026-11-07,2026,11,November,2026-November,45,5,Saturday,attrition,68.12,73.19,-5.07,93.07,Moderate Risk
+2026-11-08,2026,11,November,2026-November,45,6,Sunday,baseline,80.14,55.65,24.49,144.01,Surplus
+2026-11-08,2026,11,November,2026-November,45,6,Sunday,hiring,92.16,55.65,36.51,165.61,Surplus
+2026-11-08,2026,11,November,2026-November,45,6,Sunday,attrition,68.12,55.65,12.47,122.41,Surplus
+2026-11-09,2026,11,November,2026-November,46,0,Monday,baseline,82.86,117.44,-34.58,70.56,Critical
+2026-11-09,2026,11,November,2026-November,46,0,Monday,hiring,95.29,117.44,-22.15,81.14,High Risk
+2026-11-09,2026,11,November,2026-November,46,0,Monday,attrition,70.43,117.44,-47.01,59.97,Critical
+2026-11-10,2026,11,November,2026-November,46,1,Tuesday,baseline,82.86,112.29,-29.43,73.79,Critical
+2026-11-10,2026,11,November,2026-November,46,1,Tuesday,hiring,95.29,112.29,-17.0,84.86,High Risk
+2026-11-10,2026,11,November,2026-November,46,1,Tuesday,attrition,70.43,112.29,-41.86,62.72,Critical
+2026-11-11,2026,11,November,2026-November,46,2,Wednesday,baseline,82.86,104.13,-21.27,79.57,High Risk
+2026-11-11,2026,11,November,2026-November,46,2,Wednesday,hiring,95.29,104.13,-8.84,91.51,Moderate Risk
+2026-11-11,2026,11,November,2026-November,46,2,Wednesday,attrition,70.43,104.13,-33.7,67.64,Critical
+2026-11-12,2026,11,November,2026-November,46,3,Thursday,baseline,82.86,98.66,-15.8,83.99,High Risk
+2026-11-12,2026,11,November,2026-November,46,3,Thursday,hiring,95.29,98.66,-3.37,96.58,Low Risk
+2026-11-12,2026,11,November,2026-November,46,3,Thursday,attrition,70.43,98.66,-28.23,71.39,Critical
+2026-11-13,2026,11,November,2026-November,46,4,Friday,baseline,82.86,90.83,-7.97,91.23,Moderate Risk
+2026-11-13,2026,11,November,2026-November,46,4,Friday,hiring,95.29,90.83,4.46,104.91,Low Risk
+2026-11-13,2026,11,November,2026-November,46,4,Friday,attrition,70.43,90.83,-20.4,77.54,High Risk
+2026-11-14,2026,11,November,2026-November,46,5,Saturday,baseline,82.86,73.25,9.61,113.12,Surplus
+2026-11-14,2026,11,November,2026-November,46,5,Saturday,hiring,95.29,73.25,22.04,130.09,Surplus
+2026-11-14,2026,11,November,2026-November,46,5,Saturday,attrition,70.43,73.25,-2.82,96.15,Low Risk
+2026-11-15,2026,11,November,2026-November,46,6,Sunday,baseline,82.86,55.71,27.15,148.73,Surplus
+2026-11-15,2026,11,November,2026-November,46,6,Sunday,hiring,95.29,55.71,39.58,171.05,Surplus
+2026-11-15,2026,11,November,2026-November,46,6,Sunday,attrition,70.43,55.71,14.72,126.42,Surplus
+2026-11-16,2026,11,November,2026-November,47,0,Monday,baseline,77.43,117.5,-40.07,65.9,Critical
+2026-11-16,2026,11,November,2026-November,47,0,Monday,hiring,89.04,117.5,-28.46,75.78,High Risk
+2026-11-16,2026,11,November,2026-November,47,0,Monday,attrition,65.82,117.5,-51.68,56.02,Critical
+2026-11-17,2026,11,November,2026-November,47,1,Tuesday,baseline,77.43,112.35,-34.92,68.92,Critical
+2026-11-17,2026,11,November,2026-November,47,1,Tuesday,hiring,89.04,112.35,-23.31,79.25,High Risk
+2026-11-17,2026,11,November,2026-November,47,1,Tuesday,attrition,65.82,112.35,-46.53,58.58,Critical
+2026-11-18,2026,11,November,2026-November,47,2,Wednesday,baseline,77.43,104.19,-26.76,74.32,Critical
+2026-11-18,2026,11,November,2026-November,47,2,Wednesday,hiring,89.04,104.19,-15.15,85.46,Moderate Risk
+2026-11-18,2026,11,November,2026-November,47,2,Wednesday,attrition,65.82,104.19,-38.37,63.17,Critical
+2026-11-19,2026,11,November,2026-November,47,3,Thursday,baseline,77.43,98.72,-21.29,78.43,High Risk
+2026-11-19,2026,11,November,2026-November,47,3,Thursday,hiring,89.04,98.72,-9.68,90.19,Moderate Risk
+2026-11-19,2026,11,November,2026-November,47,3,Thursday,attrition,65.82,98.72,-32.9,66.67,Critical
+2026-11-20,2026,11,November,2026-November,47,4,Friday,baseline,77.43,90.87,-13.44,85.21,Moderate Risk
+2026-11-20,2026,11,November,2026-November,47,4,Friday,hiring,89.04,90.87,-1.83,97.99,Low Risk
+2026-11-20,2026,11,November,2026-November,47,4,Friday,attrition,65.82,90.87,-25.05,72.43,Critical
+2026-11-21,2026,11,November,2026-November,47,5,Saturday,baseline,77.43,73.31,4.12,105.62,Surplus
+2026-11-21,2026,11,November,2026-November,47,5,Saturday,hiring,89.04,73.31,15.73,121.46,Surplus
+2026-11-21,2026,11,November,2026-November,47,5,Saturday,attrition,65.82,73.31,-7.49,89.78,Moderate Risk
+2026-11-22,2026,11,November,2026-November,47,6,Sunday,baseline,77.43,55.76,21.67,138.86,Surplus
+2026-11-22,2026,11,November,2026-November,47,6,Sunday,hiring,89.04,55.76,33.28,159.68,Surplus
+2026-11-22,2026,11,November,2026-November,47,6,Sunday,attrition,65.82,55.76,10.06,118.04,Surplus
+2026-11-23,2026,11,November,2026-November,48,0,Monday,baseline,75.86,117.56,-41.7,64.53,Critical
+2026-11-23,2026,11,November,2026-November,48,0,Monday,hiring,87.24,117.56,-30.32,74.21,Critical
+2026-11-23,2026,11,November,2026-November,48,0,Monday,attrition,64.48,117.56,-53.08,54.85,Critical
+2026-11-24,2026,11,November,2026-November,48,1,Tuesday,baseline,75.86,112.4,-36.54,67.49,Critical
+2026-11-24,2026,11,November,2026-November,48,1,Tuesday,hiring,87.24,112.4,-25.16,77.62,High Risk
+2026-11-24,2026,11,November,2026-November,48,1,Tuesday,attrition,64.48,112.4,-47.92,57.37,Critical
+2026-11-25,2026,11,November,2026-November,48,2,Wednesday,baseline,75.86,104.24,-28.38,72.77,Critical
+2026-11-25,2026,11,November,2026-November,48,2,Wednesday,hiring,87.24,104.24,-17.0,83.69,High Risk
+2026-11-25,2026,11,November,2026-November,48,2,Wednesday,attrition,64.48,104.24,-39.76,61.86,Critical
+2026-11-26,2026,11,November,2026-November,48,3,Thursday,baseline,75.86,98.77,-22.91,76.8,High Risk
+2026-11-26,2026,11,November,2026-November,48,3,Thursday,hiring,87.24,98.77,-11.53,88.33,Moderate Risk
+2026-11-26,2026,11,November,2026-November,48,3,Thursday,attrition,64.48,98.77,-34.29,65.28,Critical
+2026-11-27,2026,11,November,2026-November,48,4,Friday,baseline,75.86,90.93,-15.07,83.43,High Risk
+2026-11-27,2026,11,November,2026-November,48,4,Friday,hiring,87.24,90.93,-3.69,95.94,Low Risk
+2026-11-27,2026,11,November,2026-November,48,4,Friday,attrition,64.48,90.93,-26.45,70.91,Critical
+2026-11-28,2026,11,November,2026-November,48,5,Saturday,baseline,75.86,73.35,2.51,103.42,Low Risk
+2026-11-28,2026,11,November,2026-November,48,5,Saturday,hiring,87.24,73.35,13.89,118.94,Surplus
+2026-11-28,2026,11,November,2026-November,48,5,Saturday,attrition,64.48,73.35,-8.87,87.91,Moderate Risk
+2026-11-29,2026,11,November,2026-November,48,6,Sunday,baseline,75.86,55.81,20.05,135.93,Surplus
+2026-11-29,2026,11,November,2026-November,48,6,Sunday,hiring,87.24,55.81,31.43,156.32,Surplus
+2026-11-29,2026,11,November,2026-November,48,6,Sunday,attrition,64.48,55.81,8.67,115.53,Surplus
+2026-11-30,2026,11,November,2026-November,49,0,Monday,baseline,96.14,117.6,-21.46,81.75,High Risk
+2026-11-30,2026,11,November,2026-November,49,0,Monday,hiring,110.56,117.6,-7.04,94.01,Moderate Risk
+2026-11-30,2026,11,November,2026-November,49,0,Monday,attrition,81.72,117.6,-35.88,69.49,Critical
+2026-12-01,2026,12,December,2026-December,49,1,Tuesday,baseline,96.14,124.46,-28.32,77.25,High Risk
+2026-12-01,2026,12,December,2026-December,49,1,Tuesday,hiring,110.56,124.46,-13.9,88.83,Moderate Risk
+2026-12-01,2026,12,December,2026-December,49,1,Tuesday,attrition,81.72,124.46,-42.74,65.66,Critical
+2026-12-02,2026,12,December,2026-December,49,2,Wednesday,baseline,96.14,116.06,-19.92,82.84,High Risk
+2026-12-02,2026,12,December,2026-December,49,2,Wednesday,hiring,110.56,116.06,-5.5,95.26,Low Risk
+2026-12-02,2026,12,December,2026-December,49,2,Wednesday,attrition,81.72,116.06,-34.34,70.41,Critical
+2026-12-03,2026,12,December,2026-December,49,3,Thursday,baseline,96.14,110.42,-14.28,87.07,Moderate Risk
+2026-12-03,2026,12,December,2026-December,49,3,Thursday,hiring,110.56,110.42,0.14,100.13,Low Risk
+2026-12-03,2026,12,December,2026-December,49,3,Thursday,attrition,81.72,110.42,-28.7,74.01,Critical
+2026-12-04,2026,12,December,2026-December,49,4,Friday,baseline,96.14,102.34,-6.2,93.94,Moderate Risk
+2026-12-04,2026,12,December,2026-December,49,4,Friday,hiring,110.56,102.34,8.22,108.03,Surplus
+2026-12-04,2026,12,December,2026-December,49,4,Friday,attrition,81.72,102.34,-20.62,79.85,High Risk
+2026-12-05,2026,12,December,2026-December,49,5,Saturday,baseline,96.14,84.25,11.89,114.11,Surplus
+2026-12-05,2026,12,December,2026-December,49,5,Saturday,hiring,110.56,84.25,26.31,131.23,Surplus
+2026-12-05,2026,12,December,2026-December,49,5,Saturday,attrition,81.72,84.25,-2.53,97.0,Low Risk
+2026-12-06,2026,12,December,2026-December,49,6,Sunday,baseline,96.14,66.17,29.97,145.29,Surplus
+2026-12-06,2026,12,December,2026-December,49,6,Sunday,hiring,110.56,66.17,44.39,167.08,Surplus
+2026-12-06,2026,12,December,2026-December,49,6,Sunday,attrition,81.72,66.17,15.55,123.5,Surplus
+2026-12-07,2026,12,December,2026-December,50,0,Monday,baseline,86.57,129.82,-43.25,66.68,Critical
+2026-12-07,2026,12,December,2026-December,50,0,Monday,hiring,99.56,129.82,-30.26,76.69,High Risk
+2026-12-07,2026,12,December,2026-December,50,0,Monday,attrition,73.58,129.82,-56.24,56.68,Critical
+2026-12-08,2026,12,December,2026-December,50,1,Tuesday,baseline,86.57,124.52,-37.95,69.52,Critical
+2026-12-08,2026,12,December,2026-December,50,1,Tuesday,hiring,99.56,124.52,-24.96,79.96,High Risk
+2026-12-08,2026,12,December,2026-December,50,1,Tuesday,attrition,73.58,124.52,-50.94,59.09,Critical
+2026-12-09,2026,12,December,2026-December,50,2,Wednesday,baseline,86.57,116.11,-29.54,74.56,Critical
+2026-12-09,2026,12,December,2026-December,50,2,Wednesday,hiring,99.56,116.11,-16.55,85.75,Moderate Risk
+2026-12-09,2026,12,December,2026-December,50,2,Wednesday,attrition,73.58,116.11,-42.53,63.37,Critical
+2026-12-10,2026,12,December,2026-December,50,3,Thursday,baseline,86.57,110.48,-23.91,78.36,High Risk
+2026-12-10,2026,12,December,2026-December,50,3,Thursday,hiring,99.56,110.48,-10.92,90.12,Moderate Risk
+2026-12-10,2026,12,December,2026-December,50,3,Thursday,attrition,73.58,110.48,-36.9,66.6,Critical
+2026-12-11,2026,12,December,2026-December,50,4,Friday,baseline,86.57,102.4,-15.83,84.54,High Risk
+2026-12-11,2026,12,December,2026-December,50,4,Friday,hiring,99.56,102.4,-2.84,97.23,Low Risk
+2026-12-11,2026,12,December,2026-December,50,4,Friday,attrition,73.58,102.4,-28.82,71.86,Critical
+2026-12-12,2026,12,December,2026-December,50,5,Saturday,baseline,86.57,84.3,2.27,102.69,Low Risk
+2026-12-12,2026,12,December,2026-December,50,5,Saturday,hiring,99.56,84.3,15.26,118.1,Surplus
+2026-12-12,2026,12,December,2026-December,50,5,Saturday,attrition,73.58,84.3,-10.72,87.28,Moderate Risk
+2026-12-13,2026,12,December,2026-December,50,6,Sunday,baseline,86.57,66.23,20.34,130.71,Surplus
+2026-12-13,2026,12,December,2026-December,50,6,Sunday,hiring,99.56,66.23,33.33,150.32,Surplus
+2026-12-13,2026,12,December,2026-December,50,6,Sunday,attrition,73.58,66.23,7.35,111.1,Surplus
+2026-12-14,2026,12,December,2026-December,51,0,Monday,baseline,87.29,129.87,-42.58,67.21,Critical
+2026-12-14,2026,12,December,2026-December,51,0,Monday,hiring,100.38,129.87,-29.49,77.29,High Risk
+2026-12-14,2026,12,December,2026-December,51,0,Monday,attrition,74.2,129.87,-55.67,57.13,Critical
+2026-12-15,2026,12,December,2026-December,51,1,Tuesday,baseline,87.29,124.56,-37.27,70.08,Critical
+2026-12-15,2026,12,December,2026-December,51,1,Tuesday,hiring,100.38,124.56,-24.18,80.59,High Risk
+2026-12-15,2026,12,December,2026-December,51,1,Tuesday,attrition,74.2,124.56,-50.36,59.57,Critical
+2026-12-16,2026,12,December,2026-December,51,2,Wednesday,baseline,87.29,116.17,-28.88,75.14,High Risk
+2026-12-16,2026,12,December,2026-December,51,2,Wednesday,hiring,100.38,116.17,-15.79,86.41,Moderate Risk
+2026-12-16,2026,12,December,2026-December,51,2,Wednesday,attrition,74.2,116.17,-41.97,63.87,Critical
+2026-12-17,2026,12,December,2026-December,51,3,Thursday,baseline,87.29,110.52,-23.23,78.98,High Risk
+2026-12-17,2026,12,December,2026-December,51,3,Thursday,hiring,100.38,110.52,-10.14,90.83,Moderate Risk
+2026-12-17,2026,12,December,2026-December,51,3,Thursday,attrition,74.2,110.52,-36.32,67.14,Critical
+2026-12-18,2026,12,December,2026-December,51,4,Friday,baseline,87.29,102.44,-15.15,85.21,Moderate Risk
+2026-12-18,2026,12,December,2026-December,51,4,Friday,hiring,100.38,102.44,-2.06,97.99,Low Risk
+2026-12-18,2026,12,December,2026-December,51,4,Friday,attrition,74.2,102.44,-28.24,72.43,Critical
+2026-12-19,2026,12,December,2026-December,51,5,Saturday,baseline,87.29,84.36,2.93,103.47,Low Risk
+2026-12-19,2026,12,December,2026-December,51,5,Saturday,hiring,100.38,84.36,16.02,118.99,Surplus
+2026-12-19,2026,12,December,2026-December,51,5,Saturday,attrition,74.2,84.36,-10.16,87.96,Moderate Risk
+2026-12-20,2026,12,December,2026-December,51,6,Sunday,baseline,87.29,66.28,21.01,131.7,Surplus
+2026-12-20,2026,12,December,2026-December,51,6,Sunday,hiring,100.38,66.28,34.1,151.45,Surplus
+2026-12-20,2026,12,December,2026-December,51,6,Sunday,attrition,74.2,66.28,7.92,111.95,Surplus
+2026-12-21,2026,12,December,2026-December,52,0,Monday,baseline,98.29,129.92,-31.63,75.65,High Risk
+2026-12-21,2026,12,December,2026-December,52,0,Monday,hiring,113.03,129.92,-16.89,87.0,Moderate Risk
+2026-12-21,2026,12,December,2026-December,52,0,Monday,attrition,83.55,129.92,-46.37,64.31,Critical
+2026-12-22,2026,12,December,2026-December,52,1,Tuesday,baseline,98.29,124.62,-26.33,78.87,High Risk
+2026-12-22,2026,12,December,2026-December,52,1,Tuesday,hiring,113.03,124.62,-11.59,90.7,Moderate Risk
+2026-12-22,2026,12,December,2026-December,52,1,Tuesday,attrition,83.55,124.62,-41.07,67.04,Critical
+2026-12-23,2026,12,December,2026-December,52,2,Wednesday,baseline,98.29,116.23,-17.94,84.57,High Risk
+2026-12-23,2026,12,December,2026-December,52,2,Wednesday,hiring,113.03,116.23,-3.2,97.25,Low Risk
+2026-12-23,2026,12,December,2026-December,52,2,Wednesday,attrition,83.55,116.23,-32.68,71.88,Critical
+2026-12-24,2026,12,December,2026-December,52,3,Thursday,baseline,98.29,110.58,-12.29,88.89,Moderate Risk
+2026-12-24,2026,12,December,2026-December,52,3,Thursday,hiring,113.03,110.58,2.45,102.22,Low Risk
+2026-12-24,2026,12,December,2026-December,52,3,Thursday,attrition,83.55,110.58,-27.03,75.56,High Risk
+2026-12-25,2026,12,December,2026-December,52,4,Friday,baseline,98.29,102.5,-4.21,95.89,Low Risk
+2026-12-25,2026,12,December,2026-December,52,4,Friday,hiring,113.03,102.5,10.53,110.27,Surplus
+2026-12-25,2026,12,December,2026-December,52,4,Friday,attrition,83.55,102.5,-18.95,81.51,High Risk
+2026-12-26,2026,12,December,2026-December,52,5,Saturday,baseline,98.29,84.4,13.89,116.46,Surplus
+2026-12-26,2026,12,December,2026-December,52,5,Saturday,hiring,113.03,84.4,28.63,133.92,Surplus
+2026-12-26,2026,12,December,2026-December,52,5,Saturday,attrition,83.55,84.4,-0.85,98.99,Low Risk
+2026-12-27,2026,12,December,2026-December,52,6,Sunday,baseline,98.29,66.33,31.96,148.18,Surplus
+2026-12-27,2026,12,December,2026-December,52,6,Sunday,hiring,113.03,66.33,46.7,170.41,Surplus
+2026-12-27,2026,12,December,2026-December,52,6,Sunday,attrition,83.55,66.33,17.22,125.96,Surplus
